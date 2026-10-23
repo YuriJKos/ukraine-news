@@ -1,135 +1,42 @@
-#!/usr/bin/env python3
-"""Fetch Ukraine-war news feeds server-side and write news.json.
+name: Update headlines
 
-Runs in GitHub Actions, so there is no CORS problem and no API key in the page.
-Edit FEEDS to change sources. Standard library only.
-"""
-import html
-import json
-import re
-import sys
-import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
-from urllib.request import Request, urlopen
+on:
+  schedule:
+    # Every 30 minutes. GitHub may delay this slightly under load.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["news.json", "README.md"]
 
-# (display name, feed URL) -- swap in whatever sources your page used before.
-FEEDS = [
-    ("Kyiv Independent", "https://kyivindependent.com/news-archive/rss/"),
-    ("Ukrinform", "https://www.ukrinform.net/rss/block-lastnews"),
-    ("Ukrainska Pravda (EN)", "https://www.pravda.com.ua/eng/rss/"),
-    ("BBC Europe", "https://feeds.bbci.co.uk/news/world/europe/rss.xml"),
-]
+permissions:
+  contents: write
 
-KEYWORDS = None  # e.g. ["ukraine", "russia"] to filter generic feeds like BBC
-MAX_AGE_HOURS = 24
-MAX_ITEMS = 100
-OUT_FILE = "news.json"
-UA = "Mozilla/5.0 (compatible; ukraine-news-bot/1.0)"
+concurrency:
+  group: update-headlines
+  cancel-in-progress: false
 
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-def local(tag):
-    return tag.split("}")[-1]
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
+      - name: Fetch Google News RSS
+        run: node scripts/fetch-news.mjs
 
-def parse_date(text):
-    if not text:
-        return None
-    text = text.strip()
-    try:
-        dt = parsedate_to_datetime(text)
-    except (TypeError, ValueError):
-        try:
-            dt = datetime.fromisoformat(text.replace("Z", "+00:00"))
-        except ValueError:
-            return None
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return dt.astimezone(timezone.utc)
-
-
-def clean(text, limit=300):
-    text = re.sub(r"<[^>]+>", " ", text or "")
-    text = re.sub(r"\s+", " ", html.unescape(text)).strip()
-    return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
-
-
-def parse_feed(xml_bytes, source):
-    root = ET.fromstring(xml_bytes)
-    items = []
-    for node in root.iter():
-        if local(node.tag) not in ("item", "entry"):
-            continue
-        fields = {}
-        link = ""
-        for child in node:
-            name = local(child.tag)
-            if name == "link":
-                link = child.get("href") or (child.text or "").strip() or link
-            elif name not in fields:
-                fields[name] = child.text or ""
-        published = parse_date(
-            fields.get("pubDate") or fields.get("published") or fields.get("updated")
-        )
-        items.append(
-            {
-                "title": clean(fields.get("title"), 200),
-                "link": link,
-                "summary": clean(fields.get("description") or fields.get("summary")),
-                "source": source,
-                "published": published,
-            }
-        )
-    return items
-
-
-def main():
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-    collected, seen, failures = [], set(), []
-
-    for source, url in FEEDS:
-        try:
-            req = Request(url, headers={"User-Agent": UA})
-            with urlopen(req, timeout=20) as resp:
-                items = parse_feed(resp.read(), source)
-        except Exception as exc:  # one bad feed must not break the rest
-            failures.append(f"{source}: {exc}")
-            print(f"WARN  {source}: {exc}", file=sys.stderr)
-            continue
-
-        kept = 0
-        for it in items:
-            if not it["link"] or it["link"] in seen or not it["title"]:
-                continue
-            if it["published"] is None or it["published"] < cutoff:
-                continue
-            if KEYWORDS and not any(
-                k in (it["title"] + " " + it["summary"]).lower() for k in KEYWORDS
-            ):
-                continue
-            seen.add(it["link"])
-            collected.append(it)
-            kept += 1
-        print(f"OK    {source}: {kept} items in last {MAX_AGE_HOURS}h")
-
-    if not collected:
-        print("ERROR no items fetched; leaving existing news.json untouched", file=sys.stderr)
-        sys.exit(1)
-
-    collected.sort(key=lambda i: i["published"], reverse=True)
-    for it in collected:
-        it["published"] = it["published"].isoformat()
-
-    payload = {
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "window_hours": MAX_AGE_HOURS,
-        "failed_sources": failures,
-        "items": collected[:MAX_ITEMS],
-    }
-    with open(OUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(payload['items'])} items to {OUT_FILE}")
-
-
-if __name__ == "__main__":
-    main()
+      - name: Commit news.json if it changed
+        run: |
+          if [ -z "$(git status --porcelain news.json)" ]; then
+            echo "No change; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git commit -m "Update headlines"
+          git push
