@@ -1,21 +1,119 @@
 {
-  "generatedAt": "2026-10-25T14:31:35.494Z",
+  "generatedAt": "2026-10-25T18:16:56.083Z",
   "source": "https://news.google.com/rss/search?q=ukraine+russia+war+when:1d&hl=en-US&gl=US&ceid=US:en",
   "windowHours": 24,
   "count": 60,
   "items": [
     {
-      "headline": "Trump’s Russia Policy Divides Republicans as Democrats Eye Midterm Gains",
-      "publisher": "Kyiv Post",
-      "date": "2026-10-25T14:03:45.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Pb1VPVVdmRVhUcTVQVThOZWJROUtQLVZSaVY5TUYtZEJNd0VGWVpoWGJPTXdDTy1pMWktY3dEM3pwV1p1eVlTUTlFcGtFT2hY?oc=5",
+      "headline": "Bulgaria elects a president: leading candidates hold differing positions on Ukraine",
+      "publisher": "LIGA.net",
+      "date": "2026-10-25T17:07:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmlab1JTeDI5RU1iTUZWWDNxMkJ5T3ZSV3Zfa1ZUSTJMc1puX2l3Ukk4VllQR3VOQmo4ajNIZ3JWckQwQjd0R2JRdXNJdklZdDI5Y1pSbnh2MEtXZ2hRaGgzWklhX05wRHZyaFkySDJkbDlfMjVBeG9HVHNMaUNWNGpJX0pZSF9PcjVPWW11LUs0d3FYRkVRUTR5Mnc2N1huR3pXT0xuSVpJZF9MVWFuU25PVDNHcjAxRmfSAb8BQVVfeXFMUDB5amJxaUt2WUhjQWRnOXRTYnlpQlV6bE5POExxMWZ6RmMyX3AwWlpHRlFvc1d6RGpiZnJ3WGNGZE4zUGV3T19VU0Z1YUJXbWI1ZV9KRW9jeHF4MUs5ZjBoSzRYVUlnS3UwTjNtN2puREdBTlJaQ3ZROGR5c3pMN2p1by1teUpUNkRINjhaLWJFZ05wUVRGUGJfVFVHQkgwckxqNGt5RThudHI4YlRFMFQxdjJadVVXQ0s2TGFvaUE?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
+      "publisher": "Dawn",
+      "date": "2026-10-25T16:38:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnFDY3FkWC1ZOXR6d01ES2VXZXZfUWtTSGJwMzRWZVNTcGpZT1pSd2hNc1hsN0lWWklxT0xkN1I0WExheHJuT2FzdUNwOG5IckpQMVlYc1pwdDNhUjRHdUNLME5lSW4xNmZVYnJhVUN3VXhlYUNhaS1pZ2gwQzgxQUxORU82ZTVzaWxyRmYxNFlOM1RWYTAtNG1lTUpnZjRIUHlSSnNSOUUxbGM?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+      "publisher": "CTV News",
+      "date": "2026-10-25T16:21:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNam1hdlRSTUxESFpXR2JsUGtJd1ZoamFYRTRjZ0dvdmFMYXJpREwzVVo4dUE2cDNMdTEzNno0UU1yNWFfZ1FsU2xPSjRWMlVIZHoxLTJMV0NTY1ZydmdBWXFINjhkRlpmVXBpR1NkcFRsejhnakN2Uk42Z1gtMldMRndkS2RKVWNsdjVFTklad3UwY1NOX0ZEMUd0NVlXUF9ZN3JoZlZNRE9nTGQ5QS1OVm5mV20xekkwaWtjaS1mRm1CbVpaQ3lHZVpBVWlKRkctZ0lPMy1nN2NZeW9n?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "How Trump’s Hero Winston Churchill Would Handle Putin and Ukraine",
+      "publisher": "Newsweek",
+      "date": "2026-10-25T16:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeHprNDhmMGp3N0pKeVZEQ2VmU3FGSDFRc3pwdUlBS3pHVGp6TVZCRHRBZm9ld25ONW9DRWtfZXE1UW5lUTdja3haNUdoNy0ybW9fai1pdjNheENqRHZIR3BNa2xsZVgtQ2tldnQtbTBJaEhjaDdfZHM5ZnpkVjFqcW12TVNsZkNqaFI0aWZB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
+      "publisher": "The Moscow Times",
+      "date": "2026-10-25T16:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVF0dmthTVNxcS04NVdHTTJQdWZsNVJjZUh2MVVGMDFSaEtaX3FNcElXdlY0UG03SVpJa01LUzFGSWFJWldrWkVEcjdFVFVTaGRMMEVfRnhCeE1qcjllT09Db0hKV0xoM19XY1l4X1doVGJSc1JGaVcxa0dSRGNaMGh5bWtSNGw4Ym81bFNNb0h2UG8tRGhxd3lxV2RBbmk1eEpDanAweUkzV0hqTEctcjl4MmxFNEZ6MldYOTg3Nk0?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms",
+      "publisher": "NBC News",
+      "date": "2026-10-25T15:31:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXBvdGNZdU9CMWpZMWZsSUhGekE3Wkg2M1JVSDlYRTlQM1BTVjRqNGVfbl9vbThtRnh0TXA1eUxOdWhoRDNicXRmVkJ6aVlRdkRaM2tESVg5R1gyRFFzWlZFMXpmcXNmTjlrdmd0Z0JmVDZDTnk2VEdvN3R4WktndktYdG03SmNReDJaN1R5UzNZdTk2LTRGb2lUaDZTQUtmSmlHRGNQQjdJZXJoR0NBdEpWd0VnQQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Moscow to Host 2030 World Weightlifting Championships, IWF Says",
+      "publisher": "The Moscow Times",
+      "date": "2026-10-25T15:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGZTSm5BWEdpMWRZb2xVNXJZSXk3a0JBdE40SWwzSlRIcVdBODdUTDBEUzl0YkNfMWZ2QVowVUdvTk4zODZaazNIWHlHdl9PODItSldZSWxTUHZOek1TdjZ4YTY5c2wwcllldjhZLWdaZzNFbVUxVENYSXZ5Y3FHRDNNODF6ZVQ0Ry1rd0VubEdvbmtBc0NGRF8wbkV6NXVYem1jOEtqX1lOMFI2NENtTQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Instead of earning money—war against Ukraine: three countries demand that the Russian Federation return their citizens",
+      "publisher": "Українські Національні Новини (УНН)",
+      "date": "2026-10-25T15:25:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUdmWnV0dWRUVU45aDVGU3NOOWpscUtqekRkR2dfTWxDM0IyTFN5cGxVM1RWWElUVmp0NTBWeUJreXliM1FDVDlXWmNFNmhtVHJKbUZNZm9rN2xqUlBJZWRhOHhXLUhWVDJXNU5nd3BGSWludGtVMkltY3hjWTBnSDBSU3BiZTNfSXJiSU4yZ1g3UVFqNDA3ZHlyd3ZEdFd4Z3Y4TEd5SEllSmxXSHJPOHRqbFFBUTZtWS1RZktISDg2OUwzcGIzanp0WmdNM3p6RFh6RFJB0gHUAUFVX3lxTE1URmlpUDZ2ZlRGMS00bDM0cnczaHk3UGlqZUxoWVpULVRFbXUyRElVQWtBUTBIM1NSZGpXa2JnMUc5c1dld1Z5UTJnaXhzZUpWMFBPblV2M3liSzI5U0prVjZoMjBEeDdoSEUwNG93eUxPbHg1ejR6UUZ5MnJTdWh1N0hxbU94YUpyX1prY2NDWC1QTnpYRnIweFFNcUozaHhkdlR1MjBWYXkycXhYVlBiYng4QU1iWTdyN0hQR3NVenZoTV8zOUtLcmM4SFdTbFhMbFdR?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "For the first time since the start of the war, Russia has allowed a foreign representative to visit Ukrainian prisoners of war",
+      "publisher": "UA.NEWS",
+      "date": "2026-10-25T15:19:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXI2OW1xOG92aUwzdEZnTGowZEdmWktjZHNXT0FhaElHeHVVSWwwcmRKNVBSdndILXNCd0VOa0RtZzJkQmxtT0Q4SjVLZUZrNVZLRGVGYjlWX19DTDlLT3VJMW5nc2NTUjZkZGd2N2NORUhjS19FOHNZakIwOEc4UGtVb0V3STZncVA0UnBzZEQzVzVWR1VnTDJOVm1lQTgtZHJaVDRvTUNySHBSa0pQQUQ2bGhWRl9RMjFZ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "From 40% to fully Indian: WB Group VP on transfer of technology for Ukraine-Russia tested drones",
+      "publisher": "BusinessLine",
+      "date": "2026-10-25T15:17:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORV9aaTg4T0FsMFF2dkNIQzlVNHQydnAtZFhTenpNRWhqMm5mSDQ3b2dza2VYemlpdmRvU21YYXk5RVIyMjdBTXBMZGF4enJFNG1LSU9pQWVVMTkwaVlTbnZRV3FadGlyeFhBVmRUTXNvM2FxdG9YbzJJYUlMUjJZVGRjN2FrLTZDQ2VYQWJqQ3NtWU5xNTBFVTAwQ0g3QkFJSTV5eTVfRFFHWG9BUVFFUVN2cVhCT0hmemRJTDlsdWFpNlFCZXM0TmtabE5vcGZSXzViME1CRnoxY3VteUtIWjZvQ0JoTGFzVWI2bVFaT3RRNzBvZ0s2ctIB_wFBVV95cUxOMXVDcE81NXAyMjFkd3JqMTk0eWdBNVQ5cUllVFFLaHJRUFV6Yi13aE1MY1JVNEVmSWJxZjFNNmVBS05mVHA0TUdNQkV5VUxJbTZlbHJsOWNaSmhOZnV3bkpjUmJiMFdHWTQxZ2w5MG52Zzgta3pCOHdtRFgxODc2b1ZDM1kyWjNWYUN0a0swSGQtQlk5XzhDa0JKa1JLTWNZRTUydVN0TWU4bUpzdTRTYXpvNjkzc1lzZ0daOUV6R0JvNGZKSERFSVE2TVp5YW43Ti1ORkw2Z1JYaGd0RDYwb0s3R1ZuN1MtWEJnMDNGS2xBalptSnZfUkVxeHJkVDg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "In less than 24 hours, Russia hits 4 hypermarkets belonging to one of Ukraine's largest retail chains",
+      "publisher": "The Kyiv Independent",
+      "date": "2026-10-25T15:15:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUJIRU84bGx5cWp6d0g1bDVaZUdpREJSZDhWelVFZ0lnelhONzRJRXl6WmJSanBiNVRjN0JxcVN6WWF6NnVtcFlla1VRLUpUTmZ5bnNEQ2pEWXpnRFhhQV9pVU95ODNsLTFkRTVzWFNGeUM3a3ZxSFNkUTRQQ0MtQW5GSEY2RW1wM2trSXBXMzdPN3pLUWdxMWZuMlk1ZXlSUXlYcmdpNmwyd0RXZFJkNS1WbDh4ZndjT2stRUM1OFNRX1F2ZmpB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia and Ukraine: war and money - IntelliNews Lambda",
+      "publisher": "IntelliNews",
+      "date": "2026-10-25T15:13:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmJHUEpBTEk3dVVqVnIycHNteTJQV3JsNmpSR0lpVVFzcG00YUJBOFVmWTlfbGpGMFl2TzFzQmhIaHJqZU00YnZzMjVLOHF3RUtjRGxqemJRR0E1Nl83ZU1aVjBicXBUeV9JLUlHY2RHZE5PT3NyUzlFd3oyZUk3YVUwWElqQkl0UURIczlfVmMtMGNHUThYOEFydUM5TzIzVzU0?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Missiles Reportedly Hit Russian Factory Powering Iskander and Kinzhal Missiles",
+      "publisher": "UNITED24 Media",
+      "date": "2026-10-25T14:44:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk9CQXRUbDBSVWVSUjdWUEZDWUcySkNnencwMTZQMTdFRWs3VVlKbnAzOTFjZmU4ckZZZjloNnNzeUdkbk5aX1ZNeWRXNlJ5b0N6djE5eUd5bDZ0SWItZHh1bzh2M3lmUmJfVmRLRTBGNE40WGVhYlJ6Y1JYUHFXOHNGUW5OU3hTcHlIUkoxZ255dVF1UG1JM1p4ZEtDQ2FTcF9wM0V0RmpGdHlOdzRRaGNOV3BNM1VJUlU3NVg1LUVqcTg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Kremlin admits US failed to secure concessions from Ukraine, signals need to involve Europe",
+      "publisher": "Rubryka",
+      "date": "2026-10-25T14:20:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96LXhqSWFnaUR0VHlzOXVKeW5HZWpCM1ZZR2Q4X242M181NzdRMW9HQnRGLWNZNmRFcUxKcTFhQmxkcXNvc0hSR1ROWjhyZVNCQzNaYUpfaFBHcS05UlhJeXJrUVVwZzI5eDdr?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russo-Ukrainian War – Day 1704: Starlink is up and running again",
+      "publisher": "Ejércitos",
+      "date": "2026-10-25T13:59:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9lQ3dpUkpPY3NGWnplb1M1YVczZU5XVlFYNVpFem9MUjFuRWUwbUpYSlpqX1daQWVjOXl2M1RjNnFlR212ZW5VSVFlU3JPekhrVTlHZkNrb1hZbkg4aHpyejI2dVBBaDZtSHlWai1NMDd4TTNTTURuLWhTX21YQUZnN1k2aUNfY0t5TkRoQW5UcTFCdnc?oc=5",
       "summary": ""
     },
     {
       "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
       "publisher": "Audacy",
-      "date": "2026-10-25T13:55:10.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWVuNWRFdXB3VEN4ZnVwRUZac3BpN1VjUXhLOGN3cnB3bDBicWRGeEYxQnRVTjkxRHQ0Qk1DVDB5MHZqMmdNWDNMeTFWVGxsV0ZsQkU2TlN1Z21OaldBMkNGaGJTdVQwUVJPZEZ4YURFSmFXUDFnUUJYekd0VkwzYmszWTg2QldoNVlxU3h4VF9XQkc2SWR5QTh0dXI5d1gzZ0JvODJrcTRxRFdBak96OHJ4c2dvQWwyaTNwQ1J0OUZpQUVhV1E?oc=5",
+      "date": "2026-10-25T13:53:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVZuWGZwYmlGc0k4RnBsNFdiNUF4NmgxY3VmS0treXNlSGlzc1puVkVXNkxLbWk2Y3RoU2ZRbFRFMVVaeDVHR21BU0tJVUc0TnNQdVdxQ0d6eWFCTjU0Y0UzZkpwdDFoTkxzWGZiN2c2dkcxbFROMWViOTJPcVB0a21fMnl6STVmWHl5NnhlWVQxLWNKTG1Ed2Zzd1RNU04tNWRiamlhYmVfRDlMRVE3N2RlMFdNS0xGaGgtYWE3NG1pTlFwZWdwVnhn?oc=5",
       "summary": ""
     },
     {
@@ -34,23 +132,9 @@
     },
     {
       "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-      "publisher": "The Killeen Daily Herald",
-      "date": "2026-10-25T13:40:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTXQ1RVVnQnlfRi0zNWNycG81S2JHRGxZM2lvRXRrVHpzWk9vbTY1RDZzYXNvQVpQTlpDb0V3YXB2Z2JaaTFBc0pEWUtVQlY5OEtXZWhuM1ZfOHppQXg0TEh5bEViUERrelozODNFX2FveS1YSy05emdGeHE5N1FxNjlSd0loNVo1YlJWRElTMER4OGgzT2JEc0d3Sml0VklOWmJqRGJXeUhyR0dCTzJvdG1aendTekFHMHBHWlZrZEkwektPM3ZITUhiUWs2OXBZV1ROaGVXRnFsVUo2QWVkcWlIRkhkV2JLTEVEZGFzdi1pN0VIOHhxVjMzM28?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
       "publisher": "Traverse City Record-Eagle",
       "date": "2026-10-25T13:40:02.000Z",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLUVGYXpGb0Q3aEhWUFV1VHZtZXZ4bklQTmhnOTNZWUIzMUZpYXRBY1VNX3NLTTNrWGxKcXhSYmNndm9zNWhxRXBOd3ExYnVjVlFRRXRTd2lSRnNlckl0djJMYWtpbVhvaHd5al9vOHBEVGpweUJrcVo5M1dqblZuclRsdHlBSklSY0Z3Z1hzeVRFWWlJeUpLSmZ0VUdYYXc0SEFXUDlWdmFuOTNHMDRYMGtmMS12T3BsUzlmMmlOWmJhU0lvVDRTanUtTFBHTm1BU2lwYWhhbE5fSWRXT1JPaFFIOTFRRlRaLVVXb0NBeWdjbWRNSGVDTWJfMzZfdjQ3UlF3QXR0NmJGUQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukrainian Attacks Kill 4 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
-      "publisher": "The Moscow Times",
-      "date": "2026-10-25T13:40:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzEwWmhqVTcyLVRXOVcxSU0zd2Q2am5ucWRlVG9yaGNIUUw1NUNRZDRfTHNzWkF4dTlXVkJjQURnM1NFRmdhVG1LRGozRmpscWoxTEFFYXVDdXNzODljaWhrdkxyQVBhSzlRSE5BM1hTUi1OZkJmMnBzYW15Ni1YY2NsRF9SUTJfZVVrZmFKNm1QTmFYSWpfaUppSkxxeTdITHREdWJ6Q2J6NTdkWmY5WFcyWTZrMTVEcDF4Ni13R2s?oc=5",
       "summary": ""
     },
     {
@@ -96,6 +180,13 @@
       "summary": ""
     },
     {
+      "headline": "Trump-Zelenskyy rift deepens over Ukraine’s strikes on Russian energy infrastructure",
+      "publisher": "Firstpost",
+      "date": "2026-10-25T12:48:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVc1dXJuODlwX29YQ09VUE5pbkhIai1TR2RacFlKR1ZOdHQtVE1jM1BGX0ZUdF9jMVctalk4NFVQQS1yN0NBUmJaeFVzeW9LZnV1ZV9JOGJMbVhWMWxOZlFiQU8yX0E2QzJkdl9OUG1Md1ZCcW83aXJlMk0zNTYzbjFUc0JrUkgzQTk5b0hZWkNlbk5wX2VmMlQ0U2dzX3JudE9nSzNxU2JLVmgyNmJmVmkyQVhLXzh6MUVtYzB6ZTJSTThJMjYyR2w0ZkpYUdIBzgFBVV95cUxOZVc1dXJuODlwX29YQ09VUE5pbkhIai1TR2RacFlKR1ZOdHQtVE1jM1BGX0ZUdF9jMVctalk4NFVQQS1yN0NBUmJaeFVzeW9LZnV1ZV9JOGJMbVhWMWxOZlFiQU8yX0E2QzJkdl9OUG1Md1ZCcW83aXJlMk0zNTYzbjFUc0JrUkgzQTk5b0hZWkNlbk5wX2VmMlQ0U2dzX3JudE9nSzNxU2JLVmgyNmJmVmkyQVhLXzh6MUVtYzB6ZTJSTThJMjYyR2w0ZkpYUQ?oc=5",
+      "summary": ""
+    },
+    {
       "headline": "How did Starlink, Starshield restrictions disrupt Ukraine’s drone warfare?",
       "publisher": "The Indian Express",
       "date": "2026-10-25T12:31:31.000Z",
@@ -110,24 +201,24 @@
       "summary": ""
     },
     {
-      "headline": "Ukraine war divides Bulgaria as voters elect president",
-      "publisher": "France 24",
-      "date": "2026-10-25T11:52:55.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0tfTXZ4ZjhwOVFUdkMyT08xekNpT2ppT0thbE5iUHdpLTRqQ3NjaEdab2dGSEZCbkp1eU1wTWFDaEpwVGpURzM1djJHSmx1NWpOcU1ncHJma2VHVUVTQVc3MnRHMnhIa1Y0MmgyZUp0ZXJtVFZVUXZ3cXJOVXh6UF91S2dvX1k5UlZRTUJfQ210ODlCZzRsNmlXRFNudFhrSi1r?oc=5",
+      "headline": "Trump’s Russia Policy Divides Republicans as Democrats Eye Midterm Gains",
+      "publisher": "Kyiv Post",
+      "date": "2026-10-25T11:55:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TNlpyZlZwc2tzS3pOVGZmMEdJMlVMMFlNaWFZVHIzeW5GMXNVbzdCV2RGVWFtZkJJa2EyVTlpa2c5aWpVbnhDcUNtRl9IcHM?oc=5",
       "summary": ""
     },
     {
-      "headline": "Ukraine strikes Russian titanium plant more than 1,400 kilometers from border, monitoring channel claims",
+      "headline": "Ukraine war divides Bulgaria as voters elect president",
+      "publisher": "RFI",
+      "date": "2026-10-25T11:53:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZXVINlRYVnFSUVhlTlNHbm5RdV82NTdxWS13cjI0MERWQnRTZDhGUi1YM1pzZW10aVpDYjlWbUx5UGlsWGIzQ0tlSXdSWmxSSlk2RUNER2ViY2lpMWpEVFFlOHlpTGI0Z0lhNUZnQ2RWTXRpTUpjQU91MF9uczJmeWxUSDdobFNkSS1RVlBFY19rVGhRM196SlF5T3lVb2tiUF94emZhZw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine strikes Russian titanium plant, facility producing missile, drone components, monitoring channels claim",
       "publisher": "The Kyiv Independent",
       "date": "2026-10-25T11:48:05.000Z",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmpkU2FzV0dwQWd4UTBFdnhuVU5ucTdvNWJOQXM2S2x2M0VLUmJJTHdFVDNIRHBVZnU0di05WmlFTm9wcVN5djZJdHFXSXhzaG9GVUVrSmNvVHUyUVJOQUd1UUVJQ3FSRmNrOGxVSGIyb2FrUm51VUxfTV9HS19RT3VaUlAxd2NjMWhVMC16OGZJMnFUNmZXNl9YaUk1U2U1Q1kydFh5OHdZbFBpRmNOa3dPdnp6eXNIclM1T2E1eTZ6cnVFLVZXUVJ0U0M?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-      "publisher": "KTVN",
-      "date": "2026-10-25T11:43:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPd21iQjM3WHE3UVhUQko5TW5Uc0VSaVhJNlUzYW9sUVpEMVRPM1BMTERtb3NHamZkcFZaaHFxWUxaOWVaME51c241dndQYkJ4bG9paWo3UHM3cTdoSXpWclV6QlBEQkMzRFJSaFhEbFdTSnJDSXJhalplQjl1YUJTQ1d4bzEwUmN0ZDZ1RHNvREpKUWFHalBIVjJBaU9MSklmLXBRM3Z2eXptblZUZDBJaWJ0YjB1cC1fSXk5bDYxUnpnbHBTbnMwM21WX2VMbjlRUXJVLVlUQmFHdkdLVGROanI0c2c5d24wRjAtYV9xWmV4TXJqT2NwOXBiSWtZTThsX0E?oc=5",
       "summary": ""
     },
     {
@@ -135,13 +226,6 @@
       "publisher": "UNITED24 Media",
       "date": "2026-10-25T11:25:14.000Z",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakhPZEQ1aG9aNVpMeTNmbGZ5YmxsSmtQbDFBSHFyLWRsTUJ4OElPdHROYVRUYTNMaDhpa2ZkRGdRMzN3UGthV3hjUlNwdV83R1RzYWZoSVNWUXVvMXNJZ19nRjFkVjBEdmp3R1A3MVdLSkxrQjZzU1VKWTdndV9CcnZJekhRUkNlcUZHOUJqRm5pMXlPMHdDalpjZUF6WXo5RHNXRk5VenR4NXozNWZyQWg5UnJUUWVEbkltQlZTQWtvSm92aUE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Melania Trump brokers ceasefire deal in occupied Ukrainian city",
-      "publisher": "1News",
-      "date": "2026-10-25T11:24:46.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlFVcWJIMFoydnl0Uk5BaWNtZnBydS1Ob1A5WElMWDhGcnR0enBkckZCSzBDSVBEa0g1a01vOEtGWklWdE1Ra1k4UUVvY0tOc1RiTU81cUI5cVlCLWdTcTdXUmQyeGlydHFYWDVHb3JwY05yN0QtNVdHV3VScmR1ZlVhMVVnZEtjY00wQzF5YldheWtybW9JXzU3S1Mtd2xr?oc=5",
       "summary": ""
     },
     {
@@ -180,13 +264,6 @@
       "summary": ""
     },
     {
-      "headline": "Putin Real Gains Are 45x Less! Glen Grant — on Ukraine’s Breakthrough in Operation Vivaldi",
-      "publisher": "uatv.ua",
-      "date": "2026-10-25T10:20:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOam8taFpZamxEWW1WVXNTUEZhZWJOV0FvSE1udTNaUkcwQTBFb1pxOGNpNlpza2VsYndHaVBSbWphaDlTV0tXdzVQQlRYSTdVcXpXZ1ZmVlA2a1lNU2RMU0tlMmpJakQ5eG55VTRSa192UHdmUDM0WlJjQ2lMODZvTldnWHRwXzhIWlhucl8wRVR6VVVPTm1McFRfVE1xR1AtWV9namFjTXVRUUk?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "Russian Victory in Ukraine Is Far From Inevitable, ISW Report Finds",
       "publisher": "Homeland Security Today",
       "date": "2026-10-25T10:19:18.000Z",
@@ -202,9 +279,9 @@
     },
     {
       "headline": "Russia Ukraine War",
-      "publisher": "GazetteXtra",
-      "date": "2026-10-25T10:08:24.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VWZ2N3aDNLUkpIX3JXTVBubkI1Qm5sbVpyUGp0VTBpVmVuVW5sdDhlWDJVcHotRzhaZldTN1RmNzJnMENCMGlkcDNUNEMzc3RXZUp0RkJ1QTFyOElhMEJlNWJsMEtMeEE5NV9JMzlCVzJWelNDT001R1FaRkUySVdGMkd3d3BzREpDakgtWTJiYzNpQVptR2Zka2xwZGxweVNLM2RqTkdPdmJkNU9sNFJR?oc=5",
+      "publisher": "wdtimes.com",
+      "date": "2026-10-25T10:07:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTM4SUFudXVMNzdRTEdiR2ZjODVSQmViM2NJV1d6ajROT3RjWG1renczTXp2TXpfS2hPbHROMFZvZzZfMU5YT1NLTkgtQm0xb05TYXBxdkt6RVkxRy1yN0JNb1JZUV80cTlWTXpjeHk0R0gxWTdUSi1KS3c0VlVGZjRxLVYxOEpXSThUVVBTS0h2T3BhUkFmUHVqM0JkZmt1SHc?oc=5",
       "summary": ""
     },
     {
@@ -285,13 +362,6 @@
       "summary": ""
     },
     {
-      "headline": "Russia Ukraine War",
-      "publisher": "Post Register",
-      "date": "2026-10-25T08:32:23.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGRoeF9pSVZfZzhSN2NFM1RBR3pXbzJzQWJKVEZBTGNYWXJCTVAyTUhVNWZXanVIMXl6cTN0UkVRWks5aXAwclpKd1F1Sm04SEI2TUw1UXlHRmU1c3hWNl9kZ2hJUUdndFYta3llZFVsWHlVTVUzMm5CMVJ4MlBsdjA4SXcwQ1prd2FyUlh4VjI5dkFTZV9yT2JYX2dROTF6dGFWT0hFZlhvQQ?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "Russian attacks kill 8, injure 51 across Ukraine over past day as drone strikes residential building in Vinnytsia",
       "publisher": "The Kyiv Independent",
       "date": "2026-10-25T08:20:36.000Z",
@@ -314,9 +384,23 @@
     },
     {
       "headline": "Russia Ukraine War",
+      "publisher": "GazetteXtra",
+      "date": "2026-10-25T08:01:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQWoteEprSmlMMTlkY1pwdWRaT3FMNVEzbmRJTmpaRWN4dVZuaTBPV1RGM1ZYRWVkVmhKNlpSdjhJSjB2ZktVNGN1NGRZbE9wT3pqbTdkdHpwMEptVDNMaUcyRXFlVGpiV19EUHg5ckMxX1ZyaTVHWU1SczVuTEZLTWItTGhQWnZtTHJvSEJwZVVTb05GeGtIN1JfZzkzM2JKNFBEQl92NUR6bjdyV3lrdEtn?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Ukraine War",
       "publisher": "Goshen News",
       "date": "2026-10-25T08:01:13.000Z",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3NxemFUY1loblRMQ082QVM5R3BRUXY1Q3JmeWRfQ01rSmRXMGt2ZEN3SF92NEdraVhwVi1mMnNEN1NFODdDRXRIbHNSNmQ0SVhzdXloRHB6U0IwNFRqUE03ZmlVT3pTRnVIRkJzRHlQM3plaG1reWJGT3B4VVB6NGx1TVNtZFBkV3hKcGdFM2tLVkVPQkVmS3lnVlpCeEwwS1Z3STVfOUx3QUVPVUh4WU1R?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Ukraine War",
+      "publisher": "The Batesville Daily Guard",
+      "date": "2026-10-25T08:01:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHAzcXZsNFJZem9VM29ESmhuZC11dDNRcnZDUXNiVUNDamJfdnEwM3ZmZ1cxVXBBMWpndTAxRnVMVEdWY250Z1FnRmVxLTNwcmNZMDlwWGx0elU3cC1oZzg0bkxhQkJDU2FnNi1Ma2NrajFWUzB6VnVtV2pVc0ZYak9mY0Y1OFM1YnFmY3F4bVhrWXI5T3kxS1JSRWUxNzM2cHQ3ai1mdW0?oc=5",
       "summary": ""
     },
     {
@@ -338,90 +422,6 @@
       "publisher": "Defense Express",
       "date": "2026-10-25T07:23:38.000Z",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXYzX1Jma0I3emtVODZmc2lwbUFYblVubmdRQmpEX2oxV2dYNnVzMkZBS0dsbWhOVUlmZGtTNWlWTDlLdThWRHA3MFJvR0Y1TTBBMkNYT3JsN0ZRNDhBdllFSXZYdUd6OW4tM1FaMjdYalRJM1BFRnBkOFBuZTFVZ2tWd2VabEg4eldOVHRsVEdpdjZpWXNkajRCVkgwNld2akZJNi1R?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Bulgaria holds a presidential election dominated by economic hardship, Ukraine war",
-      "publisher": "The Tribune-Democrat",
-      "date": "2026-10-25T07:18:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ3BGNFAwaFd5YU45bjk1U0FpMjctVXRqd0N5akViZkp4ejhGODI0S3pudlhTUS0wU0M4VlhHNG96ckNYQ3JFQ0xvc0Zia0w4QkFDU3hrN3N3VjBmZlpqRGt1UFI5T044UU9qLWFvWGRlRHJyejZxMUc1Smk3bUtWNHVSTm0xZTRlRnhIUDF0X3ZlS1dCWHNDa0xVUVpZMW9CVWJCelJ2MmpPV3JISkFRZVVkNkt2eFZTVUgwTUJ6QzFjTlo3Y0NXYlNMdkRIYVVFNjRGLXFJdGp4T25BWERNcS1CSkR1SkF3NW8xTXYxWUdEZlVPX296VUM4M2EyVzd6RWc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "General Staff: Russia has lost 1,578,450 troops in Ukraine since Feb. 24, 2022",
-      "publisher": "The Kyiv Independent",
-      "date": "2026-10-25T07:15:42.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnVhLVRobWNYZDNsR1NFUDE3RjF2YTFhc1hxMGZQVFl2QkFWOFJkODZMMVdmYk9YSTRNYmVQbHVQN1I5R3RVV3dQNlFUMkdjaVVrQl9oc3cxcFh4RzJFbzZWM1RvSlV0c3JNalBCOFJpR0FJa1N5MG9UM0ZQMXphVGppOVBUcHV1T2F4algtVDZKZ0FaNzlxNUowUHF0QlhGSzJaS29iVQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "War update: 193 combat clashes on front line over past day, Russia presses hardest on three axes",
-      "publisher": "Ukrinform",
-      "date": "2026-10-25T07:09:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEk2dzF1b2hRWGp4czhmdU15NVhDQjdsR3NVVktfUnZYMXljVkgzZmlCSTFDTE1lN1puTnhwcUt3OXBaWmFVZ3lkbUNzcDlvdWNhX0lJUlVZRlFkOVp4NHlubDN3dTZTUVBvYmVaTHFUQS1oM0xFWHVBVzQ5VFNBSGVTV2d3WXFHYTNkaXNSbFA3QzlINzFKUV9STDUxTFhQVFV5QkRkR3JJQ0R1Tm45TlRNcm5BNWtfNHVuNUllRU95UmR3dDRxMHk5OVlCd2RBZW8tVHBUYi1XcFZaUW9kTmhR0gHiAUFVX3lxTE1USTZ3MXVvaFFYanhzOGZ1TXk1WENCN2xHc1VWS19SdlgxeWNWSDNmaUJJMUNMTWU3Wm5OeHBxS3c5cFpaYVVneWRtQ3NwOW91Y2FfSUlSVVlGUWQ5Wng0eW5sM3d1NlNRUG9iZVpMcVRBLWgzTEVYdUFXNDlUU0FIZVNXZ3dZcUdhM2Rpc1JsUDdDOUg3MUpRX1JMNTFMWFBUVXlCRGRHcklDRHVObjlOVE1ybkE1a180dW41SWVFT3lSZHd0NHEweTk5WUJ3ZEFlby1UcFRiLVdwVlpRb2ROaFE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "North Korea's evolving threat goes beyond missiles as Russia ties deepen",
-      "publisher": "The Korea Times",
-      "date": "2026-10-25T06:56:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnhTT1NobHZmUVBTQkZta1hLUjg3WGNwcE5Ic3hnaXFNZENfS0dUYkQ5RUNVUUN4QmFSaVFnd2FoWXJHck1fUU0xQkk0S0pHODF4bldsU2hfemlMREJ0Q2hHaFFiVnJwTm1FdmhaV2tVTnJzLVY4djNzTEFCV1lXdHEyMVVCTGw1ZmNTa0RDbFM3LThhQXJ3RWZ3XzZRQXktUXROZnRMOEh1NlFSMkhSbGNxLUtNY19sb2JLSS04TzhrYXVFTUpz0gHMAUFVX3lxTFBsYnY3X1lzcHFBZnBaUnM2bjNDc3RWOE9zUU1uXzlQZXczei16RUhKenR2ZFBYeG10NDk1Q0MzMTBTNDRBR2FXNHh4SzdlRURJa0dWQVREcjdzdXVaY2k3c05peWN2bjF1NUJpZ1BVdHdZTmVjek9PalhHOE1LMDFNcU0yLXh0bkRkanNVMDRmMDhFNzVFdlFxamhEU3lySWZkS2lSZEgzeFM5aG5BeVhZNzNqUnFCeWtHd2xjMlB6SlZURGw4b2dLX1ZLVg?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia's war casualty toll in Ukraine up by 1,850 over past day",
-      "publisher": "Ukrinform",
-      "date": "2026-10-25T06:24:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUZvdmN5ZHJFU0J2TUFpMG5fcXBMY215UEJZNVV6SFJiQThzR2U3Q3BaSWJHcndPeHF1clNXSEJQOHlvbHFydzN0dXdVZEdqcEYwS2Z5YWY2TXJpT0ZMSkVtTUpLSGhZMkNiaVdYN2FTNmYxSkstY0dXOEJNVFFacjFhSTZZY0QwbFVpWk5EazZKZ1UxMGdCS29sNGdjWjVNTHZES1lzTXdHRlRZTGVjMtIBtgFBVV95cUxPTlFJVnJHRWw1Rmk2bElkWTVnZTBqd0twelV3WU00QmplX1AwU3l4dzVkMzFiMkxrVDVOUXJBdHdSdXRxZkdDQXpMck1oal95SndfaFNxRE5LZHhzZ2VicnFtRjM4NUxVSXNNa2xMZnlFeEhOc3FQTEJXeGwtZl9vbXJmNk1WcGdSYVY4dUFsWERtYXMtLVVCWGpJT1hoUlZ5a0JEWktCOVRQaFRnN0czUXk0UXZSQQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-      "publisher": "Al Jazeera",
-      "date": "2026-10-25T06:18:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Trump shares plans to do business with both Russia and Ukraine after war ends",
-      "publisher": "AOL.com",
-      "date": "2026-10-25T05:57:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdWZNUFg3NFBXTV9PV2F0OGVQckszZDltNXdCcEVlN2F6VFYxT0VYTzROVkpUNk5acGpwRk1ia05HNEdxaWVRZ2lYcFZqeDYyd2txNGluRDhIU1ZPX2hSbXdQWDRaQXFRQ2c0TVlGRW9BRndDT1dzNElCdUQ5S0kzd1Bn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukrainian military used Starlink for 'killer' drone strikes, alleges Musk",
-      "publisher": "Rediff",
-      "date": "2026-10-25T05:52:17.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmFqcmtmRzAyMzhHN09iVHR1R0NMNV8tRy1LNXlzeEM1Z2JBSTZyMk5rZmdnVmVuRWF1YUdQb2dJeml4bkJ6c3JQallDOVlvLXFWeUtlbElNeTFuVmxVeTY0RXhnSVpISFpCOE9UeEtnSktBbk9Pazg2bDRYTlNISzlYZ2s0WnJQN2FFRmRVX1BWOXN3M3ZXTHZ5bnp4d0FEZHplZkpQa2dqeklCQ29TQlhLVTdEM1RuVXdqZVQ5NNIBwgFBVV95cUxOQVNQdUhzVVNRTWcxRTRDUXRrNmtid3NyY09TUXF3Y3J0Z25OQktVVVBuZ0sxbXZUZXZNLXhQLWlFV1pqY09Ja3JXNUlrajZCR0pqWThIcDNCRGN2b3R2VnZpbDRLejFGbFhkMEE3S3dDOHNLbFlTX1BsQUVfUmVSQ3lCQjRILUpDQ0JGQ0ZjQTdIZW9KUVJ3WEUyM1FJNzVaamx3RkFaNHQ3aW96UFBaZGgySjI2MFY2bFY2RDVKNnFVQQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia lost nearly 2,000 troops in a day in the war against Ukraine",
-      "publisher": "Українські Національні Новини (УНН)",
-      "date": "2026-10-25T05:47:19.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGtneDh0ZGZad3BOQXpIM1VtRUxrQlVUSzNTZV9DdEU4ZWJlcm9YR1JHQTNWTE41bG9HZEp5ZklpUnU5NHN4ZDhkUjlIM2dhejF4cUJUU29OWUpuSm1fbFU1QWhsQmxBQVpOamNsUTlZN2x4aFliS3htVkV0UDlDN09HalNMaGJWbEtEbjZ3OTJ4NkXSAZIBQVVfeXFMTWdkSkswQnQtRm5ZZmlUNkd0UWdObXVINU5QLUFtTzI3TnBYNzZ5WW1sOU93S2dEYlF0cGZtZWhMY1dXYmdDb2VJNVR6aHkxekNtQ1c0bUI4dHZDdnJNTGxyRjk1ZEc5RlhFZEVCMnlkdXhMdGNOUEMydjF5TTJXdHU0VUx2VFFuN1hpM3hwYlZmVkE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Trump says US ready to do business with Ukraine and Russia after war",
-      "publisher": "Ukrinform",
-      "date": "2026-10-25T05:45:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWVGQjBlY3dFZDh1SFozX2ZfckFhMjdMT2xKbDlQNEZTazJBLUktR2hweFY1WTZOSGFGOFhuOVllQy1Mc2RuS24tSFhxaEFVX0phR1JlUFRpbHRkMXFwX19VNUhzODhoMTZGcFFHdWpiTWVwdENlVzFSSEVDczJSN1NzamNYMThQX0d0bm5PV1Rlam10UUpTTWEydWI2RWRqdHlqZk5FMFQ2YVdFUmV4dzRNLVUySEFqSGNWUmcwTnfSAcYBQVVfeXFMTmFUb2dPUUc4S0diR0JiX29OYnlFbWdlUnZ0ODVvVzBPR0Y3VV9sVEpTVUNfcXd1S1BvU25PUUYzWFRjUUdHc2xkdjVhOFFubG1lNEVOc0IxOVY4Z0l3SE1QTnJNOWlYZWxtR1ZJRzRCMUhHVWtwQXpQeUQyZXBmUnlzd2tSNzBKY3lwZ2VaaVFjNFJmZkdPaXpsc0xkbjZjLWZPYTE4RW96Q0k0M2VhVUNOYndmZWJKcjlRYks4Z1BENkxORElB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "\"We Don't Have 5 Years\": Celebrated American General Sounds Alarm On War",
-      "publisher": "NDTV",
-      "date": "2026-10-25T05:26:25.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWmVZeHVQZ1Y4dnJDcF95TXNHc3ZoQ0RkbUJQM05SYm8xY3MwQUZ3NDZFenpnWXczd0JwVENVMmZtRG1aaGJLVWpMQWYwY0dqMi15cTlwV1pnTGVRbGd6RzJSRmllekdvR003NVB1OC12aTJackhlaE1BeGR0RDNZU093cVpBcWhWQmdQcVBfV3AzdWRJRkpfS0VCQ3ZiWkstVlBKcEd1ZFMxMmdxWEJqWjlrSWw1VEJkV3pYQ0pjYlNXb1ItVE5QTS1zalIxNmdORWdXMU1zX1YwRXdvWGg1SGh3dw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos",
-      "publisher": "NDTV",
-      "date": "2026-10-25T05:20:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlNfM3BlcUhrb0x6R29VLUN1MVU0M1NrSEIxaVVqVWRnVWZRYjB2bVlWM0xQdmkwYU8xTUFTZzdtTGtBMjZnT3gxdTJRTXB3aW1kNUF5dVFPTVpONXVGYUVPbmdFVmRCYXRHRFN0dlhpR3dlb1Q0WUc0VXI5UlpvN25JXzJHSGhCZHJaOWZ0N05lYnM?oc=5",
       "summary": ""
     }
   ]
