@@ -1,14 +1,161 @@
 {
-  "generatedAt": "2026-10-30T20:02:14.386Z",
+  "generatedAt": "2026-10-30T23:58:34.712Z",
   "source": "https://news.google.com/rss/search?q=ukraine+russia+war+when:1d&hl=en-US&gl=US&ceid=US:en",
   "windowHours": 24,
   "count": 60,
   "items": [
     {
+      "headline": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "publisher": "BBC",
+      "date": "2026-10-30T23:19:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQlNvWElsc2pHV1duMkxuOFJFWXVjQUFVdVJyLW9wWDJlODFhNDFETXh4UG5KTVdNdUFtSHBvdjNqeVY5QWRpTzBZdWhHZDBuMUZaWG85X1Y?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Canada to join EU loan for Ukraine with €500 million pledge",
+      "publisher": "Around Prague",
+      "date": "2026-10-30T23:03:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVZHR25uNWZtVWZsNlE3ZF9FaXREb0xwTktwTGJEUTRvOWk2MkRRYjFQTTFBNFBQM3JOQTRMNWFjZzRtNS1iU012WkV6cXRRX2d3NmFBQ1hOOVNRbTlvRmpJdFdXMnJuZWhiUmZOdVpGOEU5bTNQbTIwQm5leHpLUWdTTmhXdW1NQjRJbjJIYXJZeWtOclJaaW5MVUNXZDBmYjQxZmx6dENGT0p6YThYeVhaZw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "'We all know you are the aggressor' says Miliband as he confronts Russian counterpart over Ukraine war",
+      "publisher": "LBC",
+      "date": "2026-10-30T22:19:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5obW9LOThWUHd5dThNV0xZRUtkX1B5cGsyVE1fcEVQMTh5cHkwOUw0NW1OTWlBNS1pQzRKVWhBejU4Y0lROVBwc2cwNGM2QWt1aUlqSHFRZFhvajRTMEl0bTJhM2JLNTd6TjNuX3JwMzVuU2V1bzhuVTVDV3pPQU0?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Former NATO chief discusses Putin and Ukraine",
+      "publisher": "CNN",
+      "date": "2026-10-30T21:49:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWVPbmpud0FZZklreUFJalEtSGY1UWV3cU1Pem90YjljN0FXVXVNUW43OXhMUXFET1VnNUpLUWV6LWtpbHluaFgxVndrMVBaNUUyS0txeHFfa2NiekxvamVudnAxRlVMNV9DLWw2a1gxLUJoNmQ2S09lVFo5SjVzb05DN0hMRUlDaHcxSkptOGRrQUdfRnd3LWRKZjhRV1VqWHN4cHBydktLblZWanNSSg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US approves $2.1 billion Patriot missile sale to Ukraine amid delayed missile deliveries",
+      "publisher": "The Jerusalem Post",
+      "date": "2026-10-30T21:30:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0E5d0VkVFhvS3lOLXZOSHljQ3laYVNvLWp2QjdubWRUbUJ4M2VlVVhFUjJuc0ZXc3N3ZVFtcFdSLXZfbzVIeTIwLVNuZWR5Vlp0R0tmZjRKbjBBbkMzODM0VWs4Z1RpX0ZWVnJaYkZfWE5WOEMwUmtfOV9qc1ZveUxHV2xEZGE0YVE?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ruto seeks compensation for Kenyans recruited to fight in Russia- Ukraine war",
+      "publisher": "People Daily",
+      "date": "2026-10-30T20:52:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVJtTFZvQXlkeXNVSC1ZU3R2cEhTSUJvdElsOW01cW9pMVZLYlhDUlUtRjNrMDVnZW9ESjM4Vzl6VHFJSUNGbGVZOGVXMTNpYmtWYWlVTV9PcWd3dVZjNW9WOXA0cFBSZHZma0kxTDY0YXhMaklicmNVMHlfa08wY0NIVF9hQURVVXZuVEZ6bTZnb2wtSDVNcjlSTWpUN0lBazNzZDlza3BzTXNwRmc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
+      "publisher": "The New York Times",
+      "date": "2026-10-30T20:40:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGdZT1FXdzFJcnlLSHFTMWdTTm5BTk10S0I2WEpYWmdRYU84SDBCTmdONjc0cWtJNURtN1JYZHJJQXdPME14TmJFU0w2R01LRXUzUVJ1dDF4N2xneEpfdE5BWGdKMzIySDAySzVpZFJpSkxmcS1qcWlISkZjdG9LZ1dZaW5Dc2NKSklfc3dn?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia the Disruptor",
+      "publisher": "Foreign Policy",
+      "date": "2026-10-30T20:37:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWRlZjJPeWtzUm9DOHhUTEpLMkkwa3dINHBUdkd2QUlUZkxxenRUTzVXVWZ2dHlnUmQxX1ZrRmhVZGd1MmFqUTJtMXQ0RzhfZ1lmWHRwVkF1WWN4WFdpZklaanNYMG9FQndVT0w5UGd0SG80cDhxa1pSckY3NmFGcEdueURYNHVFV3NVZlNBNS1QcGUyU01mdg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘We all know you are the aggressor’ in Ukraine, Miliband tells Russian envoy",
+      "publisher": "Herts Advertiser",
+      "date": "2026-10-30T20:32:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDBYeTY0WUJmU3Q2WkE3U3JXcDhnX0RSX1dBdkhPUk9MSVhLZ1E5b2RHQlE5b3FDc29COWdoa3lESUtJOHFYbXBpMHlteUNMYW5JNDZ6MzhTRlNVRmtSSDdVMDhTdGNjeE1uZk1LYnhVOVAtcmdnMzB4OENSanR4bTQwRXZ2OEp3SDN6UzRzNDBvTk5fSEpQNUphWWx1VWZyYjVuOW1UN29GNzFVWDFpQw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘We all know you are the aggressor’ in Ukraine, Miliband tells Russian envoy",
+      "publisher": "The Bury Times",
+      "date": "2026-10-30T20:32:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWRpdnVPWGpDU3hWSWZmNENkS1JJS29xREZCQmlJMjkzUm1fdEtGS3RNS2c3Wm9aa1diYlBUWWVqT3hvb2Z2Qkh5OHY5a0NjS09KRmVkM1Z0QmYwRG44RWx6MkVRLW5TdHY5amw5SUlLSXN1d3BBZGFjRWVkM3A1MU81RjZ1a2dERmVmdWdSaGlwMTdLdmFreXBob0tLTmpVM2NrUU9BVVhrUXJHOVlybGl1ZDhsTnZwX0pMaU5OdFc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘We all know you are the aggressor’ in Ukraine, Miliband tells Russian envoy",
+      "publisher": "Brentwood Live",
+      "date": "2026-10-30T20:32:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFRZMGZnWnUzMGFBMzFrVXBaM0UtbnpGNk9sQzZkeUFIM2xQVFNEYkotMlk4MFdSblQwcl9pR1M0SW8wRnhTUjh4TVlQYTZucU9aMlc5M3JOdDBxNENuSWl4QzlfLTAwemR6UExaYlIyWTNWNmpscngtdlpEODBOX09hYkRYdWdqeUZfZUNjcWh3U0ZBVnpIZ0owOHFZSXVvVlc5bHBKd2ZPU0M5QXNZTERHRlJtUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘We all know you are the aggressor’ in Ukraine, Miliband tells Russian envoy",
+      "publisher": "Southend Echo",
+      "date": "2026-10-30T20:32:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0hWSDdPQ0d5SGluSk13SENsZkNEWWpORG9fLVV6Sl94ajhNWmJscXNranVCcWh3T1gtSEQwNFhhLTl1cjFzOVI0ajlwTHBLOFNZNHdSWVNZdnRiczJ2Qm5VNGFMa0ZSN19IMFBiT25Rcjczc0Z4a0xHTUptQjlDaU5kUmNOZmYtWldEejRlMS1jUXJoeXFZZVA5WEIzMmF6Y2tWV3BXSTFIQUZwRjVwelhR?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘We all know you are the aggressor’ in Ukraine, Miliband tells Russian envoy",
+      "publisher": "Hampshire Chronicle",
+      "date": "2026-10-30T20:32:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlVDdy1wX0pIbk1NcGZZZ2kxaGx5VEdoSXdBWjg1TmltaWVTYk1QUkQ4TzIyYWFBRjF0RVVJdEYwdlR6Tld6OE14R3NCdWNWeGlBNHkydTZXMjBPWVFfRHBOb2xMTFBxWWhwYmpJTDQ2T2VPRUdoWks3NGdIR0NKMjFfdGYzLUxSZm1NQVJpb3ltblVyYnFUYVZsdWJ1UWZvM3hobUdETWgwR3dZZmEydVZR?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+      "publisher": "Al Jazeera",
+      "date": "2026-10-30T20:30:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGVqeWNSelgtRE1YQlBIR1kwc2Q3UVJNRHMwMVpIdVdreVRXZkZfUURSdlZnY3FhTGFELWx5Z1NoQ0hRY1h6bFNqeE5BNElSbk15c2lzaG9oNWtEVDZSZE9sUGlyZVJua3dMRjUyX21TT1Q1NmJNT3RXXzhycEZfYXBaYTd1LUpVZ1JER3NVRXp5eXNtNlc0LUZ5UnRYQzI0SGpZQ1NRNNIBrAFBVV95cUxOMGY0T3ctZVVVMnVFRmtldl9wWHpxRmZnRTBBWWNZZE9iV2QzdzZuY0c5X3dEazIteGxINGRpZFVURFRoQjZ4YzhGUEJuZ1g4RUs3SkxvSGRfVi1JS29hX1V2bU5PYnRHUFFVdkxnMWtWMDBYYi1MWkZpcWtPcDVpV3lQTGhXVms2c0tPZmZoaWJmZnA5bDRGV0EydVJCRHR2d0xhMk1GNjRzaFhl?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "publisher": "Al Jazeera",
+      "date": "2026-10-30T20:30:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjJ3cFVGTkU4SzZyOTJ1ZHF1bHdvTzRndkVEU1VpMi0xeDdmOW4xbTBVWXlyTlNHT0RoZjRDOUFKaGlGTUIyaGFORExRN25hNmE1U011eVY0V01OcnktZzNQWENNaWh0cjF5c2dUWHN0QmtRWG0yQnBxY1lNQzJiRUJqbjhpMU1YakhZSm9tdVhwZ1gxcGx4amFJekN1Wk9jVVp6TTdydVEtRnBSOWpzaUtKLUdrZVZY0gG-AUFVX3lxTFBLbHB1YXNoRzlCdUZCdVZBV2lkb01ld3RhZmRoakJqY2pqNnlxMGdwc0tMOERxSlcwUk0wcUxVSVZKVHIxOUszUHFuYk00WDdDN0hOXzR4M3BIYTdZZDI4Y016WVpWRHRsclVxYkw5S2ZTSkZyOVlNYURWWmJGd2drcm9kdkZJTjNXcExGM1dnaS1Ndnd2MXJfUDE3b2VGcG8zajZjdVlkd2VuV05ZQzZpUUU2ZlNSTlA5UjNlVWc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘We all know you are the aggressor’ in Ukraine, Miliband tells Russian envoy",
+      "publisher": "Kent Online",
+      "date": "2026-10-30T20:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2RvdG1QZ0w2Vk81SVUyNDVXZ3lGQlJ5OWdGanhSZl9iYllvU1c5Nm5JYnQ3MDczcjhycm1GNFVJQnoya0xjc3ZlQlA5dnNVemZnaHlZaWdiSDNneFBBMmFXQjJscVpLTVNONEk3WFduZEZzMFZfQTBwT21USGpsb0psTGNpeGlteDVVUExFUlM0b0JmSkd3N29fb3JTbm9BN3k1S1pJT2VjYjZfdGthZGlkcm8tZ29JeHNDTDNqSGhKUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
+      "publisher": "The Independent",
+      "date": "2026-10-30T20:29:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb00yNjdmWGJhcF9YNWc0MDRyS0d4X1kzb0tBOTZNUGV1STVvUXdKNmh0SEtJYmw1S0pBV2tJbEZRT1pEcmU2blkxRWV4NWNfRXBtRmFMeVByVmpldlJwQ1BEWGhMWUZFaXBQRmxSamN3UUptNjJUekE5NkVKek9Gb0NzUFAxM1haSkxVS0YtaFVwaHdHN2VWV3Rn?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Explainer: Key questions around the Russian and Ukrainian evacuation of Oleshky",
+      "publisher": "Reuters",
+      "date": "2026-10-30T20:19:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkxvb1pZci1hREp4RWh4NkdubDZZVk9ldFVrNzE2eHphakJSV2JCY2JvT1lIdWdzRVJsV3p0X3pWcVVJSFQ2NzR2SHBKR3BjU3lzSi0wcjU4emgyYUxQaTFyRWdrZ1BrcUdPUExBb2dDZWJhcV9jZHFtOV91R0REazJxN0xCODYzdmhWT19pd1JyQXpJUFZmYzNkQmNtckhpa0dEb1hXdTVWUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+      "publisher": "WSJ",
+      "date": "2026-10-30T20:19:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Residents evacuated from Russian-occupied Oleshky during U.S.-brokered ceasefire",
+      "publisher": "CBS News",
+      "date": "2026-10-30T20:16:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXNsNTItVHM1OEhvNXlncGlVVWdzbFZwNHdyR01ZNHRjcEZvV0o1RnF5XzgzYmttS3dZQk5uWFlFZTVvM1AyVzU3NHlJN0RXMWR1V2ZmU1BmQVpTRklBTzVmM0U1OHJtVFZTMFlMQ3ZreDZvV3M5MndPNGxNX2hNd3JaRWIwQQ?oc=5",
+      "summary": ""
+    },
+    {
       "headline": "Michigan’s Polish voters weigh Ukraine war ahead of midterms",
       "publisher": "TVP World",
       "date": "2026-10-30T19:39:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUpuMmlnUVVxNFhMSzhhbks2b2R4MGxSM3o3R2kyOWJadTFTenhPTTV4VHQyU0FxV0l6WUcxWnlRWm1jblNqSUMyelA3MjdiX05KcGlId3J0bFlfQ0dreDlOZmM4Qk0wVzBldmNWaGQ3THpJc2dCNzZtMHpJMkdBdTBmTlFXMEtBb1ozZ09qWGVsTWR5c0E?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Newly Freed American Describes His Years in Russian Prison",
+      "publisher": "The New York Times",
+      "date": "2026-10-30T19:36:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2JENXZpUVRyR1otdS1VV3lHOTVPOTdpSjFGM3FZSzd6S1YyWFBjeXJtdklhay13eVFaS1VGUG5SRkhiV3I3UkdxWFhmQmZONk1TaUdwSGk4WklIMEd4eUdGT2hiRVdxV3ZMUVVUWUJhMUo2Ykx5c2N3LWVTQW1DMzF5aURnRHpkT1J0cFd6VWt6U3c?oc=5",
       "summary": ""
     },
     {
@@ -26,6 +173,20 @@
       "summary": ""
     },
     {
+      "headline": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region",
+      "publisher": "AP News",
+      "date": "2026-10-30T19:08:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Hockey Canada seeks clarity on Russia's possible return to world juniors",
+      "publisher": "Sportsnet.ca",
+      "date": "2026-10-30T19:08:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHpkWUphZjRva1JzSWFCT1NDcko5MzgtaUV2bjRGMWVvV2IxcFoyeVVEcmtwckFwWlU0SzU2QVZWZF9oMUhOSkdqNUNhSXJtWVZTS0phNTFqODBWMlBFSkxiN01LWjdDM3NnVUFMOXFkaXZ2RGF1UGpvUDhVVVp5RVdpUmFCOEUxY0FGbXgwTFdaTTRuM3pVV0hWWHdJV0xLNXNZb2hZaUswSzFkNVJOYUc4YUNOMXNUZXhZ?oc=5",
+      "summary": ""
+    },
+    {
       "headline": "Finland and Norway are trying to open a new channel of negotiations with Russia — Bloomberg",
       "publisher": "UA.NEWS",
       "date": "2026-10-30T19:07:25.000Z",
@@ -33,10 +194,38 @@
       "summary": ""
     },
     {
+      "headline": "Russia is back in the hockey world championships after sports court ruling",
+      "publisher": "CBC",
+      "date": "2026-10-30T19:02:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmUwZjV0MFhvYW1ZOTEwU0hpNHNRN3k3LWlKcDBSQld3VXY1ZEljNlVoRmVzTDJ1Y0hPMjBjOEVWRGx3WkNQa0RsNFFHODltSFZETkN2aWdsb1pFdkJtY1dLN1gzR1hpS25sVDVfRnpINjIxc0pfNkJtWWtLTUFqNVpRWU5RTHpGcVBQQXlodV9LUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Stalled on the front lines, Russia hits Ukraine harder",
+      "publisher": "The Economist",
+      "date": "2026-10-30T18:59:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXY2R3p5akVFWDVDZTFLWFl3X2lQRHdDV2tnQ092b1dTU2VQUHdHVDNwQ0thREZLTEZwcG4teUVWSHdTdXktT0Y2X2FCQ1czRWxPNHQxOGRQaE5GZVZpQzRuMVdKV2NBVWE2T3h6WVhWNUdRUHpjOFlyV3N0MDFOTUFOcVVqZDVFSUltMHJ3b3lGMUhWeWo1VWFBWVpOR1l4RDZDeXNwUjgtekNIV1dxaXl0cTZTRHVT?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Rubio hosts G20 ministers as Iran, Ukraine wars divide members",
+      "publisher": "eNCA",
+      "date": "2026-10-30T18:55:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJCUUlaWHVrbWdHQmloaEtYdGRvNlg4RGlVVmtfTmg2Nlc2THpGcGsxYmN6em50NnRRUlAzT1dHUGlUMVZXeTNnQ3kyeUs0TlhYWkxKTk9KMHMzYi1EZ09TNWczQUd3cjViS1Z2Z3FDT1hJUmRDQkxFMUp0Q1l0cmxTQnVwQTNRWWJoMDR6Zw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine War, Day 1,709: Russia Murders 15 Civilians on a Train Platform in Dnipro",
+      "publisher": "EA WorldView",
+      "date": "2026-10-30T18:31:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajlkb2RDaFZxVjNsQkk1YkRocVlqeFEybndaaWN1MzI3eHdWdnVlYy0taUs4eC1xWkc0WklsOVFoNjhmRmtweUg2ek9pN0RDWElDQUhEaVJFdlpSMGVScFN0NTRPZW8zeFhWeTdnamtsMzRCYlFCR1NuaHJ6Q204cXN6UVVxN1ZlZGcwWnlIa0FsZ1N3Z1FVcExQYkFkVlNz?oc=5",
+      "summary": ""
+    },
+    {
       "headline": "G20 photo scrapped last minute after European officials refuse to be pictured with Russia",
-      "publisher": "WBFF",
-      "date": "2026-10-30T18:24:15.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNY3RMRGZrLUFiS0ZfcWRxZnlLYkFDVGlBTmFQV0tMaWJ1M2hNZ1l1V0dWR2FsMU9sTmFqX3Z6em5ITlYzbHlXN2x5ZldmdXZDYUxBeFlZY3p0U0J6eVJhV2FFeWhIVDN6WUlsSGJsWEY5UmN3UGkzLU10U0dZV0RldkhiUkpNZ1pXbzlQc19fZ2tHa1drRk5odzBNNjZVNmJKcHI5am5qQUxpM2VNaUt0ZFcyYzc4RjVHd21IV01GT21ONU9TM1g5NVpreGMzRllMeG9GVjdUblBneFlpY0paSlJqN0Q5YlU3enhJa1d5QkxFT09vcm5wdURHUnoxMVdSYWYzN2M3NGkxWkRMTXVFQjJlRHNfTDRJTkNzNC1NLVhEZmVqenc4SWU3NEp0aDNITXdVdk9OQkQ5dVIxMXc0ZEF0dGhnUTViX3daVm9PcnRKSkxkY3p5RlJrYlloNXVKdGFIeC00S2tUWTBSREVIQ2FFM21xLTVxUXppRl9scWJVVm8tOTB3Q2lOdlRreUpoeVB3dw?oc=5",
+      "publisher": "KATU",
+      "date": "2026-10-30T18:23:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQSUhNSHI4cEdPR3RyS1VmbWZ4OVJ3R014MG9FYktpUjkwY3d1X01wWjBvcnYwNmlueWszT3MyX0J0eC15RGZ6RldMUDlQSXJVQm9jb1BDd2xFUnJoUGEzd2o3d3NhQ2dKalpSRUhTRWxhRTJRRENiWkFrRXBfRVVrYUxzSmVOZWhFbTRUYzM2MzhjSGtiNXlzX0hWbW5HNXRjazdIazVZZEdTVVYxUnBpcWlYNEtyWllZUUdXeGRHVU5JUW9yT1F1VXZYMUVtOHRxd3hfMlV5MU8zcnZ2c2lUaVFjLWRueGpfdFlOcXdxZ0lFUGVDMUNselJIcXR6cV9hb0ExdmFyZFdYeW5mbWIyYlBiNVA1WVVzekUxLWo1M0hBSk1Wa2RETm16VEk1ZUhlRy1vMWVEQ2F6NXJhdFJ6cWVFSUhRMF9BbmkxZ3VoVTYwQXZSZFc3UU1McTNJM0JXdmNUbGJQMTZvVmJ5TW1MQ3ZMaEJzZGJFUjdjQVRhSmVpRFF4NWU0NkhJS2l1R3A4?oc=5",
       "summary": ""
     },
     {
@@ -68,17 +257,17 @@
       "summary": ""
     },
     {
-      "headline": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
-      "publisher": "Modern Ghana",
-      "date": "2026-10-30T17:15:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUlyU0l3QmUtTU0yOXZLVzNFb0p4MGdlZUEzbENUUHpmX2xGVUJNUHVsWERoMmJhdkVydXZyNHZDRmNYNjZuc1psYXBUTFdmeDg5eGF3dDhiQVdVU2pGQXlvMzFLVnhYaVFzUnliREExblVaYWJsWDBVMG8xVFd4d2FFVkJRQ29OTG90QzQ1M0t1eW5jOTJwYkZ30gGYAUFVX3lxTFBzaWRUUHRVdkhFMEY1MGtJcTdWYzBwRkNWVVpUTmd6R0NkaWdZSFh0c0JrTTE0bEtuNzVpeU52VHZhWmNNMFIxa1UzVHUtVTRzTzJOOU5UT3NQNnpGU01PMmZjdDVoLVZGQ1lHNFRpQUNyZ09QdEZIMEpwTHZSV0xkTzhEMnFuOVduZ0ZlVzduTnM2alZWYjlq?oc=5",
+      "headline": "Oleshky evacuees leave for Russia as ceasefire holds",
+      "publisher": "Al Jazeera",
+      "date": "2026-10-30T17:11:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0ZDNlRPTjdlM1JYRkNQblBzWVNPSnhkR0V0VUFyalIySzRSRGpzMnBudnk3d1V2dWhZR1VKSHR1Nks2cjB1V3NfMy1LODhBUjM3Y1lTODJhamxWVHl2ckY0U2lXLVVJTE1zM1d0WXBmN0ZlcDdocE1SN3NIVEo4OG1UN0s0Q0lYNFkyM1doZHU5eDY4ZXfSAZsBQVVfeXFMUFBudWpheVpPLWJDU25aZ3FCQmFIcS1icURldFJaeTZDaHhPZ1ZscVEzZTd1WVZsa242cUxjSW5iTGNYNEVuU1d4X0hzcFF1dTFPOUdkcGxGcFNFd3JhTTRScU5Kekd6Q0dXdTJoTkIyTlBGeUY3aS1JYTFPWW1NNUNOTnRfRDN2ajVhYUhmQnhiTnNTYmFtZm5MSlk?oc=5",
       "summary": ""
     },
     {
-      "headline": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
-      "publisher": "WSJ",
-      "date": "2026-10-30T17:08:44.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxidnBpVnk4eUFpanJoNTlqNS1FUGxkeGl2QVVSc2d0ZU5rRXVDRUF6NXhfRFQwRl83dlZWM19YZzRBM1VOQ0Z6NEZ5emZibm1TTGgya1ZPRXB6YjFPSGstdUh2ZDJidXZfX01PZTMyV0tNd25zc2oySFVEdjdnN0RBYXg5RERSVXFkVlh6ZVBEQmlWRnFBdThiU2trTGI2UjBrNXdxajVHZTZI?oc=5",
+      "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "publisher": "BBC",
+      "date": "2026-10-30T17:08:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNFJJVHVBcVlKWWZHMFV5c2dXUkIteUNjN0RvNnpjbWh0NmhTQXdYNFBhdFFVTDY1d3hISFd5OXNqbER5VTFFNVI1b25uT3lrTDE3YkZvaHQ0LTJvX1E?oc=5",
       "summary": ""
     },
     {
@@ -89,10 +278,10 @@
       "summary": ""
     },
     {
-      "headline": "‘Dark Days for Ukraine and Europe’: Nahaylo Warns Ahead of US Midterms | Bohdan Nahaylo",
-      "publisher": "Kyiv Post",
-      "date": "2026-10-30T16:58:06.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PbVZyZjl5UXJoN0xqSV81RlUtSTRHNks1VjMtaUduZ3hqOHJIRmNxS3Jwd3dOU0t2alBUWGlfZGp3czByYS1rQk04UUxhdw?oc=5",
+      "headline": "MilTech, war — Ukraine's Fire Point finds Starlink alternative for strikes inside Russia",
+      "publisher": "RBC-Ukraine",
+      "date": "2026-10-30T16:55:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2g5NGtOTWFEVjAwSjducHVtLUdIR0ZoLWFoRjVhU3hsanphck11enJpRmRDMXNfdUVtN1BZaDREU3llakRDVjNPSWhETC1VWHlSWnBWUU5ITVRGcUc4ODFPLVpsWU1qdUVRMGdTSHFXQ2ZjQlpIbVNYWk9TLWdvNTlDT1EtWl9mTjFkTU5Qbk5pZmExNGRBdXB1QQ?oc=5",
       "summary": ""
     },
     {
@@ -103,17 +292,17 @@
       "summary": ""
     },
     {
-      "headline": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
-      "publisher": "The Guardian",
-      "date": "2026-10-30T16:47:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "Another round of peace-talk masquerade awaits Ukraine",
       "publisher": "The Kyiv Independent",
       "date": "2026-10-30T16:44:30.000Z",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUJ5N1lzaTJnQmt3TE8xd2w2RGx4bHpERkdSVWZHM1liSl9PWEhwM3dmZjRVM1BWVVhia2lqSW1tMWZwUThpTWd4a3c4VnpQVWdOT2tXMmwxM0RpSU1nMWlGa0wzd0hGRHFMUDBBTWlZRGltSERYUHRqWGNmWnBXMTlUYmpXeHB0eXc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+      "publisher": "WSJ",
+      "date": "2026-10-30T16:41:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxidnBpVnk4eUFpanJoNTlqNS1FUGxkeGl2QVVSc2d0ZU5rRXVDRUF6NXhfRFQwRl83dlZWM19YZzRBM1VOQ0Z6NEZ5emZibm1TTGgya1ZPRXB6YjFPSGstdUh2ZDJidXZfX01PZTMyV0tNd25zc2oySFVEdjdnN0RBYXg5RERSVXFkVlh6ZVBEQmlWRnFBdThiU2trTGI2UjBrNXdxajVHZTZI?oc=5",
       "summary": ""
     },
     {
@@ -124,24 +313,10 @@
       "summary": ""
     },
     {
-      "headline": "Key questions around the Russian and Ukrainian evacuation of Oleshky",
-      "publisher": "Reuters",
-      "date": "2026-10-30T16:27:16.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkxvb1pZci1hREp4RWh4NkdubDZZVk9ldFVrNzE2eHphakJSV2JCY2JvT1lIdWdzRVJsV3p0X3pWcVVJSFQ2NzR2SHBKR3BjU3lzSi0wcjU4emgyYUxQaTFyRWdrZ1BrcUdPUExBb2dDZWJhcV9jZHFtOV91R0REazJxN0xCODYzdmhWT19pd1JyQXpJUFZmYzNkQmNtckhpa0dEb1hXdTVWUQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine has resumed strikes on Russian oil refineries: Russia - War in Ukraine - World",
-      "publisher": "Ahram Online",
-      "date": "2026-10-30T16:23:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMG00WXVSODgwa1BYbEV6SkMtMVE3TXNwSXByOHdNRlhKa2IyUTNNXzdQY3FDSkFKY1NMX09JSkY3aEFYOUlFbEFyc2NyS29admZKQU9UWG9hOVZUalAtSm9BSkhackNybEROTW40MmNDU0FLQkNBOTd3dGVjenRmMllTdUdCY0FtYkUxNnFMS1RVeUlWWnNpVERFWUlheUtwWTBzbDgxdFBTM05IeEtieGgzUXJvek9vYUhTSnhGUDdQUE4xbUxENA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region",
-      "publisher": "WHIO TV",
-      "date": "2026-10-30T16:15:20.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXloNHlVNlRDTFR4R0FRVmVRWlNpcmNFczNJZjFFeXlrNFdzVU4wbDBOOGxRUHpTLUhRdHNzX2RXSHFBQjg0WVNJdk9ob1V6d2NIUmtTMmpxVlFpY09ITlBoekFHNDNvbHlQSkpmTGtsMVNvRy1aeFRobk9xWjdnanNWOG1oZ9IBmgFBVV95cUxOcnMxWWJobDR3TURWSzY2bkJ4bVJ1M0hTVmIxX28xTkJHU2RQM2RJT1JsRXJSYVU1TGtWZ3FzekFuTHRJYjRrNVUtQU9TNEZrRk9xUERaMXZRaGdBSFM2Nk1helBqNEc2eU1rdjAtcEJXSXI1MURQclNOWVBxZFhJQTZBYlhsSHBsdkRNcFdOdkJrYlAzSFl0NHBB?oc=5",
+      "headline": "At the Third Russia-Africa Summit, Moscow Talked Big. But Who Was Listening?",
+      "publisher": "The Moscow Times",
+      "date": "2026-10-30T16:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEUyR01uc3lJOHY4Y3BENmtpVGQ1amVvZkRjZTVyWWVySm9ocVIxZVp6RElxTTh4QS1XV3VPLW9DM3NjZEJnOTJxSFQ1b05wNXRCWVU2OElKcWprNU16T2FJX3l5dlVKZDV0OFEtR2FOejNSRHM1WDJLMG9tZlBYcmx3clJjeUFzemQyRHhlSEVMVzFhZHpBbGFscFdLeHdRZmM5YzQzaVRJd2d4ZWdUaHlxYjh3cThvZG5VeVVPOA?oc=5",
       "summary": ""
     },
     {
@@ -159,52 +334,17 @@
       "summary": ""
     },
     {
-      "headline": "Russian Drone Attack Kills 14 at Ukrainian Train Station",
-      "publisher": "조선일보",
-      "date": "2026-10-30T15:50:55.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1BqY1oyTHhaYVZtcjk2ODMxa2F0Z3JZVTJjZFMzVl95T3lyeXpVZUs4Yzlfc29QNVV1ZnhFclpDWDlOUm8xMS10Z1VmNVF6eVVkSWRMQnNzSWo3RE9yRDRTNm9YaGNiOWV3UnFfbmNiWXZZQ0pTbzF1WWctcEd5Mmc5T0k?oc=5",
+      "headline": "Rubio Hosts G20 Ministers as Iran, Ukraine Wars Divide Members",
+      "publisher": "Newsmax",
+      "date": "2026-10-30T15:45:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDJMWENRdVBtOWw4b2FrZ2h3djlFWHNqWE9DV3RwTzlYV09HcE9ZVlFfTDlLeXBSMEtrLXhvVmdfbFFlclB6bnNYNnBOVE5ZSEZpdXpVV2N4ZWVWMERjTUxZb2MwUlJqSDF2MDgxVzhQY0Q3Wl9JMi1pUmQzZGQyS3JHazliRFVC?oc=5",
       "summary": ""
     },
     {
-      "headline": "APTOPIX Russia Ukraine War",
-      "publisher": "dailyrecordnews.com",
-      "date": "2026-10-30T15:47:51.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1hnbUJrajF2TlN2TS1abGVmVjk2a01nS2JrdF9vbTVUMkxHM2pFbTlLZ204R3FNMXVMSlVqVHR4SHpuaGVUTXlIZjdCOTM2OGtzOTFEeG5WNDBTM1hBMEhFbmxDQVk4M2VhTFBqSWgtNVM1VTVXN3ZSMk9XMzh3LVdoV1ZxQzNoWEZvU0tEcnN5VzBEUWE3cFVGX3Rxc3JBMm1OVFBVcEswWWxKWTVZbjQtLVFkNlBGd0NCMGxCajBTellkM2hF?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Video | RUSSIA VS UKRAINE WAR | Thick Columns Of Smoke Rise From Russian Oil Refinery After Drone Attack",
-      "publisher": "NDTV",
-      "date": "2026-10-30T15:39:50.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTlRPdFRwQUhXRzUwcVI5VmE5cnBaekJjWHl3cDA5VGZrLUZINmNPaVpjWnJpWWtsTmgyd0JXVHdUd1d0elZ6X2RfNjFZd0NNeHQtd05KZ2NKNmVHbU9fODlha2ZlYXZSMEdCRzlYVGxXOFp2UjB0bll2clFiQ0RGc3R6djBOejZTZnVCaGZqMWt5Ql8ydWZpS3ltQUJqR2pKTHpDNVpSQmFRLUQ2R1ZCQ1Ytc1BQcTVKb3RtR0V5OXVGc0poZUtfaQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Plans to Push Military Salaries Into 2027 for First Time in at Least 18 Years",
-      "publisher": "UNITED24 Media",
-      "date": "2026-10-30T15:34:08.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSU5VbzVtQkVkLTh3WTFzOWYtRFNIZS1yWW1JX1dkZWRrMElpOXh1c3gyQnI0NkhIUE1CR29jT1o0MW5GZnZyb2x0RzlDYXJnczZUQnRyWllNMkVXcFUwWlR3TVZ4TmQwNW1hS0g1eTItTGtKb0F2VzA1d2ExR21tYWNfUll1ZEV2VlpKRlczUFRXYjlrZTJyWUxDR0pCY25lc0N3ODVpWDBYTFdienUwdzlqV09VY1dzRUxEdnJjTQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "European politicians urge EU to use frozen Russian assets to support Ukraine",
-      "publisher": "Anadolu Ajansı",
-      "date": "2026-10-30T15:24:48.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVRHcEVTVHVZakpJOGd1cUw4bF9RZlJuUFp5UEhKV25JTmM0TVItcnk1R1NBZGxOYThZdTk5cjROMzAzdV9wdnN3YkdzUTZuRFZyYUxxYU5hRHcyVm5zQUpqam9GeVk2aFFmb0lGMzFtWktidEl3VTRaa1VKVWN2R19rQzlRWm1VMUE0b0hWQXlnSW5TdEZ1M0U2YWtqSTFfdFFPNnJnSzVfRmVucVlRWGZpX3RHbEcwMG9hYXFhVHAwdjQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "APTOPIX Russia Ukraine War",
-      "publisher": "The Herald Journal",
-      "date": "2026-10-30T15:22:10.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2sxSHFjNFRUbWZJMzFOaHNwWUpCbzBkN3hEQkpDdzhBU2hrbU1LbHVSZXk2WU12cXowcC1mN21XOGdEUTFMTFBaelItc1JyaFRJTUpFOFR4Y0ZIVHFtZjkxMDhUeG5JTjdBQ3l1MmVGS1JTd3kxMHZycXZiZTlmSENwR0FTc3M0N19TZ0djT1FGZ0pUeXNTa3BlOEx6aFluQ0REampn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "War in Ukraine: Evacuations under way in Russian-occupied Oleshky",
-      "publisher": "France 24",
-      "date": "2026-10-30T15:21:47.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHpFbkY1NTdNZnF0Q05XcTQ4LURuZC0xSWxVeklRVkNic0RYZ3VfQzdrOGdoM0hKaE9MV29uTTFYbXFRcDBqZVpBaUhiVUhSYTNiQnpaZVM4dUZWWFJUWUVJZk9mTTJCQkg2S1BqUU41V2ZJbUo4SVFjRDF6bmFUZlF2eTc2ZzJLeXFYVm8wZHRqaU1Cd1RsdDhKLW8yTzJpbkQ1VEI2eFNxWEU?oc=5",
+      "headline": "Ukrainian special forces ambush Russian vehicle, seize military documents",
+      "publisher": "The New Voice of Ukraine",
+      "date": "2026-10-30T15:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaU9zSVNwVjFPMy1RaTlPTzZOMVRvSldFYkZVVkN2a2lySjZOaWQ5ODBvenIwYm1VWUpONHB1RmRDYWNRdHJjUzFGR0gydHdtcVdDZDRxb24wZGV5QUR1M0twU0hFMDl2ZTZzQVpwb0VodjNISzRUVUhONmpCNldPa001Sk9UcTRDX3d5RURLU3dmU1pDTmsweEtJQnFoaEpHdElhNkRseVJQTV9ET3ZfalRaTnItM2kzRlhXT2tXRkhVVnN3SGpnR2dVejlLQnPSAcQBQVVfeXFMT1dUNWdoNUNZdHd5aW9hbE04Sm56M3ZXc2wxSlJtVFNmU2lDZnliVFFjamJaTmhzUVlyUUFfeGZzTVBfLVd3QlhGcm4tUlhaU2pQdkxlc3VCSnFabGJqTVdIUGl5NEo0a2RqdEd6TFdUeF9lcGhqVWxIb19aN2Z3VHZaQ1Q0TWdhc0QyMDZsejYyQ2JlX3pXRmYzUUh0UUxsZl9TWURUdE10OHR5SVNlZ3ZpUnFBUl9YN2JNV2NSb2ZhUlRYSg?oc=5",
       "summary": ""
     },
     {
@@ -215,10 +355,10 @@
       "summary": ""
     },
     {
-      "headline": "Zelensky to visit Turkey October 31: Istanbul talks to focus on war and Black Sea security",
+      "headline": "Sybiha: Kyiv is ready to work with African partners to prevent their citizens from being drawn into Russia’s war against Ukraine",
       "publisher": "Mezha.net",
       "date": "2026-10-30T15:15:57.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDRDN2xkNVJsNkJwTGJSeVpsNHFOaU11ZWZDT21iWXViNW1pdVZBRmM0SWNtZGQ3X21DWS15ZTl0MVlCLVFqSFJvUTNYdmRIRHZoaTlWTEFhOTJWeTVKd1dGOVJVSXljaTRMakNDd1I4V194bWNlSElwSGg0QjZGQ3h3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aZW9XTGZBZnVYa1lfSjZPLUMtV2QyWXFVTGhqRzN3bDdaZXpjOVFzQWZYRzNETUFsbTNkYnFMWjFyemRjazRVMkh4dW5PS0d4YVFUalNEVnFaSTFWS2R0NzdqTVl5SXh5dnE2WFZLelFtMm1qbk5uQWtzWUVwaG8?oc=5",
       "summary": ""
     },
     {
@@ -229,24 +369,31 @@
       "summary": ""
     },
     {
-      "headline": "Erdogan, Trump discuss regional tensions, Ukraine war and bilateral ties in phone call",
-      "publisher": "TRT World",
-      "date": "2026-10-30T14:58:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxbGcxOS1xcVlKc3F1VFRrRTR1cXdUVjJPX3pCbFFTaGtBLVR5S1hsQUZJdmV0Znd0eVZQQ3hQVHMydnR1RUZnTkprUmJEUmtrSGhFVHFIZUQ?oc=5",
+      "headline": "Ukraine-Russia war latest: Kyiv defies Trump with strike on oil refinery deep inside Russia",
+      "publisher": "Newswav",
+      "date": "2026-10-30T14:48:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2M4WG0zYzBHX29pREJzV0R0RTdzZm4xM2pJSzZLNnExRkQyMEdmOWh3R0dTZW5WNFVKMFRHUkJsdnBsTXBuODZHR0NqUHN5N0tKWVBUc0NzNXdzelFaVHI1Z1ZrdjNJNUpKRDB4ZW9Dc3c1RlZCWGh2NUlkcTA1d0JKQmdwMUtaTkpGd000akRZM2VtUVZJZmFvRjh0WmVRSmI1ZTJkTk5WMEVlZU5iX2VmNjVqZWc?oc=5",
       "summary": ""
     },
     {
-      "headline": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshky",
-      "publisher": "AOL.com",
-      "date": "2026-10-30T14:50:57.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekp4eDlkQXA1RjJOSGlSTnktVXhFeGY3aWRRbldYTVRSa3hveVVMT2RsUWprckhsWm9ZZ1ZRSDBUM1pJY1c1TFZValVHYkhxeVJNb21tZ2JRVXhmSVp4Yk81Y1ZXUjdhQ3JBRGZSQ1VpSjZiNU1jRHhJbzJvb2VaYkk1TUROakRRSzFaN0g1LVE?oc=5",
+      "headline": "Ukraine has resumed strikes on Russian oil refineries: Russia - War in Ukraine - World",
+      "publisher": "Ahram Online",
+      "date": "2026-10-30T14:47:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX05ZY3NRbFFFcnlmWUQ2Z1UzWXNzVkZHenRhUGQ1Q3c0bEdkbzhfaHJTTTE5ajNlaHkwOWxqVGdyUzNTcm8wZDNiQTVyQmpTQlhvZDZGYnpjQlRnVV9jZUN2N3dFTlllSWZqODF4V3F3ZFN6MjlrRl9BNlpRbm5jNUhCQUY3UWRxUFJOUk5jcWxJWEFiclMxYnU1UTZYXzFqRHRqQjFub2FHM0swc29QR2xaWkJTUFN5cHFQLQ?oc=5",
       "summary": ""
     },
     {
-      "headline": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshk",
-      "publisher": "CTV News",
-      "date": "2026-10-30T14:49:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeVNWMV9qVVN6VDRvY1ZCVWk1NWxxb0hSSkhCbjk5dkg4bEpvcXRCb0lOTHdFQWZONHJJVUlDMUpEWTA2aGp2VnVMbnBqY3ZxQWRJUWR3RkZaYnZuanozMGdCY3lYaDFHbG1qV2I2eTJRVlZ5cjV2NVpBMDlGVVNPTDFsZEhpc0gyWkxKUVpCZUpNUVdhM3Itcm80R1FGc1A3YldVLTZLbGFWV0ZjSWVMbnFNc0EtOE43UWhKZS1YUDZfUFN1S09qQnFQS1AycGtmU1RrUTN6RGNKSUJDVF9zYjEya210bWs?oc=5",
+      "headline": "Putin open to phone call with Zelensky, Ukraine suspects a Kremlin trap",
+      "publisher": "The Kyiv Independent",
+      "date": "2026-10-30T14:47:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTURJU2tIbXJnZzBCLWNYWG52WHdMRnV1ME9HTC1BZkJ4YmUtTy10U1ZoRHl3TU51SUM0X1dZNkdIdjN6R2VFUFF0Q3Q1Q1d0WFUza0dNZFlJOGttV0RObzNadXAxYmdiTjZ0VFYwRXhlSk1CNGZxemdPNGllcW9BdEdMbDdnd2dMLXlwem1PYnlNUmxUaURUSXdPeGZ4WHpm?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Moscow signals Oleshky ceasefire offers no clear path to wider Ukraine agreements",
+      "publisher": "The New Voice of Ukraine",
+      "date": "2026-10-30T14:40:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekwwRGYwUmRCdEVMaXR4SUxWcVFISlRadklrOUdieGZSZzB2OHZDY2Q5Sk1DNWZRdjNBbWtFM2x2WFNDZ0ppaFRwZW1ELUZvMWx1a2VxbVhnS1NrQ1NCTUIwMkJnbTU4QURQOGk1UjNjV3ctcFNtOThmM01JMC1CekZLeHlQRlBhT1JhLV9EalB3d25QZU1vN0VyVEd2OHlwc09aR0ZYVlhiRTYwMU9kLVZmRFh6Q3RDY3l1QllRMm9SY3Z2X1Bma3FYc1Q5dGZjWFpWYdIB0AFBVV95cUxQMnBXNGJJTzNoNUVhRW5DOHNMR201anY1U1E0MDFVWFdJZ3JYSVFIUEQzTUJLZUs2d2pJSUhQcE1BdzZjT2wxUFFYa3pWTkhrZ0J3RWVESUNJOGNxTy1ZSkxDUnZCZlhzU2FyLXR1ZEM4NFFkMk5vOFlhbjlIZUVXeXpvZFNkQmZLanIxbGhCOUFZaE5OaDM3N00xSF82MmFmRkxndmdRU0dqdVRtWEx3Q0lKVk9NdXNoRXZxdGdKcEY0T0xFbDFfMC16Mnp1X1Ex?oc=5",
       "summary": ""
     },
     {
@@ -257,24 +404,10 @@
       "summary": ""
     },
     {
-      "headline": "Russia-Ukraine truce for Oleshky allows aid mission to help starving residents",
-      "publisher": "South China Morning Post",
-      "date": "2026-10-30T14:30:07.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm9ka216akVCUml0bkF3NHhOXzJWaWhqU3RUeU9tazlDQzlnazRXM0tzWTJnNXZUSzI2MERMRnpmaFVHRTNKY0pqLU5EN1RSWU5qeEVhZ2xpWnRTWm9wQ1h6RUtLRTIxMXVtbm9sbzU4ZEpwM3NnWlZYSkdyaE5rNDgtWGg2Qk5oeTZib2d6bTFhb1Vnam9IZnZyN3NzMDVOY084QTV1ZkFxWk1BXzF4aUg0bHVzVEZpRklYWkNkeFZXbGZS0gHEAUFVX3lxTFA4dmxuTEc5V1FmNHBscjdDQXAtelRLcDJXTTNZSEY1VHlRZHViV2lmMXpDeVFLdWFTNU82Ym5uc2dwR2NvemttcjZ3Y09RMGsxZUd6My1sbzBlTXF1VzhHUTRtb1BLMElSY3ptdGE4RGVQeGJKcU10UjA1RmdwcDl0SHQ1c2tud2VkWmpMUnFSX3RYc3Vvd2dmOU9TWGpnVzBXcnRfYzZhV3hUTlZneFozUGMxVlpjcGJvVjQ4SDcyeFB4ajI?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Brief Russia-Ukraine truce facilitates evacuations from and aid deliveries to Oleshky | World News | 2news.com",
-      "publisher": "KTVN",
-      "date": "2026-10-30T14:17:47.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTnI4VXIwRGVrT3R1bkpOV01sdlZQRHBqRkJGNlZSdHpPNHdTaDNsUlpocm9sbDFLRXNTVTlLa0M3ejI5R0U4NjZmRHpVd0NJaGxOTlZKVTQ3ajJ0RVB2aS1OdHZhMTlfdTg5bkN4THZrOGVzUlNQaXJzVGg3UEdMa1BJa1ZIMlBpc05hVENkTlBmeS12aC1LcDg3bkhXSUtlY0w5VjQ3VEg4MU5JT3A1SFBVTTRjSDdCYUNoUmVzV2FvVV85Mm5KVDRjcVlrdldRZUpUQjFhVnVVMmJIdm5pTzN2aDZyR29fdmJtUDdYTVJabTJHMHp2cnR3?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Brief Russia-Ukraine truce facilitates evacuations from and aid deliveries to Oleshky",
-      "publisher": "Ottumwa Courier",
-      "date": "2026-10-30T14:17:47.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU2ZhQThhVWxiNE1Ib1dYWW13MlFCYUpQZHZZdkthMVVqaUhMTzc3VjE3RGZMcHNOUTY3OUF4aVlVYkNVZEtCaUNSWVJnb0Y3OGFDYTRpVFN2SmFIUXJGZnN2ZWtWNlpVcnF1NWNabWtuLUIyVFBQX0wwX0pkME14RU1BYTRSbEVtYi1MQzJXV29INHNkLS1EOGwyRWtzdDgxdmJyb1hNNzRPWjF5cnVVUjJQRjB6blp3MXVRYUlGLXVGZlVBOUo0T3R6akRHT19FUS0tZkc1cmJCUndXdXVxN1AxYk1jTlNwZmhSaTZXRFB0OXhNSDJITjVleWs3U0gzNmM2cnlHYnhyVVRESlJYQlkxNA?oc=5",
+      "headline": "\"Russia is not my enemy\": how disinformation exploited elections, migration and the war in Ukraine",
+      "publisher": "Delfi",
+      "date": "2026-10-30T14:26:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNjBnZWRKcXB4cjZOLWtQRGQ5ZzRrRTNSa29wcjZTZzd2VkNwVjdCV0pvRFk0eFV5Uk1TWEg2azFIVURzUE42VkhTaVJGQUdibFlmaE5rUF8wR1JVSWNocUdzV3gxN1Q0dVNrWmpmRmJTVGdYN1Ftd2phM0lxRWJSYTZCVkQwRWNFSkhHMEZnQTQta1ZqU0YzcU9FbmZYQkF1ZEFVQjM4NDlsWEk4X1JTZGRKTm5DQ3NUa2JOZ3dQclNYUUY4Qkt3b1MwNldhUW5LdmdZ?oc=5",
       "summary": ""
     },
     {
@@ -285,143 +418,10 @@
       "summary": ""
     },
     {
-      "headline": "Kendall Lions Club donates medical equipment to war victims in Ukraine",
-      "publisher": "Orleans Hub",
-      "date": "2026-10-30T13:56:11.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnVpVnVGV0Y3X19IZHJ1cm1kbHY5blJuOW03RlMtVFZZekEyZXJFSGVuelBJTERkYlhNaE9rQnZXVFBmM1FYaUdZdlRRdS1HRUpXNHBIaVFCci1RMzhhV1RlR2s2d3Z0VHRLTGxOdkV6NmcxLUhnZ2l6eXB6VkJNdmNJZ3JLS3NmaXdvSmVCV2JsblcwVERIeVVB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine destroys Iskander-M missile launcher in Russia's Kursk Oblast, General Staff says",
+      "headline": "Explosion at Spanish ammunition factory supplying Ukraine injures 3",
       "publisher": "The Kyiv Independent",
-      "date": "2026-10-30T13:41:39.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXR5ZlVMR1FXWlRWQ0tGWUpDTXlGRjdlejc2MVpOMUVtOElzU3RjY1lyTk8xeXRwWVgxX1NFZTBnZTY0TDF5TlV5XzBLb3lqRWdrZi0wVmhhNkVRTzNpdnIyWkVFM0g0c0xZSDZNRHJ6WDRBc2M3eWZwbFVqU21FWXNxQVZrSkp2R1FQOVAyR1haMHBZUnNyQnRoekEtcmh1a0k5Zm82cWRRTTJkZktfUlhKb2hKWmc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Melania Trump-brokered evacuation begins in Ukraine amid fears over escape route",
-      "publisher": "NBC News",
-      "date": "2026-10-30T13:34:37.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVsRnFtZ1BmOG9GZ1J6ZFUtZzFHYVVOX2N6Y0hBNmpwY3hKbzV0OFo1T3htdU14Rm1KTUhPdGpzWUxsc0FwOXhDQ0tieTlIYk5VVXdDS1NLQlZla3JheFYxNUdOZDdQYjFWN1g1UGlvUU1qUnZMaU1PQmtHOWxQNlVoWC1NQXBucDBXenlxREczZGtnWVB0bjhPcUwtVjVQeElaT1JsMA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-      "publisher": "The New York Times",
-      "date": "2026-10-30T13:33:25.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGdZT1FXdzFJcnlLSHFTMWdTTm5BTk10S0I2WEpYWmdRYU84SDBCTmdONjc0cWtJNURtN1JYZHJJQXdPME14TmJFU0w2R01LRXUzUVJ1dDF4N2xneEpfdE5BWGdKMzIySDAySzVpZFJpSkxmcS1qcWlISkZjdG9LZ1dZaW5Dc2NKSklfc3dn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-      "publisher": "Al Jazeera",
-      "date": "2026-10-30T13:32:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHBEMmxTeGtyU0ZCYk05WXFQTE5YVjY2Q2w4VFRIOTI0UTRtR0c3emNIZEthQzRuSGdEQ1NXb1FGYVRVZ3JWV0VwMHRlcGRxeDlpTXB6ZkdLWXNMSWY5SS1ZZW1lNHBRUDNDem1hSVZxMlJ5RkZVZmVHWXlYanQ5aXRfMUlyUjlncWhwbVZ0Wk1qWTlpeG5MMTBGTnloS0NLWVh1MDNlaUkzb2pJMktDMkdLVjBWZ9IBuwFBVV95cUxPYzJJZElWMC1xLVVMS2dhY0ptOVQtT1dhVDFGaEtjMGZBVWpJQmZoTmNNeXNiTndNSlB3UmduR0lkQ05Bb2NRQUtRTGhaWm9CUERQTERwcmVyaGh0WndybHNyZE5EdDdLV2xRcWUtNTlya1piYXNnaUpGOW5UdzVfdnlnOTM5MEtRbU1XbUVJdmQ5MFk2R0kzYnN2cTNXNGtPTU9rLUZUdUZKdG1SdHRiSVowcVU3S0t3LVF3?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Aid operation and evacuations in Oleshky amid brief truce agreed to by Russia and Ukraine",
-      "publisher": "PBS",
-      "date": "2026-10-30T13:31:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRjYi1vSXNocEdIcEJFR2dpakNOaU1kdkpzMVl3RWllVXRTNVpZODZhZWJlSW9SWXc2Z3pIekZZQU1zYUIxNzE0dThRTmpONmV3RTd6QVoyVDBBRDZsR0pNOWptVXhLT3lVa05KMUpoQ2t1VFpDQWx5QVVPckVJUXhUNl9aRkU2MlQ4Vi1QczhJd2JveGxpTnZjbEhTZkI4LXZXZnVETU1Za3ZlWS04VkNGOWNFZlE0RlhRZGRZLTI0UdIBxwFBVV95cUxQQ1JqUTU1Umt4eUdPZUtjdXNOdzRsUU1RMmc3cnhHS2pFZXBjS2NRbGVVQzlfLTNXVTM0dVBBaG9zbVdjTVF5V0F2V3RJa1VqNWlMSngyLWJPN3FOaFNCZmVGVnlKLTBycVpSWm5ucUh1YUlMZGF2alBzdEtFcjAxc1pIV05JS0liWDlOTnI5RjR4YTczZVo4SlNvRnotOTBidXQ3dXhwT0c5bERxVm9QX3VaczdhZW1Wc2NvMEQ2VWthcnByNGVJ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine War, Day 1,709: Russia Murders 14 Civilians on a Train Platform in Dnipro",
-      "publisher": "EA WorldView",
-      "date": "2026-10-30T13:22:47.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajlkb2RDaFZxVjNsQkk1YkRocVlqeFEybndaaWN1MzI3eHdWdnVlYy0taUs4eC1xWkc0WklsOVFoNjhmRmtweUg2ek9pN0RDWElDQUhEaVJFdlpSMGVScFN0NTRPZW8zeFhWeTdnamtsMzRCYlFCR1NuaHJ6Q204cXN6UVVxN1ZlZGcwWnlIa0FsZ1N3Z1FVcExQYkFkVlNz?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region",
-      "publisher": "Boston Herald",
-      "date": "2026-10-30T13:01:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnU2NkJRbGtnYmg5dFVWVk1lSDJsQWN6cmU3cjBIbkdFY1NsZm5ocW9wb2p5UVFuZkpGMkZQLUQwUU9fSksyR3k4NlU1Q2wxTDhTeUpvMGcyTWRxamhmLXpsRTZqVjg1WnFDbXdROElGbnFIdkFRN0xnUUZVVWVIMg?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Gets Another Green Light in International Sports as Hockey Teams Are Cleared to Return",
-      "publisher": "UNITED24 Media",
-      "date": "2026-10-30T12:42:32.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUJaNWdYTmNWRTFTR3I5cU9pYk9hb3c2a2V5dXQxRUd5MUpyVHlBNW1YUDliTk5fLTNTaUwtbWlZMGNHcGJ0Y0VBQWZwcnRmTjVRWXNDTzQwTkd4N2pOS01vYmtXU2c5c3lLcTN2R01GUGRiLW1jaVZfanZFVjVwaHgzQ19VSG5aYWJhTmZrTnlZQllNRURsUnYwNWVReTY5OEl5aUZZdDJyVks2b0JCN1QwSFpmM085czQ2MXA2WlNhQ3NuTVdxZjlNRQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Main",
-      "publisher": "Odessa Journal",
-      "date": "2026-10-30T12:23:48.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaFZNaGwtS0IwdVZaRWwyTHAzRTVoc2RFVkJtTzlBODRFeW4yajQ5cngwdDk3Tkt4TjhHWUQyZERhd1A0QW9UMEFqOEtQUi1UYXVJRzAtbWM1LXZzYW5kanZqWXhWcW9oTEh5NW9Jbm5KNHVZOGJBcVFwMS0zOGVmcFptUjJCZG5nRjZxWlNZZmZ2cDhZWjgwMGlsemp2eGREMWE5U18zSFVkMk42ZVlmZVQyOG00RkdjRHdkMXg0OGFSQzRwTHJ4SXY3bjZaOHZwbDN2cA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "U.S., Ukraine favor Britain, France and Germany for Russia peace talks — FT",
-      "publisher": "The New Voice of Ukraine",
-      "date": "2026-10-30T12:23:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUV1YkN3M0tRRzBpNGFOUnhSLTFiMTBIRUVVNkRlWnpSVGg1VzJxQlExYmNlY2ZpUGs3N2g4RFlnRzVQa1ZYWUV6X000WC05V05RTjd2UlZkLUhweWI3dHBYYXlqLXlTamJLTXRtNjN2UFZBVTFnZkVTZlMtZzM3eDRmeFliTl9CVzFlZ2lSU2Y5V1VtbnlVSlN0aXlwR0w4R0o3U0JDY0hyVmZDOGpoYzFFRUtQSERxRDBZOXZoRnJyVUstbHBjTtIBxAFBVV95cUxQWnpGUkFvVEdPcWRjZklNd0hqUmpEQXJMY0VxbHRJcTVrT0F4N2lHSUhYM0ZuZGZLUjFEblBvcGttUXFaLU9MeE9zTXAzZ3c0ZUs0eHFjWFZfZFZUc0ZkdHhZYU1WOUxTV1NRZGoxdzlZaGV0TFB2SXI5aHZGbDJqdGFUZ2E5RDB6dnlrdGFodGRzaFRjUE1OSnBXb3k3bm1KYk11RDFSR3ZyUXJjUXBhQm5XMHd2VnZGVHdoa2RVS0VKMFg4?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
-      "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "date": "2026-10-30T11:56:34.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmtJQ19vNkJvbHZyY3JYbmZVWHdwanFFNTI1S3IzTS02eWhGWlNlMElacWhQazNzNGNVb2w3TmdEVk9BeHpPdVBNaVBHVm83VEliOE5FSXNPTlhzbUtiWDQ1b2l1c1JxOHdTdkFLSHpVakltRlFvbjhjMlRyOVI4V21SdzRDaXlzbUVGeVpkRzV6YVhGMTZWa1NMQTJweG04R1E5Rll5RTY?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "How Russian Propaganda Learned to Look Swedish",
-      "publisher": "UNITED24 Media",
-      "date": "2026-10-30T11:49:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDA5WE1XWkZLeHFvRTRRU3I3RE50R2M4ZW83N19SSzBYb1N6Z3dQdWRGVHFYbVJ1VjRRRjVtcEJ4VUtVcjV3eFF4RG41YkY1WGpLUUhwWXFOME5zOWV3dGMwb04wdlNzVzA1TUxQZU1zdTdCbVpRYWs0WEVaMk5MYXF5ZXo1WDVrYWluUQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukrainians trapped in a Russia-held city get chance to flee war during local ceasefire",
-      "publisher": "CBS News",
-      "date": "2026-10-30T11:43:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzRGYUFzZVFFQkNEM2lOVXpKZjdLTmNZbkQ4V0loeldjQ3AtM2lWdU9mbENDVFNoenN1ZE15MDYtYVh6ZmFheVZLYzA5X01jVzZ1TzJWbzdkbUFaSG05MVp5ZEVWNkV0NWNYNHQzZGh0UlNhTUlUU1ZQLTc2b1B4SmlIckZPVFN5TUJuUWZsWVBfczZnTWJFWnVReEg5a2x2VVJUQVNfdzRJdU1Cc09lNzV3cG1DNDNE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Former US ambassadors: America must stand with Ukraine",
-      "publisher": "POLITICO.eu",
-      "date": "2026-10-30T11:28:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPck15ZFVlRllTVE1CRXY5UkxEOGpWcVprYWRDRHZZQWZGUFF4eTZkSXdHdWpaRTRYYTU1aWZaVzNsNVRwWF9pUGFLc19Ibm1qaHQyR1V3RUZ3MEZKRVhwTjVWZldZMHRna2FwZ1ZTdGNlSkx6R0VKc19YTFozcEdrZU1JZDNIbDk1b0lpMmJtRHRQVDNOcGJoUExxRFN4aUZUVXJB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "UNHCR Says 9 Million People in Ukraine, Syria, Lebanon, and Afghanistan Need Winter Aid: 7 outlets compared",
-      "publisher": "NewsCord",
-      "date": "2026-10-30T11:26:34.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUTN1dE5MZ2t5bHJQcy14LTJsYnJwcE0tNEtMM0t4cGRieUhrdWVTQlBsVjhrM2YtQWUzZHAweTk3Y2M2elJKTkJsc2pJMnNOcmxCOS1JZmZsRWVMbzBuMGlKbHJ4TmJVNi1tbFBpS1F5YUJreHJaYWVGeVNlU25tdmZyT0pocFM0Q3NTcWp0V1lSYU43VU9NRWFEalRYZmZzODZ0ZWFrQmFGdkRGbTdvR1F4bVNmMnhoaEg1Tzd2ZTcxTk94Tld5NFhPWmdYZDFZQkE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Ukraine War",
-      "publisher": "The Herald Journal",
-      "date": "2026-10-30T11:19:15.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHJZZ3h5UlQ2c3VqRVREUUZuSjFtSE9XQVBuUE9Bb3dEZktNMThZa1N5VmR4TnotRWhnWmhGMGoya1RwM3lRUC1SNHlPT1VsV3RIRVhYVGNxX2NtalIwR3JpclpHZjJHcHIxeVhrb3dVbE1QVG5aSmJoVnBpU3hNbDlZdF84LURfVGxTSTIyV0pYX292WHVpOG80NA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Ukraine War",
-      "publisher": "Goshen News",
-      "date": "2026-10-30T11:19:15.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1lFQi1FRmhGWmpsWHBPWDhtTmd2ak9BVE51LUtBWmtTRTdYRlY1SWlCUndEdkxKMW9kZEp0ekZFVFJHWjZrVC1rXzZ3bjhfdmp1MkpVQzNVSFRENHhkVnV0NUZyQm85SzE5a1BKQzlpODV3NXpBTnZPRmFONmh5TUxvZFU1andtS0VlU0ZBRUZvWTk0azZEcFN4VEhJaG5fTzd1aGV1aTctMUF4cUpPR0R3?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Ukraine War",
-      "publisher": "WV News",
-      "date": "2026-10-30T11:19:15.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSU5GR1lqd01jOC01cWljYTk0QmVwN0FWVzgzLVUtRjQ3VmhGYnpGTGl5blJsaGNvTFZ5SXk1LVJTRGdmcVZNcEI5bVptcHNQdWYxMDhmckwwRzBqb3EtMGVUUWtNNzRNTTBfbW5qWjhFd2M0VG8wNHY5WElfUHM2NUhBS0VjWGtfb1RJYW96dm42OFN1ZTRvOFd3TVRQQ1ROblJ1MGZnTQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
-      "publisher": "Al Jazeera",
-      "date": "2026-10-30T11:11:58.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGVqeWNSelgtRE1YQlBIR1kwc2Q3UVJNRHMwMVpIdVdreVRXZkZfUURSdlZnY3FhTGFELWx5Z1NoQ0hRY1h6bFNqeE5BNElSbk15c2lzaG9oNWtEVDZSZE9sUGlyZVJua3dMRjUyX21TT1Q1NmJNT3RXXzhycEZfYXBaYTd1LUpVZ1JER3NVRXp5eXNtNlc0LUZ5UnRYQzI0SGpZQ1NRNNIBrAFBVV95cUxOMGY0T3ctZVVVMnVFRmtldl9wWHpxRmZnRTBBWWNZZE9iV2QzdzZuY0c5X3dEazIteGxINGRpZFVURFRoQjZ4YzhGUEJuZ1g4RUs3SkxvSGRfVi1JS29hX1V2bU5PYnRHUFFVdkxnMWtWMDBYYi1MWkZpcWtPcDVpV3lQTGhXVms2c0tPZmZoaWJmZnA5bDRGV0EydVJCRHR2d0xhMk1GNjRzaFhl?oc=5",
+      "date": "2026-10-30T14:01:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlZXTFI3cWctN0FSdzJxSF9LVU1IX0tRcVF0SWNSam5iX1NKRElSQUlTLURfS3hOT182M3RnblN2ZGU3WVdEOTJBQTRDRk9TN2J1WE83aGI1LUNQOE5NZVg4bmlXR0l3RkNCbktpekFwdWdBb2I2SzF6OHQ1aTA2UlhhZUxMWHAtYkEzY2ZNN3RSM180NUEtME1ZUDUxdw?oc=5",
       "summary": ""
     }
   ]
