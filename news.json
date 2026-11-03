@@ -1,28 +1,350 @@
 {
-  "generatedAt": "2026-11-03T01:29:04.707Z",
+  "generatedAt": "2026-11-03T08:30:39.604Z",
   "source": "https://news.google.com/rss/search?q=ukraine+russia+war+when:1d&hl=en-US&gl=US&ceid=US:en",
   "windowHours": 24,
   "count": 60,
   "items": [
     {
-      "headline": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-      "publisher": "Al Jazeera",
-      "date": "2026-11-03T01:18:45.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHZvSW5GSDFEOE9zZmtIWDl2b1d6ekdmakxaeHUyVnhONkxjTVJzRXBiejhPSFhOcUxVYXVyOUpYUmRWMG1HZVFvd3RhR1hicnpDUTRyR2F1emh1UHllYmZXOVJocGxkeHQxWm4xNnZIdG8tTmxVcHBkbnZ4ME5MTllrTTFhN2dDSHk3c19KSnl2eEpUUXF3YTdCbUF4YlZZYkdHeUp6RERLbXFWV0xJNUpkdEbSAboBQVVfeXFMUE81Zmk1NXlkZ3o0cGlSYmdYYjkyZVhFSWM1Z0I5QmlFaUV0WEFZb2x5cW1YZS1acDdnY19OdmdidnRmR3pCQ0RiNmZfNnRYVkpRWk42Tmo0aGN5ellEVE5yUnBQUzlWbFV0TVpaNGRacnVoYi0xNFRjUVZYSmVVQlpWM3hxeDhKSnlHdkdEMTRFQnhXVU56aC1wZXhNQXF4SzZ0Rm5Xa2FIbFptcldnVE1sNklscG42MTZB?oc=5",
+      "headline": "Russia, Ukraine report cyberattacks on emergency warnings apps after Oleshky truce",
+      "publisher": "Anadolu Ajansı",
+      "date": "2026-11-03T08:25:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON0s2ekZuOUlqRHdRd3o3a1VCTnBNS285VXlLa3lkc2V2aWlUTkZldXdDOEdKT0JjaTRMRTdRaFEzWllMLWdXanFIU2QwSDVtNlZGTExuVnFYdGR4U1ZzdU5QWGdTMEhMLWtNUFI4M3FONzNMcDZUVlg4eXBMWVBreVpFRmM3NVYxRVB4V01feEtxNzMyWVo0TXJIS1dMZHdaTU85Z1JYRXg5MGxvWDVSZjdBeXpaQzY1QWtBNzdoOEUtd3dJX0l6LWF3MWV4Zw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "China rejects prospect of Ukraine peace summit with Trump and Putin",
+      "publisher": "AzerNews",
+      "date": "2026-11-03T08:17:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UWldPYk80X3dnZ3R4blBGSFhtbXZGSGRXSnNleF9rWVd2MG42b2c3d3FOZ2pUbm1jR2FpUFdLYjJrYkZ1VTRIQjgwcWZjZlo3bE9RdA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘Boiling Point’: How America lit and fueled the Ukraine war",
+      "publisher": "Asia Times",
+      "date": "2026-11-03T07:52:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVpNT051VTI4cHdNS21vYUZTa3p5c3ViZ2kwRDZZdGp5R2Q5VEU2cHI1enowM2pGb3JOWTVHbnRFR1F1OHpYd2RyOHQxU1NsbktGNTl6WkJQSjRHbWtCNm5BNnJKMWJZU1lVcFRacG9oeUJfaGhlbzVZbmpHREtDcTVQWVlCbFAtZ05qMll1QkU?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Daily Update: Russia Loses 2,060 Troops in One Day as Total Nears 1.6 Million",
+      "publisher": "UNITED24 Media",
+      "date": "2026-11-03T07:52:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmpMWGlXaVR6N2ZVRHlkWWdiWHdPbDJ2Q2ZPSzVvOFNpSDBoVC01TkhLekpFOHYwcTYyd3ZENHhwZ3F3aUYzZUlXbmRoZkxVMVppUHJvb0YtbnBSZHB0NFc2VTkybVJuWkNlRzd1RzRCUG1RbDNLakVFWEFRa0p4YjB4bTRiYTZSS05rbTRLemRrUGQwSkxOSFJaLUJOa01LRFhIMlN5ZmVIVnRrWW9vVnA2bUFMNlBWcnZHS0J3?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US, Russia, Ukraine To Resume Peace Talks Amid Doubts Over Breakthrough",
+      "publisher": "Radio Free Europe/Radio Liberty",
+      "date": "2026-11-03T07:46:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXhwcmlBdmZyQkRuWXR3cGVjaVBYaEFQcTk2TEtKSGY0WmdrS18xX29FOHl2Nzg3bHpWY2pUUV9vSnFpWDVnQ0pwZFpRZGl5WTVIOERQU3AwRHhjNmstdzM1YmpmdU1xcHgxTm1Wdms5ZXdtVFVMcHpnTl83bHhHVElJRUwxMVFoaTIwN0hHTVHSAZMBQVVfeXFMTXFaVXhMQm1oVmIyWXFLME5GaHg2UWxYMDBvbzNkRWpfYVRFOUdFclpfSTZ2UkpTY3pNRU5fRTk1ZzlsclcteXNhQ0ZobGg4NWJkampPaXc2R04xZlRYa2JtX1UxNllEYzdOZjZLdzRSb3pCU1Q3OTVXMS03cURRSUhtdEppZFBQRGJELUU4V0NXTkV3?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US Sets Nov. 10–11 Ukraine-Russia Talks in Abu Dhabi as Trump Pushes for Peace Deal",
+      "publisher": "Kyiv Post",
+      "date": "2026-11-03T07:31:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMdV8wcW5pNFJONk1oellvQWp2Z3hYaGZCUEJYdGlqSVB6ZHRHR3RhMkVubnlvUW1jQkQtOXd0Z1lNUjd6ZksxU2xNTQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine War, Day 1,713: 26+ Civilians Murdered in Russian Bombing of Aid Center and Shelter",
+      "publisher": "EA WorldView",
+      "date": "2026-11-03T07:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbERkUm9WZkNSMVJXWTlWQXd4QUJRNHB4dGc4T211N0Z4amxCaHVQbTU0ZFJTR19rWUJ0RDY0ZjM3dUNuTVB4VWRZLU51YmtQOGxiUFdHX3FnZHJ3Z0tZRWZoWW9zYi1uNndBVTl3dVBRMHlaWVN6YmpYM1VpOWwxVUl0NE1faFpIQ3FIc2RMaW1URC14T0RwZzBCN0laWjNQLXJfTFRCX3pxcm5PVWc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "1714 Days of russia-Ukraine War – russian Casualties in Ukraine",
+      "publisher": "Defense Express",
+      "date": "2026-11-03T07:28:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON19xcXJSTTZoUmdLRHFxZ2V1QlFZcFhKdlVBWWhnenJQR0hwSExfZHAwRjJ0ZE50TFk3d2xLMVZkMURBMFpESThmU1pNb3gxQmE1SkR5eDdRaTFfdjZ1SWJIWXhNa3NrZWdNMGx6RFpHcmZSTW42T3dzanJzaG80YlVVM2pjYk9vOTJhQ1NralpHOXcyT3htVFJxS3FHWkRBTFA4c2N3?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Could Russia-Ukraine Fighting Pull NATO’s Black Sea States Deeper Into the War?",
+      "publisher": "Modern Diplomacy",
+      "date": "2026-11-03T07:05:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmJYWlVmaDE4YkpSZnhERHBYclZwMVJZb1JCY0NheU9LZnpqaVd2SDhxRXpHNHpzM3M5N1RHN0IyQzlVb3Fkb3MxaGU1d0ZIR0JFNTdHR2dFVU9NT0huZUxJaGpMT0pLVGFudHMwQjhiTnYxVDd4bUk4Yy1KUWhhNnJiSE9IZUJXLWlTVC05T3pfR29JZ25DTHJ6c0s2U050MTRER1RyMmJKNlN5aldEallHcHluUjA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
+      "publisher": "CNA",
+      "date": "2026-11-03T06:50:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVllXVXlXYWpNam5FQTcwTHZxTnBRMWVZblpISVpOY09Cci11djhfQi1DeTdWQndFSFZLa1JGbFlxTjlrQUtNaUJWRG42TlJNSDdjOWpDbVBzZVFsV3JkVm5QTEg2cm1PZ2o4WjF2cEJYYllyLW1DdXV1QWRlcmYtaE12N09xQzA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Factbox-How NATO States on the Black Sea Are Being Drawn Into Ukraine War Escalation",
+      "publisher": "U.S. News & World Report",
+      "date": "2026-11-03T06:44:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUtjaGlhT2NwWTZNYlpFQ3E4ZlNOejlpbHR1MUU3VlFCMkFTVnNlQkxhQV9LZksyd2k5bjYwTnBSQjZXTHlEYUpRMy0xV3FqdlUzUFZrNVNkZE1ZNHRIeElnRHFseG12Nkg1dDZnazVpY216THdHTTYtdTBsS1dUNWljTWRqYnZYUE1paUlkSXVMZ05rcG5OMHlvcWh6bzlDbThxazlzeTltYVlDeDVyZWk1cHpOWjd1dXRaVVktVUJlT3E1RjhkOEFVakFtTy1iOVVFeg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Abu Dhabi to host U.S.-mediated Russia-Ukraine talks on November 10-11 — Witkoff",
+      "publisher": "The New Voice of Ukraine",
+      "date": "2026-11-03T06:33:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVlwZ0I1TFhPdDZINHNic3MzcERzM3FDd3FyYldnM0dMdXJyWi1FSGEwQk1Hd1I2Q09PS0F5NzlsX2RUbTNJcHNJczRQejNqSkMwTi1NYklsczZIRmFGb1B5Q3JwZGlFN0xYT0VLV1Y2SjBRaHZ5dWlRdEJjdkdEeVJXb0Qwbzh0c2VHcFZJT3F2N0VuTl9POGh6cVJUWjFXU2doRjYwUFd1bkJVSXExWUxLdFFHZ0J5LTI00gG3AUFVX3lxTFBZdWZBQktGYTE5ZDRGSWEwYlhWdVBUTmZJTUNDMWVGWFBrN1g2cXBQU3ZYekhqTm9DdURPZEZpS3ZfYlZ3SUJYelJxemtWSWFVNnZYOVoxdV8xNnI0eG1lQ01nTTkzNnllRkd1T3h0ejZaRjdldHZxYThNbVdwWjFYRGsxRjNjaHNrN1dBdnRnQ3lCYjZBUHdiODd0VG9YRTBwbGpoU2RwUlFxM01kTWpUUDB3V19LTQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Nearly 70 injured as Russia, Ukraine trade accusations on overnight airstrikes",
+      "publisher": "Anadolu Ajansı",
+      "date": "2026-11-03T06:28:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWURFNXgwaXd1V3R1SXpjU0pJeHE0LUZFNmNVY0xBZGpWYnBlSk1sZFI3VDRnbS13NURhZmZqVE9laTBRbUJOVEl3YTBZZllqQ0VPV0xERXYwemJ5bHg0WTk0b0lXOHlybzB6WHJBQTQ4WHNmdkxUaDJlVnFHZDV3NmlSaHU0SGY0bHlEbkszNG9IWEdFOGVRUHZ4ZzFSbWFNRVByTUZLZzFiWVZDbFAwRVdmelpTTEdMb0IzSnN3MXBjUHVfdHYySg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Ukraine War (copy)",
+      "publisher": "Temple Daily Telegram",
+      "date": "2026-11-03T06:15:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2Z1YUR5TTNwUUQ4SFczQ2RaWTg4VjMtNTAwRjMzQjhpRnRiZXQ5WDRya3JaSkF5dUduVjVTTFdhSEw5Y2lhOV9YdllQeHAyaGZoSGpVWTBMc1JFOGRzNVBGdkdNUlJpdW5RYUU2NnpWbk53ZHB4eVhJdW01cFl1YTZB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia’s war casualty toll in Ukraine up by 2,060 over past day",
+      "publisher": "Ukrinform",
+      "date": "2026-11-03T06:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmp5SjZqQzJ5cF9jQ1Rsek50c3pvcGtEYjJYR3BWYTltNXViVzQwREpiNWk1RnBxNjJSVDBqeGo5cThZeFAxdlp2d1lwZHFMN1k5WXM1dXBiMFZRUmhNTHlweS03Y1Rlc3A5S0QtQ1N4SmFLSWg5SWd4VEwyM2NDbGVFQnJhMzV6eTJSZ1RRaG1YZE13VkNJdEV6T2docDduVDhjZkozdF9oRjdkWmpfctIBtgFBVV95cUxPeVlXM0VpemtQQWZFR3Ftd0lkYW9UbndWUTRGM3dTQWlIYzVrU196Szd6TFN5LWFIWE9MS0NyM0FldDdZbkpBT0JYZ0JvbmhtWEpBem93WUl4YmVHcUFOZEJiaVhuSWEzRjRpVk52Qkxod3RTN1MwcTNBelBZbWxsalduTTFWdlp5bDNvaEdvNkNvY3p1TGVld1o5bWtZRlJGZnJqdjBUeHFYeVBxUnVfZUFWTnlldw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "U.S.-Ukraine-Russia talks on ending Moscow's war to resume",
+      "publisher": "upi",
+      "date": "2026-11-03T05:45:29.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dNRmt2OHl3VFhUem9TZWxuTl82ZnNLVndnX3FTUDdMSWtDLTVHY01KR1A4VU9QLTFtVkZndzBuS1VKa3ByZ2VpNldfYm02MGozdWpfV1BiQVZhN1JWYXJ4SDBheXlnZGVpQTR0RFE4b0REUTJCNV9TcWxKMmV2ZmU3NDYzeEtDSTU4bWthMmF4TjlsYjRDaNIBngFBVV95cUxPQ1lhNXdzc05kOFJocFJqdUNhdC1nRVVKOEVIdUUzUG5uS1gzZFgxZm1CT1phRTQ4dVJlaVpWOE84OEFvekl5ODR6QnVhZEl6NUJxQ2NqNEtEUHJBLXM0WFJyRnF6eTVmUWVJZU5kVUxaVGw2Y3h1NDkxWkRtQnVwTHBFdUphUFFmTjZxeExjczJMcEh2RzJoZ3FUTWI1UQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+      "publisher": "The Guardian",
+      "date": "2026-11-03T05:44:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "New Jersey Governor Threatens Legal Action Over Trump-Authorized Russian Diesel Imports",
+      "publisher": "Kyiv Post",
+      "date": "2026-11-03T05:41:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92SFN3NzhJdXBLbGR3RXo0bTNFYnVITDE0ZkNmek5zYlV5dnRmS01HN2dzWGxSYk9Kak9qNmVNNjdMaWlYQzA0SkRJdw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia downs hundreds of drones after Ukraine truce ends",
+      "publisher": "The Hindu",
+      "date": "2026-11-03T05:38:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXZpd0JSM0RyUGJGU3BWOU9jQ0dYdUQ5VmRQRkFxcW1EOFBSdE42V1FPX2dnQl95SVd0SW9HMXBfdW12X3Q1MGs1Rm1nQ3NySWJGa2RvQnBfM3hHWHNlcjhpQ2FSeTRCQzF3OWc5OFVCbFhOQlM3UjJ3cjl3alM5NERHalVaM0Vab0VmX0tqYjJDS2VFMms5SjlSN05kMGQ0OWY2LWpMSUFQdDZSa3JSRV9ydklwOXZsSm5NdNIBwwFBVV95cUxNaFF4aTB3cUlUc2l6OUFyckltaXF2R2JmeUZHb2U2clBfWm9IeU40RXVmbGFCWUh3dnFIX200T2pCTDBDOXNRVGJjYW42TEcwRWJ5MUFHbkN2MG9BUmRXbGltSXUzOWo2YnpOWDFOWEl6N1dfdV8wdVFwY183VXhyaHhPS0RrREVFMktoeFcxYXJUNHJIclBESTJLS2VfdExRdkhuRnBla3ZrMmRpOEpmNmdkWWNUVjlYc1hoNlR4U2ctUlU?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia-Ukraine war: Strikes on a school by Russia kills 26, derailing hopes of progress toward peace",
+      "publisher": "The Hindu",
+      "date": "2026-11-03T05:37:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMGF4bjRsbnZnMVdFSU5pS1ZheTBNb2hMQ0Mzb1lNYy1WeFVpdFdkWl8tMzJhZmRzcUtIWllDZjcwWTR2aU54cFpFRE9XekNldU5rbmRZcm1RUXZpc1RscEFYdXpHTE1oMWF0SDlLeE8zQ1F1aHgzZU9SazZxeFVWWGJoUVBRcHhHbFI0TkNMbm1kMHpWLUhXTDdqZ210N3I2eENRdlpxcTZNZWZ2cUphQlZQMkU4bnZydU93b0J6YTYtRmY2ZmpMd3d0Wkd5MjJQZEdpbUZlOE9wWG1jTllwWEIybUFtSTdUMFhqREJEUEZxekVf0gH7AUFVX3lxTFAzVzNwRVNtM3FpOVdHQUNieU1ySmZJOHhYajE0dFYyRHVtVzFOZWF1RTJEczNxWVc5ZmE1YW05dHBkcHkwb3A5VXZhV3J1elNneVhjTG4yTE43bEU1cGNNUUtocWR2VEFCZXprUG82QXV6cFVmMnVmc1VwbHVlUUx4d0V2NHZfSkh2RGg3bWVIN1FscTJMM3lFaERIT0dIOS1NOXhYY29IOXlXTE10YkdXSWI3emhSUXlNQ3pJcElWODE2RDBtaVNWZzZzUWM0LVpoVHdjSzJDcEVHdmVGTGs3QjZsV2pGem9MZTB6M052eWx6azBEcXd4Nm80?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia 'Wipes Out' The Heart Of Ukraine's War Machine, Drone Command Centre Bombed| Firstpost Live",
+      "publisher": "Firstpost",
+      "date": "2026-11-03T05:37:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjRQYlRJbkJhVWJ5YmRSTjI0RVc5WjUxQjB1UmhnZENyZEJCMFU1dzk5ajZNRjRKbzBRYkltWGJRdlNzVTRRTjQ4Y2lZbVM2eVR0eXFWWGVXSjhPYU0yS2UxR29BQ0lRb0RaWjFROEx3MFZfa0hrOEd1M0NLZHNHZ3hpc3plbkJRQ0lBM3lZeDZLOVFVeWNxZDYtZXR3c3Y4ZWc4V2pyMTF0TDBubmo3S1hIeHFRaVdjY3REYjdwM0VZdVNWZzRqOGFnR0czTU5fc2tDb2dyQ3hFWWRsdW8zSjZwSl81RTM3OHfSAe8BQVVfeXFMTThWRUpvUmpnQ2kwUTN6dERrVTQ0LXBCYU5QcG4xZlU1YWQwYXM4aG9rVEZqT0t1TW9sQ2w1RXhROVBtTVg5VVd1Yy1sa09BTDdLcjFwQlpoUUtWdW9zb0lBX25YM0x6MFo0RkEtb0hRc1ZSWkhiRkhPOUpQQm5mMUxGTkoxeWJ5M2lFejZFbjIzYnMxaXJZQW50Y1N0VE1Nc1NKVmJxMzNlLVg4NEhtT0xTMUNteHJ1RzVfYWg1MWw2WTdXR0JlQmN3X3duZmFVay1hbC05NXgzY19VMEhTRDNmRkZZZTY1X28wblRseTQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US Mediates Russia-Ukraine Talks In Abu Dhabi Nov. 10-11, Steve Witkoff Says: how 17 outlets framed it",
+      "publisher": "NewsCord",
+      "date": "2026-11-03T05:25:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQTVjZThOT3JQOXBNNEppdjhFOWJ6R21EemZWZzM0N0RndGpkYzkzLXNrcm90ZzBaTUJhOGFjODZSVGVEWFN4czRUeEJPVjRVdXpZTEQyQm84U1JFSnREeFYwUVptdDhHXzJ5LVNwU18xSHlTdi1EaUplWEF1SDJxZUtkQ1dXbGtFb2ZYTE1CWVN5dEZNN1lYS1VOZGNQbjVtQVY2THh2el9TWldjZ1BRdHpMVWdROHRTSmMwYXBWZU1JYk5IdXNDSWpvY1M5czhVdGxqUjNLOW5LcXFzUTZQeHBB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia-Ukraine talks to take place in Abu Dhabi this month, US says",
+      "publisher": "The National",
+      "date": "2026-11-03T05:16:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUw3d2lKbTVPZDdXb0RlRzhfR2Y3N040S1pfSDJmRUctc25MWnBuUFVGYVl4MVdCSkY4b1hnNkZtcmxXN0hDNVRzYkgxNmR3WVY0TzlFMkZzazZKSXdDNUdDRWpFamRJb0hxUDF2SHdWNEhiYU1ZV0VHcVJjdG92R0QwdktLbjJtZ3ktbA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "‘Pressure Putin, Not Me’ – Zelensky Urges Trump to Stand Firm Against Russia",
+      "publisher": "Kyiv Post",
+      "date": "2026-11-03T05:15:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WZW0yMGVTam5FYUN3Tk5iQkZublVpYUNpT0V1VmVTbGtoUnB4ZkR2SlBnZlNUMnJfNFJYWmk5NndSeUtxcTl6TUdiZw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
+      "publisher": "Traverse City Record-Eagle",
+      "date": "2026-11-03T05:15:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdmZ1aTBWSnB0ZHIycWZXNmRvWTlXc19rRlhpQkxHVkphWHdfOFNwQjFELXJVSUJIRktpeWJkb2JRRjZqMFMwajBqaVdaak0tYi1KY1M3bHlNc0dSREo3dDd4a0lhWXpqSF9meEl3ZDhaUE1HWGt0cXZtVUJnc2ZKWWVWbEs4N2xISklhNk1LMDJDUGF4Y1prcjlHOUgwTTR4TkpZaU9jcERBdkNXRlAzd2hXUXNiT0VfaWhiVG14UExEemVTQlVWZllsb2JjMllzd0JMSllLZ3oyUkE0QmM3QUlKVWYzNElKM1VVeFBVVGlSc1d0Y1E2U2ZtNldCMVJ4UUQ2cA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Melania Trump says she brokered truce in war-torn Ukrainian city",
+      "publisher": "AFP.com",
+      "date": "2026-11-03T05:11:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMkdGSWMwWkdJQlJNaEFPbFczZktYU1p3OHFkSXNDcXdFT2g0UzFibjAtQ1lZWFg3RVZmMXpSODhtZGhDRmZXRkg1NA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
+      "publisher": "Daily News-Record",
+      "date": "2026-11-03T05:10:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWjg0b2YtRzRjN1czeXRkcGFoY2U0c3pMOHNpNkJ3b0RGZUpoY1hvdnR5UWJYaldrM19mcFdYODF5QUxOb0dWa3dMcGNMSkJTaHV3TDlVN1Y4U0ZOTmxJbS1wSUxxRXk2NEc1TmVPTGk4TU1oQlJmY1kxRnFHRVlHekt6OGVCbzM5Mmtqd3FCN2pTQmZmZDd4cDhFa0lSVlRjdGloS19EdXEyQWdhdUVLRURlYmVmdHdydHJDajdnWXAtVkJpS05Ra3I0ZE5wbWd1a0hhYlVQRUpCbmlHV0hhYTVQVGc0QzlxQlEzM2FBSnBhRWotbVl0VTg4TVkxd2VwN0s3TS05YWVSMnJfU0FSODlKaVp5aTR1a2c?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
+      "publisher": "Bozeman Daily Chronicle",
+      "date": "2026-11-03T05:10:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcGZBVngzYVFvYnlmLUxabVhPeHY4NWduTWotUF9LMkFDek1TZG1TZ3ZzVDA4dFR1QVdWcFQzb2NZTzdqR29kdFdlZVNZRFd4Yk5EcWxQOGNLenFxTV81OTNoSEpDdHZ3VUZxdTRycHpDWkdWdTRvTFpEekxNaGFnNDVZQ2dzdVZMYzVfcFVZMGtDckdlbFpmeGRFZklFekdpLXJzUGFoVkdEalA4RmN3MmoyU0pYb1BqWlJyQndVVjJ2aDJ6c0YxVUVBZ0txOHpnV2txNVcyTFZIOGhnS0xCblh0cDMyNHdBemFlaU9QbFV5bC01MnlGQnU4R2M4Z21BS0dPM213YzdXemd3TDFmS1Nzbw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Ukraine War Economic Stress",
+      "publisher": "dailyrecordnews.com",
+      "date": "2026-11-03T05:02:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1F1cUNBRzRLemNJNDRYQmw3X1lRcThzemJxRVY1WjZ6UTZYTFBhM080b1pDZC1KbjBfRTE1UzdRdDNTS0x4b0xjUEsyX3l2a1lFRkdBLUxIclluQzJsS2xsVW5XdXkyQ25YRld0RVFUZlF4NDBxUE5xSERsRWpRYjV4bm9heEZ6UTduR2UweGI0M3R0SGxJUHlJd0QtaG9EN051eFdsbUFGanNjN2VhbmlDS3lZTmpxZVBZVnRzNWVDT0pkenBZWVVCZTlyeGxFSmc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia managed to form only 4 of the 17 planned divisions due to heavy losses in the war against Ukraine",
+      "publisher": "Українські Національні Новини (УНН)",
+      "date": "2026-11-03T05:02:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjZUbGxybWVxcDdEYzhJdUdJNWpNNWQ2c3NaNVc2TnVZdU8zOENWYkJEVTJTUDVFRTB1dmhtZ0ZKZnpwbnY2dXc5VXZjR0VFQzFkZThiTU5WcHVyX0w5U0JCMEdwWWlYRTlndmliMC1IS2ZsUkdMeVRUTDVPd2F1Ql9kLXJlaDZZWWp6R3VVa0NSb1pUYmtYOWNhR2J3bl84ZWRMU05yYUJuOUxGUXd6aHhHdHZWYzFWcHZHWXlSSXJ3MWEyUUHSAcQBQVVfeXFMUDN2WDRGZTJHLWZSTWxsTEVxWUpPV1RubnBFc3JGZDNfbHJPZG5nbzJjNkx4WkNjVkdmbkR1SHRLQWV3R20tQ2tfVjR3dFNPWUY4OE1CcjZHVU9tbm9jMHZ1cGxQdVNieWNIX0dmTUJYNnRweUFPTGtVaHRENVRQS0F2UHV4bTY2YnpKNXR2SFhRdU9TQVdBTGpUcnRfU2hJeVNvV1gzakdmbTZLMWgxMnVKbVNvZmJreGtkQ2dUVDNKZUFJaQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "UK and European peacekeepers in Ukraine would be allowed to fire back at Russians",
+      "publisher": "The Guardian",
+      "date": "2026-11-03T05:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5vcVJ2a09YSFQtT0IzNTAzU1FNNDVRUEFUbW5vZFk4aENDSXQ3QWVOLWRFeEMzaXdIYjF6NE5MaS1nWGVjS2tpZjI2VWotbDU4UTFnSmxtN3g5Rm5MOHQ0TGV6ZXgwS1lOMGJEb1pGak8zei0yd0R1OXFLa3F5RmRLcVlxLXZqUnd4d0VrOUZKa0h4dXNKRlBOWHlxYkVh?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Indonesia Urges Russia to Stop Recruiting Its Citizens Into Ukraine War",
+      "publisher": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "date": "2026-11-03T04:51:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3ZUTmVUeGNzY0l4NTVyVjJyN2FpWkZUMHBqX21oWEpFR2R3SXdXVWtwcjVSUTN1SHV4cWZESWhVZ0htdWt2akIxNXZCWGlKNVdBYXlRd2t1UE1uZ01GdmJnNm5ETWc5RDRpTXp6WlZQRk95R2Y1WkIwa05CelZBeXJEck9LTmdYY3FIZ0hLU2ZlaUZfNVVGa2NHd0toVnhUZENSclRzSQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian Offensive Campaign Assessment, November 2, 2026",
+      "publisher": "Institute for the Study of War",
+      "date": "2026-11-03T04:49:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0prZjRjYmFRcDBhX2MyS3RMVVFkOGlaZVFVZDFLRHl4Q0hoUVJNZkJHUzlncVgxT0NzYi15ZjNQWTNDZTB1b2JGSnh5cE9LMm54empucXc4bkJ0a0MycEs4eTdpNG9XSnc1QXNGMVc3MkhzNzByU0NQZUpZbHptWWMxeUR6cVc3bFRSSDA0RE8wbndCZlpTM0JmTjBZSUMzOFdHVWE4ZUN5cXc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukrainian POW ‘dies’ in Russian prison as Moscow abandons vital convention against torture",
+      "publisher": "khpg.org",
+      "date": "2026-11-03T04:28:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tclctY05rbmlWbzdQYXpzakJNZnVuakhkbmI2TmhYc3JtVkhIenl5aXowYlpQVExiMXZ3MjZKWFpMVU1H?oc=5",
       "summary": ""
     },
     {
       "headline": "Russo-Ukrainian war, day 1713: Ukraine hits Samara Oil hub blending up to half of Russian crude exports",
       "publisher": "Euromaidan Press",
-      "date": "2026-11-03T01:11:46.000Z",
+      "date": "2026-11-03T04:13:56.000Z",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXRkeTM2TEJMQWtwc0pxOTg3dlJfUjI2X0pvUnlWR1drdi10T1RMWkw2c0ttZFpEbGI5S3h2YlBZX3BJclNMd2hpSklVa3MyLVpRcmVHellpTmlZYVdwSlI3WVpOSkVMVHdfUFBvbmx1WExzbkJ1UWxFZnFjcG9kc3dselIzeHRzdnM0c3dZZWZjRjBYNUh6UEY1VnYwc29UZEhWSVJXWWZVcXl5U203bWJJdlhxSmt4Smo2WHkzbHBxYzVXdzNxWlZReVkwS0RVRUVjV3dxajg?oc=5",
       "summary": ""
     },
     {
-      "headline": "Russia Claims Strike On Ukraine's Neptune Missile Depot Near Odessa, Military Cargo Ship Also Hit",
-      "publisher": "The Times of India",
-      "date": "2026-11-03T01:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVzJiamVHOEVjX3Y3bUE0c05FMk9QV0VLSWRKeHV2UUtEYmhHOEM4VnVOMEF2T0FQZEIxdUdPSnU4WjJOLTZ2QjUyVmdtV3dsUU9ma2tFdW5IbnAwaHZDYlBxb1BzcEFuN0xneHhSaFR6Y1BHOHc4R0VLV2pSd1RrMUM5a2NVZFg1R1pHV1huaWtjWERmdWlqdTk0emtHRWZ5LTNtVDcyRnRmcnBOeEp6VFNtQ3pONU54YUxERXc3N05tVVR0aC1mVW14QTR5OXY0bDE2bnhSdnZvU3VkZXpDSVJnVnkzdGdiZUxjb3NDcF9uYzZ6aEVhVmtLaFNNSEpCZ051QVFMRdIBjAJBVV95cUxOWDUzblRNU2tEUktFTzhnZEstS2JQcDhodndxUFF4Rmk5dklBTmJTbWlPZmJXdGpQYVB5OWE4ZlBmMHM2Sk5BanM4bEVKXzJLU2N3S3F4VnY3UFZtOWREeVhEYUhUZWgzdkE0dlZzWkNBZUR1YmlvNEVuODJVMUNCdWJ1NDhDQzQ2aHV2Y2V2LUpzZ1FSQlFqZ045RXg4X0FENE5tQW53bXpKa0E0TU96X0NEbTU3UmljWFlnUkUxbFpDQWRiOENqRk9GbXlTQ2lGeVJLTGNKU3BtVmlSNlk0ZDl5VmNyaHQwVnMyVU0xSDZmVG9EaUtreDJnN0FLbFVpWWlZTmstYURDeFZM?oc=5",
+      "headline": "Ukraine’s 73rd Naval Center Ambushes Russian Troops and Seizes Intelligence",
+      "publisher": "SOFX",
+      "date": "2026-11-03T04:11:24.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2x1Q0RNX2Uydlh6Y3lSYWtBM0VKdmVHVGM2Vll1N3dxVWVPTWZQMFhjY29SS3ZySmlpVFNQSjRtWUlGS2docTFqdTU5bTZ6WWkzSURUSnpwVUQ4bnkxTF9meFlXSjB3ZWRINU1Mc2NWODNxM2VXRjRVbnVlZndGNmEzbXBQdGRhS1BqNmQ4eDRyYUc4V1M1SUtYRVA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Finland's national ice hockey team will not play against Russia amid Ukraine war: Official",
+      "publisher": "Anadolu Ajansı",
+      "date": "2026-11-03T04:10:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEVzN1pKejhEdl94cDUyTWxWNHVpaHhsU0FjaHo5V2tzdkU4a010WE56LUNFRlR5TzNDY2lQLXNzR0pxaDdJZWJXdkdDSTl1Wmh4Z0VYQVZvRXB0SjZ1djh6MDNqRW92REQ1b0JVSGFJcFRLQkJvblFSTnB4YmF2Vks0R2tTX04weUVUQWtCckFOY01jaXVaSHFxYjlQNWstYXloQjNCcGl4dmN0b2FEWnhuanVtRl9IZHNOdzhReHR5UjFjMFVR?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US to mediate Ukraine-Russia talks in Abu Dhabi next week, Witkoff says",
+      "publisher": "The Hill",
+      "date": "2026-11-03T03:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWZRVVpYaGVlekFsWEZGTnRXRC05REFNR21uUmE3ckJSa3NsWVhIVW9GdVVhS0FQZmF3bmJqcEZNLWdmbEY3OThPNENjTk5RTk5nbzRGeEdhdzRVTDlzQjNNRWIyNXpqWUdraEt1WFdnZFduNW50cm5FdV82UzByZDhJLV9ObkxXRXY2SnF1OGJUZy1LS1dEU0xKQlnSAaIBQVVfeXFMTTg1cjdIa042OTRLZFpsUzZfcXNXWk9oY1VudmY4dUJ2ZzZaemFDMGtDYldwSExNLWZVZ01JbW9odURlUnVWa09oM1NEd1JiVFJObDRiOHdadnRsdEdwUGVOSkVHaUx0ZHhBWGtGcW5pZkpuOFc4WWJPVEg2TE9tRHpuaWNtcXRQWjlsZnFYZW9qUjJkRHhubFEzUzZuMktXWXBB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Ukraine War",
+      "publisher": "Bluefield Daily Telegraph",
+      "date": "2026-11-03T03:17:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHNRNHJ2OVlPZzFqMUFVREgxbWhoaU1Qd1ZFV2VVOTJQMkw0YXRzaU9hNnlVbXNTVDF0OTluM2xzUE5UZktqUWRXd3JXNlpZNzJWWmpYM04zdWo2TTZZeFZNLVVuVVZvc0NiQWJvdC1WY0pUcWFsa2ZhN2NWZkktXzM2Z09mN1dSUEYyelhacG91UGtTNVJUeTRMazNDWE5IMnBsdFRQWEpyLThkeTZB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
+      "publisher": "Al Jazeera",
+      "date": "2026-11-03T03:13:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia-Ukraine War: Russia bombs school in Ukraine amid escalating war",
+      "publisher": "WION",
+      "date": "2026-11-03T02:59:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmpkZDBnbXp4djBTN0xFaTBoNjExT2JrVVNZQ3FBbmZDSDFTUV9yZW8zZUJraWxvZXBxUVJQaDVhMk4zYVpGMlktLWZpajQ4a2FuT0V1QXFsUUcxR3NHZmNPd3NUUGpqNTNUTG1IUm1NQzRjOXRNMFhZeFZEY2YwTUNGTl9jNDFJa19qRVJ4V1ZadGNzaWRoRDNfbzk4czd4VjZaODVNaGJ2WjlMakczSkJYVzjSAboBQVVfeXFMTmp5T3FpRzVYSFFrMGlWVDZ6QWVXZVA3T2tZbUJlMWVLLVU0VUJoYUxfeDFkR0FtQ3E1N1E3U2lyOUFhQkdpaFh0SzRqYnlwTkRBb2pwa0VMdThQUWxLRGJwVGZPRi01SGdUdWZmV1drQnpWQTVhOG5pVzBsaUR1VUFpY2hpZ1Qwc2kwOUtpWDNZWVhYeVpwQ2NyTDMxZUxVRExxa0ZUTl9MOTg4M2MycVd6RzZOQmwwMU9n?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US to hold first talks with Russia and Ukraine since February",
+      "publisher": "Financial Times",
+      "date": "2026-11-03T02:38:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGhsOUNJSkpoUDkzd1gxSnBlZDczLXNjQnlERy1uRVZTWGRZQm9MYUxUUlNtbmVsZnVBMVVsV3pjOC1UWUVCcU0zdWRLbV9lb05JWGpnSUdrYmRiZ2FpcVNYbkxEeTlOOE5SWTVvVjBjNkNVT25wM1dib29uYUdDSjRKeHM?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US to mediate new round of negotiations to end Russia-Ukraine war",
+      "publisher": "Politico",
+      "date": "2026-11-03T02:38:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmd4MGlCNkFaMVd1YWxXRXBsYmZOMXZ0YW5jdE5wUXBWX3RaVjZDOEFvaWhqLUMtQ0tZN1hReWxvZkFEUjQwUVBLcTNFUHRZRW1QQzFMU2dSdUY3NldPUlJfbER0cFJyaTBsZ0hGY1daWTV3RUkzaDRSdHlyMWRmVjFuQWJuZmx0WGtMR3RmTG80QQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "British troops will be allowed to fire back at Russian forces if attacked in mission",
+      "publisher": "Sky News",
+      "date": "2026-11-03T02:05:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd25DQzloaVVJUGZ3Wk5BbnlmMVlMSmVyc1JnNzdvaW9mU0RwNkRSVjNkbUFIV2UyTGY3SlVRM2xILXFpeGNmUnU2YUVNTndVQ1ZsRThmOVJfR1NkX3BSMDZzSVRlOXM2VjBKZnEzUF9CbjJMdXdIUHlSLUZVM0ViX3luNnI1VmhjUk9LRENQdjlMcU00c1ppRndQNGlTUXBvOXZXVVdQVWdWNm40R25TRk9ra1ZkOVg3b2kxYg?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "publisher": "BBC",
+      "date": "2026-11-03T01:56:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBobmNycnhIV1VVdURoRlpfdW9PXzdYVF9PMl9uWURzWGc0X3FZTUVfNDF4Zzd1LV9jUjhMSUhKNkh2akxPcEd0b2ctYk9EeWw5UU16X21mc29xNmM?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "European force to hold first Ukraine support exercise in Poland",
+      "publisher": "France 24",
+      "date": "2026-11-03T01:43:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmd4YXluNUt4RnUxUFozd2FFeTVPN1p5ZHdCM0R5NktDQ2dfeFlaX2NqOEdVQTkxbWdMM040ckJfcVMxS0I2ZHRNaWc1alQ2YW9QdkRjWlZXTWFDM2UxOUxwbmQ0VHpFTk53dzFzdjI2dXhaVTFCYVlGR19uN3pFaVc1dnBjRkdWRDF6VVBhWFlQNjMxMC1TSWtxVXQ4SHZNV3ZBOVNNMlVZUUU?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "publisher": "Al Jazeera",
+      "date": "2026-11-03T01:23:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHZvSW5GSDFEOE9zZmtIWDl2b1d6ekdmakxaeHUyVnhONkxjTVJzRXBiejhPSFhOcUxVYXVyOUpYUmRWMG1HZVFvd3RhR1hicnpDUTRyR2F1emh1UHllYmZXOVJocGxkeHQxWm4xNnZIdG8tTmxVcHBkbnZ4ME5MTllrTTFhN2dDSHk3c19KSnl2eEpUUXF3YTdCbUF4YlZZYkdHeUp6RERLbXFWV0xJNUpkdEbSAboBQVVfeXFMUE81Zmk1NXlkZ3o0cGlSYmdYYjkyZVhFSWM1Z0I5QmlFaUV0WEFZb2x5cW1YZS1acDdnY19OdmdidnRmR3pCQ0RiNmZfNnRYVkpRWk42Tmo0aGN5ellEVE5yUnBQUzlWbFV0TVpaNGRacnVoYi0xNFRjUVZYSmVVQlpWM3hxeDhKSnlHdkdEMTRFQnhXVU56aC1wZXhNQXF4SzZ0Rm5Xa2FIbFptcldnVE1sNklscG42MTZB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US to Mediate Ukraine-Russia Peace Talks in Abu Dhabi on Nov 10–11",
+      "publisher": "Deccan Chronicle",
+      "date": "2026-11-03T01:23:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1UtdEpBa21hWVdSQlhNZDJQYzZ1ZGRNTmN6WTZ5MktxdnZSNFoxOWp4Y1M2RnA2WFdyZ003dS1xYjc5QjlYOTRjbm8wcVRBSHZyMEpKVU5RZ1JiTDY2aVdWUTVTRlp3aWRRT3RCRHBFMnBZUmdDRER0cGdpbndIamJpdE41NEhWNzBidURGMWh4MWY3YS1wM05JMmcwa2t4MU92VG9lTjZPQTlOaW5UVkFPbDd0cVp1NHJpTtIBwgFBVV95cUxQLU9NZlg2THRRNVktNG43T1ZDUm5jeXVFMkkxMFVSZGVDOXB6clk1clpkbDBpZ01TRDJmOUxrWWUwX1FiS1ljT3JRLWlXTEVIRENZMXBFR21sSG9hcGhKZU9VX0ZnUGo4RmZCZDM4cXBRUTFlajdIUDZCT1FrZC1BZ1BqeHhiYlRlam9XVDN4YzhtYl92czhOR2NmdENvTndZT1dVcklDRFk0VXpXMGNDdk5tZTctdUZTSDUxR3NCb2dnUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Ukraine War",
+      "publisher": "Washington Times",
+      "date": "2026-11-03T01:21:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR3lvRmx1ZkhUS0dwM0ZCTG1ySFExNTVjS3JmV29CNDA2RVhsREZfSVJzVGVwcFRJLVZLTzlGVVBnLVIxZU9Ibm93aEk0NFg4bFRmdU1LeFRucG9TLVVLQXkyYXVfcE5IeEYyNUxqSmNqWUNKdXJiX1JBWm1OVWtiX3dkNUhxZTQ?oc=5",
       "summary": ""
     },
     {
@@ -47,13 +369,6 @@
       "summary": ""
     },
     {
-      "headline": "US to hold first talks with Russia and Ukraine since February",
-      "publisher": "Financial Times",
-      "date": "2026-11-03T00:36:57.000Z",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFc3hfaDUxRUlYR003OXh6RExwbFB3UGFrWGo4dEVYOGpud2JObkRudHhVelhDYnRPZTdYTmNFXy11SGppa0Q1VXFhZm5kMnpGN0luMGk3OVVxUXZWSERTb1FKYWVkZ1hjcC1LbkVJaWs?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "Russia Signs Military Cooperation Deal With Azerbaijan, Eyes New Arms Sales Amid Turkey Tensions",
       "publisher": "Kyiv Post",
       "date": "2026-11-03T00:35:11.000Z",
@@ -61,10 +376,17 @@
       "summary": ""
     },
     {
-      "headline": "Russian bombing of Ukrainian aid centre kills 26 people",
-      "publisher": "Al Jazeera",
-      "date": "2026-11-03T00:33:01.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
+      "headline": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+      "publisher": "DW.com",
+      "date": "2026-11-03T00:31:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
+      "publisher": "The Korea Times",
+      "date": "2026-11-03T00:21:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHpiTG82akZ6TUtFTElZQkhjb3VscVZNMklGUTEyMDZ0akxYTEI2RUMxdFhWQjJWWHd1emFBOWhjTEQwN0xoZDFlQ09HWmEtdk1uQjhoWTlKTFQ3aklUVjVqcWEwWEE0UElzbF9QczQxYWtOQWJKbUotM3RpWnhQWGdVaTIwNFdpOS1JSmowU1VZNi1tcXFCb2JYNzQ2U2IzV014cEI1dnZHb1lTcXlacUo1S1l0UEgyNlNyU090Mk9xNDdLQmNv0gHHAUFVX3lxTFBwemJMbzZqRnpNS0VMSVlCSGNvdWxxVk0ySUZRMTIwNnRqTFhMQjZFQzF0WFZCMlZYd3V6YUE5aGNMRDA3TGhkMWVDT0daYS12TW5COGhZOUpMVDdqSVRWNWpxYTBYQTRQSXNsX1BzNDFha05BYkptSi0zdGlaeFBYZ1VpMjA0V2k5LUlKajBTVVk2LW1xcUJvYlg3NDZTYjNXTXhwQjV2dkdvWVNxeVpxSjVLWXRQSDI2U3JTT3QyT3E0N0tCY28?oc=5",
       "summary": ""
     },
     {
@@ -89,10 +411,10 @@
       "summary": ""
     },
     {
-      "headline": "Russia and Ukraine to resume US-led peace talks next week in Abu Dhabi",
-      "publisher": "Ynetnews",
-      "date": "2026-11-02T23:43:19.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00enNzTXozTDBBR1lWOEgyeDdmcE1ZelhVS3FCSjMyNTRUVmVqb0p5RVZGTzF3M3djaXIxMzJoMkQ5bTkzVGxGSVhKSlpaLTFBbDZyb3pR?oc=5",
+      "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi next week, US official says",
+      "publisher": "Rock Hill Herald",
+      "date": "2026-11-02T23:39:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSlVlMUljQkpxUndnVmNZUGdfOG5QRUdRa1BERXdIZTB2dXFtbnRmazZFaktwdnlTTkJnaGMtdXlJejBMWkhWYkVGQXBsWFZqZnhsclNPeTNrSzhWQVhabzYtaHh4QkFLMTBDY3lhTTBHblRJWGpUdzROdjdVYmM?oc=5",
       "summary": ""
     },
     {
@@ -100,328 +422,6 @@
       "publisher": "Reuters",
       "date": "2026-11-02T23:35:16.000Z",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi next week, US official says",
-      "publisher": "Devdiscourse",
-      "date": "2026-11-02T23:09:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ3JqWXJSMm1FQ3MtTklJZVYyVnNFRHVNSXdHOWJ6c0FVQnZBcmtPOVlna3o5djg2MmRHNUhZSE02S2ltN3dYbzF0bXZ5Umg5QThpT3dXUmpQMmpfUjlDWFVjOGxZcVI1QnBrUGkzbTB4M3BmWmtUeUZXOGlrUUZTdmxOMEVrZ1lvU1FUb1hJalM2U213WF9CWnRDbElOQ1NkRkJLc2tzMi1KSUdaYXpvY3JGYi14ODl2VEhBTGFxaVBxYV9maENGM002cW5RMHl1X3pYSkdlTWlaRDRrUzFveU5TaHrSAeQBQVVfeXFMTkNyallyUjJtRUNzLU5JSWVWMlZzRUR1TUl3RzlienNBVUJ2QXJrTzlZZ2t6OXY4NjJkRzVIWUhNNktpbTd3WG8xdG12eVJoOUE4aU93V1JqUDJqX1I5Q1hVYzhsWXFSNUJwa1BpM20weDNwZlprVHlGVzhpa1FGU3ZsTjBFa2dZb1NRVG9YSWpTNlNtd1hfQlp0Q2xJTkNTZEZCS3NrczItSklHWmF6b2NyRmIteDg5dlRIQUxhcWlQcWFfZmhDRjNNNnFuUTB5dV96WEpHZU1pWkQ0a1Mxb3lOU2h6?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi next week: Official",
-      "publisher": "Deccan Herald",
-      "date": "2026-11-02T23:08:31.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTTBvdGE3S3YxM01HbnNrX1FFVlVSMXJHVEhLUDc0NlJKT1oxNkRYLTdoNVctYWtVNzVhT2tmSnZQZGFzLVdNaHFMam13dVJPSGZvMExtcXRmcTNKLWoxR0RJRFczWTBqRTVVYUhOWGZseUN0X3RxRS1Zems5ZV93SERvYndoSDdtOW5QWm5zdDlmSHpfOWZYYkxsdHJFVlJWRWlPN2tuNmVuU3hKSHU3OWpnWE1BTkFiY3ZsRVpVWUJjVXc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi next week: US official",
-      "publisher": "The Straits Times",
-      "date": "2026-11-02T23:07:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdFJiLTN6Y002NWVnRWhrdkhGUHZFRlFER0N6NTRXTmp5ekI4RU5ndFhIek15Szl2M05DZk5MU0s2UWNBM1lEaldBXzQ1eGVjYVBnUzdIRWg5T0owd0lteGp4N19fN21UMjQwaGVOYXpqY0lFOFR1TTZQallXWkNRaFNOdlZ2aE1odmxLdEtDX2NNZmppOXc2WFNxZkFDcW1fY1laQlVJZDlXWEtBemtJYmpPOFNrY25XVU4zVDdZb1lIcktnazFmMlppbw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
-      "publisher": "WSJ",
-      "date": "2026-11-02T22:44:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Finland vows to not face Russia in hockey tournaments as long as Ukraine war continues",
-      "publisher": "The Globe and Mail",
-      "date": "2026-11-02T22:09:40.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3ZsSkVXZFFJVzY0dFlHVXc0Z0dOcDZZMUVzdjVEVE5tcGxBN2pCUGlfUzVmX08yam80SEhPdk1IOTlubENrTzl6dWJsWjhYQ19fVkFqRGhVdEhpRGtqbmZ3NE9TVF9VbnZaWlNOdXhkRk1wZV9mcGRJZU5XQ0Q2QUJUUEpkdWQzdkF3NnVsbVo5d1p0NUFoc3RNVUhzUQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Renewed Ukraine peace talks face test as Russia presses on with attacks",
-      "publisher": "WXLV",
-      "date": "2026-11-02T21:45:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbm1oS01sR2NMdmx1eVVob3NkdkotZzJJM3gtRHJGZWJUVVV5bFFxYlZMc2pZTkNzSkVaeU1zbnVfankzZEltYkNSblJUU2tRYmN1Y3BieC1NRlpzTTdNQlNrMEN3VnI2cnE5WDlnVy1ld2lEWmdCZEdwcml2encxMDJmVGZteDZmMl9tdnRFcGlqYUtZNnpfQkFrWUhGVG9aLW1zd0JFcXpyYlU?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Zelenskyy warns of new massive Russian attack targeting Ukraine’s energy, logistics infrastructure",
-      "publisher": "Anadolu Ajansı",
-      "date": "2026-11-02T21:37:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWVuVi05U0pMREpOZU1OTG56UjNPM2k5T0xySGtKcjdxbFlYaXd1cHVNaTJNTmF5MTBVb3JZMjdDUm9OUzhOaDc0NEhOUXJtVG1JejdWMjdZbk9KSVZ0MmVReTduYzZveG11Vl9SeGY0MldERzlacHBUY0FXQXpzUHlBLXdSVE5wTHpqckVQemJzQnFtWG1FSzJ4Z2dlU1RQVlFPVkwxLUJTMFhyZGUyUTVmdkd3NGhtVzV1ODU5MmhGcy1FNzdoNjJBTmI2RGJxMWQ2Rw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Belarusian Threat Groups’ Emerging Role in Russia-Ukraine War",
-      "publisher": "Security Boulevard",
-      "date": "2026-11-02T21:33:45.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbENzcEJUTkxhOWlNWllDd1VjMmZUY091MXp0SjBfZUFXbEFSWVczYXB3ODBDQ2NLQkcwSGk1MFpsWVNVSks4RHFtU29JNGhFeFAwSEUzTnpMaFEtbTViT19uaW4yeHEyYU9BSDZRVk83Rld1d0ZtN2NRN3lmckppMURkTHo3cFQ0M0EzcG1uTURlNlhZRUV5MWQ3LTNRZTBf?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia-Ukraine war: ‘Father, please pray for me’",
-      "publisher": "The Daily Star",
-      "date": "2026-11-02T21:24:14.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVFKSmlDWUtNcHE1VVcxdXkyMkFXZFRSTTRjRFE5a0VCMnRCYmg2cmJXX2N3djA5bmYwS25MNUtjbVB4UWdYZGpqODMtZ0NYUGxBcl9XRUZPa09SRkNsaGZyLTdQWDJDVFRyR0paV0VzRmVEYzZ0N1R2ckpIY20yTk1FUGdUakJiN3RINF9WZ1Izb2ptVU5CZzg4UGdLM1k?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "publisher": "BBC",
-      "date": "2026-11-02T21:10:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBobmNycnhIV1VVdURoRlpfdW9PXzdYVF9PMl9uWURzWGc0X3FZTUVfNDF4Zzd1LV9jUjhMSUhKNkh2akxPcEd0b2ctYk9EeWw5UU16X21mc29xNmM?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia-Ukraine war: Who will break first?",
-      "publisher": "Chatham House",
-      "date": "2026-11-02T20:56:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXJsQmZUbjREMUxPZUZwOUZGTm9pOVhXZDl5STI0MlkybXhDemF4ZWY2RzdKam4yWmFuVkczR2dXWWlLcUJucEJVMWNpZkQxeEkxZTAxc3JjVW55T1FfVFM2RjRseWVhVHhTQTRCclY4ZmlrcDVDZm9SZVNRSHZDNEhTU2VQMjNMa0tUbmlJSWloMl9NRmI4OUJB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Oleshky truce presents problem for Putin in dealings with Trump, expert suggests",
-      "publisher": "The New Voice of Ukraine",
-      "date": "2026-11-02T20:51:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmF0SFRlRkJhaFBDU0FuTlkxRzZjbzI5UkFRUXUteWIyRnd5dGRLcFBwNDBZSTc0Tlduc3BmbXlnNHBwM09WQW5NRzgyaTd1cURrNVp3SXl1bmk3WDJkd0MyUW1QRldhNGsyNmUyS082M1VIQXRVcUlzbkpEaGxmb21yZTlRRGstVC1LemRfV1ltSFprdWNaV3RiQmVCcTFlZHFqODRB0gGmAUFVX3lxTFBaYXRIVGVGQmFoUENTQW5OWTFHNmNvMjlSQVFRdS15YjJGd3l0ZEtwUHA0MFlJNzROV25zcGZteWc0cHAzT1ZBbk1HODJpN3VxRGs1WndJeXVuaTdYMmR3QzJRbVBGV2E0azI2ZTJLTzYzVUhBdFVxSXNuSkRobGZvbXJlOVFEay1ULUt6ZF9XWW1IWmt1Y1pXdGJCZUJxMWVkcWo4NEE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
-      "publisher": "NBC News",
-      "date": "2026-11-02T20:42:40.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmFqYzNBOXhKTzh0RTRnUzN2WlNaYkFxeU5fd01WTWZhNGItX3JVbGdObHV6S1F2V0d0YXBqeDRYMko2THMtTGNLSThRVkpUOEZiVU9IQnZwcGM0ZWp1bXE5Rkl3ODl0RWpHLTRNdTdyalpFSWpqNjNXOFRmVmY2NWhHb21GZFhVVG5rWjdRcTZaeEk4Mm45LXN5UDE4dXczU3ZTczRZUGhlY2NKMzFka2plWlNGOUNJTU1Z?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Over 30 Ukrainian journalists urge Western media not to ignore Russia's war",
-      "publisher": "The New Voice of Ukraine",
-      "date": "2026-11-02T20:33:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGZHWFprVG5OMWJHREVCMk9Yblpyb2REdGt3N3BaS2VHYi1RbHdsVGJLQ1VSU3FQZmxyNVl3cFpQNHlwTHdoaDljTFNkLTEycUl4YWdFRlVLTFMtWGxVNmxuZERod3NLUmRmOXBuN2lTaUFrS0VyZWQ5X0lBSG1YU19YTGpqajg1cjBRdXlfZTJMd2QzWkNEazlnSkUwZGxjX1dj0gGfAUFVX3lxTE1kWFdySnNjZXZQWTdTWEY5b2NlNkl4aFJvRXF5dVBUWDdXNXBvUUl2SzlqeHN5VVBNcnVWQUxac0pmZndyUlhDYnhJSW1JX29Oc1RSUUJuc2pnbDFFa3luOC0tRHlMQmFzZk1wOWhNRVBnTXZXVXc4RS03ZElOSXBSQ25MQWhNUE1rc2F2TG41d1czcEdFczQ1R3NDWG9wTQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia’s Shadow Fleet Is Turning Into a Floating Fortress Against Ukrainian Drones",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-02T20:15:48.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVnJDU3k4UlZnN3ZFRlVCcm92VHJfcVcwZno0ZkxDbDRYdDB5bHQ3MC1uNTZFYkl3NTFQUmlpV1htY28weXI2WGhUWGhVbmJQYVZtRXFlcWIxRDFkTlRtR21GZWgtNzdYVHlzZ2QtSWxGd3dFVERaTzUyc1V5cWt2SFVKa1IxZnZ6UnQxS0tqMHM4S2JDTmozYl9qY1hwU0lCSzJpWEM1SGlBTzJOSFJfdWFWMk55Zk5NeXdPb3pEandid1JrWV84?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Putin pledges to end recruitment of Ghanaians for Ukraine war - APAnews",
-      "publisher": "APAnews - Agence de Presse Africaine",
-      "date": "2026-11-02T20:14:27.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUtMUmFjT3FXVHgxMzFvN01MR01GMDg5QXBKejdBbTM2UjZXNmhNRWJjbk5XZ2FUOXU0Z21lRHpwR3FiWFg2azYzV19OZV81YWdwWGpfaWdjZHBlbjI2YUI1ZjhlYjBWUzkxT1N1NEtSRlBKbkpoc3VobE90Nk9hQ205bm1udkYwMkE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Zelenskyy Signals New November Push for Ukraine-Russia-U.S. Talks After Türkiye Meeting",
-      "publisher": "finchannel",
-      "date": "2026-11-02T20:08:22.000Z",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWVjelNibXBDQmtUUk5WOGxMQlk4dUNZYWNFa21ZUGVwV3NxTFE1MjRwY1lhRlNrM09XUUgyT3VZNDNHejk2UUluY016UDA3ZG9mZUt2TklXX0ZHS0Ixc2ZxVTN1bVdfSXV0ZTdwVGRfemFYZnZOYnlTcS0xdk03bEtrbWpCcl9nbkwzOFpBTS1rUGZBWEc0VXlFM3hNa25neFlZcFlGVDlIMW1XQkdEbTVhOUtUS3ExVC1PWkw5c3dWUm03Tk4wcjFuNDlyZw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Finland refuses to play Russia in ice hockey while Ukraine war continues",
-      "publisher": "Helsinki Times",
-      "date": "2026-11-02T19:57:49.000Z",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUU51NUVfZ0pMeVZUZzVPRzJHSkNjeVVrOUNpdGhPaFhueUxlQ19lX1BFenM3M2pxMVl0R3o3QnZxWGVHUk9hbHFrc05NZEVHbTVmcmdVbTlxajJFYXhwdGFKU0Zhd2ZlSWlOVUQzbC1SVGhLX1ZqaFVYZWV3YzdObkdBTGZBa3VVS2ZjQnJwSWpQY2ktdi1ySXJDRUxMeFVVeXVSTHZhaWhSRi1PSUlkYkhUS0FsMkVJWmM2MHYxVHhjWVRyU3Z2YVloVEFaUQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "How Ukraine Built an Electronic “Dome” to Throw Russia’s Shaheds Off Course",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-02T19:29:23.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnM3dWZaNWVGYnYzV2x1Z0xUMDZLX19lMndqUmp2U3d0bmpvYjQ3Vlo2MWlTSVU4bWdodzR5c3FvUXRFRUNYdHZ0b0dIRzQ0TElGSmgxYWNPS3ZXZWprSW9FMFZYc1Z6d1NTQjJxSlM4SUFKOXBZblo2OXVHc0N6eGZMd2thdmpLczJ3UnNfYXREay1VNFFNNWJ3bHVKbnItTk9sQV9xVkdoWGNSWUFyNnZyVDhwSHFhZzNZ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia bombs aid center, shelter in southern Ukraine, killing 24, authorities say",
-      "publisher": "The Tribune-Democrat",
-      "date": "2026-11-02T19:24:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeWtZbnhnU1NObjE5YnI0SWwzSXlxeW9GSVlXSzFUdVNNWEZEM2xWZ2gwTS1BY01NQ29RUlpZVE1hcE0xX3EzbXlBc2VIT1VqVll4YWFzVk16MHpHZXMwX3dOTU9RcndYanNPUUlxNU4tLXpJcVlNYXhfbW13Y3VTVjRKdWNUZ0tlOGxmUHloTk5NakNzUTA0dDl2TjNtSTBhUlRuRkM2X1pEZzA3Vktmd3NXWWx6OXhrdGtpMW9kU3hxdjBtaGE0X0Q2OFdnc1RPSmIzOXFqaEkzeGF3SVZPQW1xUy1DaTF5Nmc1QktWZVVSTDctTkwzTDVnZWl1dw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine war latest: Russian bomb strikes kill 24 at humanitarian aid center in Zaporizhzhia Oblast",
-      "publisher": "The Kyiv Independent",
-      "date": "2026-11-02T19:00:41.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0NaeUNiX1RvbVkzZGd0Sk1KWnNNeC03S1ZuaFlkX3pzU0hsbllVM0FaWDYxbV9sOFd6MjhudEhoYXBHZ09hLTRFbGMwSUppY2FkcDJyc2w0c09CMFZFOTJwbVEtZFRoNVhhUTg2RUpGWUE3eDZxVWkwWnUzMGh4YzdrVGhpMUdzczRsY1dMX3lKbnFuUWcwV05aTTFwY19JbWNhaml5SzJkc3BPOEppT3lfUkxrOXI3M2xRNllIUU1xdDFz?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "LIVE : Russia-Ukraine war: At least 24 killed in strikes on humanitarian aid centre",
-      "publisher": "Latest news from Azerbaijan",
-      "date": "2026-11-02T18:57:05.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWt6aExMOC1fWXFVaGJJcFdRUHdaUDQ0Z2pOSmhkc1VZNjZKRjhqS1BkUkd3WndOT3NiTVk1eG5BeE8ydFRILUViT2QzcEd5MkhXbTB3eWIyMzQyaDNpTHl1dFk3ajQ0dERSZ2dGbE1lZEpMQTFvYVhfeU5DbFhueWtfdE41MkdwOFhYWUNadEczeG9rRlBGaW1keWdNclZXS2N3?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Melania Trump says she brokered truce in war-torn Ukrainian city",
-      "publisher": "AFP.com",
-      "date": "2026-11-02T18:56:40.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMkdGSWMwWkdJQlJNaEFPbFczZktYU1p3OHFkSXNDcXdFT2g0UzFibjAtQ1lZWFg3RVZmMXpSODhtZGhDRmZXRkg1NA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia bombs aid centre in Ukraine, killing 26, officials say",
-      "publisher": "The Globe and Mail",
-      "date": "2026-11-02T18:47:28.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTi12RFhHdE5PNzNFSzQ1U2FRVkY5V2lmZWRfZm5kVnpKV3l3eEpYZEQtWkRRc2RPdjJEUnpsUXZDMlBIejBMUFZ6bE5LSXNDMlpZYnRweldoWnlXdnB5aDZfbU0xV3BZemZ2VW9OUUVVa3puMElFM01UZkVkU3h4bWhlSmhNaXNiWUE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine: Russia’s Increased Attacks on Energy and Heating Infrastructure ‘Creating a Deadly Situation for Civilians’",
-      "publisher": "Amnesty International USA",
-      "date": "2026-11-02T18:33:18.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQVFOSlliRE5rS1pRNU4xRmtMTTdZcWNXX2d0TXJoR1NTNEhSM256WnpBZ0VmQnZJT1N5MlV6dkhKS3NBT0hyWnkyMDZaRDVoS1psZGVZNUtwNkpmem50NnpOVGJQWWduSmU1N0dzZWxWRTJXY0txU0cwdG95SXEwZUJQV0ZRSHpZTEYwa2RMeXFabUJlWXBzdk0ycTg3dVI3cU5saTRILWhOU0lNck9Xc3NVT1pLdFZ3Y2ltWE00c0QydGM0UWVrM1hNaXh1bTBvZ2Nnd1lxR3g5MWVwaTU1ZjB3Rmk1QnJMdWl3?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia's new suspected radar in Kaliningrad could spy deep into Europe",
-      "publisher": "DW.com",
-      "date": "2026-11-02T18:22:29.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFI1cnhfdFhUQnRHcUVLVld4WWx3Mm9jUVBwVDRvQTlhRUJGalNiaURNS3FWMWhiaGZ2UjNOT251cXA1WkhULWNib3NTeFpZelB2bXhfTDV6M0cweUI4UjFiN2k3STJrMnpHRzRGYXJsSm11dXVFUkhuVEMyYjBlSnJHZ0Zid0hrdEJQRHJGbzZ6WlBhSzlV0gGXAUFVX3lxTE1LMVhVYm9ZbVAwams1enBvZGZqTWZoYlk0bmgxMUM2Ul9FaHhsLThmdnNQSUpqTk8tTDZEQnpla0pTTlNacFZzUEV2WmhoUE1FUlV5ZnhYcDhUTFFOTXhjVkNWeU5WY3NBQWNtYVE2eEllbUJnVGVqTHZ1SUxOZE5jTmxXWXNTZFlsYnNXd3c2ZVd2TDF3aWc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say",
-      "publisher": "reflector.com",
-      "date": "2026-11-02T18:18:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY2FZOVE2NEpPQ2Frc0lxSXljSUkyNk91eTFkMFJqRlFucTRTaktZdXM4QTRlb0RuU2ZXX3BNOFVTQzRpQjI3OXE4YjdSSDRUOXJzdDd4aUVBaXBXUk5hS2dPVFQ5OTRuSzdDbU5IVFMyUmlwbFZfdlhHY2tfQmg0aVctNjFkMDJndEhCYUZJNVNGVWZZM0VXLXpYeHFSTGNrZEhuYVZjVFE0RHhOZFg3c0xhbEZVLWlEX2xIekJXRTRKWUd5QzNiV3NSaUtYbGtyaGs3enhyRGtOWU10cHVpbEZJaEdteExJOUNhVTctYm5ydHBtNTlLYkpwV3NaVzRF?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Strikes School Used for Humanitarian Aid in Zaporizhzhia Region, Killing 24",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-02T18:15:31.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEdVbXV1WkR5cXZfTDZleW9HcXVEeGdCQ1h1QmJUT2o5b29YdkoyaDhpQ250djJqMnZ4NEJQbElVTTZWbC1XMDhPV3BzTE1hbVJBTmp6Vk5ZbkRldmtHcVA0c1pKWk1nT3o4blBpanZSbUwtS2k4MjFOeDRIT080R1plUGl4Wm9rOWJ1VVp0M2gzd25mbjFzOV9MUEh4ejl0Z0xxbTQ4dEh5cnhyeFd5Q21SbzFwZVpOZ253bmZVeUFDbW4xbzRn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system",
-      "publisher": "PBS",
-      "date": "2026-11-02T18:06:16.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPak1Na180MmpZeFVkVGJIbzdyb0tFTktnYlM2ZmswaURxU0dLQzM1Z2ljek4xcFpNLVBrV0RzNHdxZnB1dUpyX2RCUFI4ejBCRHN6TTdUODg4OWFXdGZpNUlaazlNeFpBc2NmUkplWk9ldHRhRm04XzBFTmFUY0xzQXpSYUpqWXdSTy1aamh4MTRFUFh2MEFVVnNkWXdRaTJFaVFMSFBzbjlHdTNFNGsyaGJuclRnUmxZTU9FVXNzVXhhWEo1NnpubTFFUkJha1Bs0gHWAUFVX3lxTE55a3NEcExyazIzUWMyZDBsS3FNaWxNWDhramhJSUtiMlNSZ0RVZC1iVHE1VzVJOGpmRHdSamhPSWJWeWpKU0hfa0pnZzhhWnR3cUVEdTJCNnNsVm9BaWY2Z1c3aTNiMjdYbjBNTFdNTEpmcTZiQVVwMWZLaFc1UGhXZE1nZWxKSl9qZS1vUFlZdUloTEdFR1RqQmRPUTFIVXd4U3EtMGdYdlU3ZHZmZGZZVURQM1pacUc3eU1BWHFOS2VLdTJsYm0zUVBibVpBMnd3UGNJWmc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Colombia Trained Soldiers for Its Own War, Then Ukraine Became Their Workplace",
-      "publisher": "LatinAmerican Post",
-      "date": "2026-11-02T18:04:30.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEFOX0JBakU2R0d5aHM5a2NVN3ZJdlhfX0kza0lYUTNkb3NHek4yc3diTWNyZVd6T25Rci1MMHoyOGduQm8tMk42S044SDZra3R2RUp5Z3VkTzg2U1RWUUxJcy01YUYycTNXLUhEaHhnbnB6a2o2aTlmdmRWcjhpSXJpN0Q1SHUtdWZHQ0ZSbGxvZVRKTXBwVEVOY0JNeFNQek5hU0pOLTI2aktPdHE1MEhuMnBTMVNZSmkxWg?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "publisher": "BBC",
-      "date": "2026-11-02T17:33:19.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU2l4RHYxQTRCTS1GejBWQ1ZRY2duRXdwd1Q4cmhvNDI1ZDNiTFUtYjY4cDlzbVVNSG1qT2ViMk80RzJ0U0RQSnJweEpsX2lwWmJJaEk3aHpEWkVMLWc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "From a Bahamas Wedding to a Sanctioned Stablecoin: Mapping Trump-Kremlin Business Ties",
-      "publisher": "Kyiv Post",
-      "date": "2026-11-02T17:29:09.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGQ3hNeFJob1EtdXBTSnhhcnZQQXRNRWtaREhEZTJjbnphYWhrY0RVamw4RkMxdmR1bFpxWlEwdzktNUE5UTBCMmF3dw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes",
-      "publisher": "CBS News",
-      "date": "2026-11-02T17:26:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVBYnZvb3ZDNlg5V3o4TUlJaXVHVFRmT1VPWmkweTJ5aTRtdURObGtqZjdtUTJtTlpVR3RiUjQ2MmtTMzNTOUtYYUR6Z1ZxbWE1MExwZG4za244THlzVkQ5SzhzTHpfaXFRTllvbmYzMUExOHZVM25HZ1hqdEd5czlMaVY4NmpEdXFqZC01aEZ1dFlKZW14SmxxSnl1STQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Indonesia Asks Russia to Stop Recruiting Its Citizens for Ukraine War",
-      "publisher": "Organized Crime and Corruption Reporting Project | OCCRP",
-      "date": "2026-11-02T17:06:48.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2hRWG1RM2ZzVGZOZG14U05uZUVlTVZjV2thOFJncmFBc3R6ekkxZUk1U0ZxNnhIdW1helFmcFgtZVpLYUFuS01qRERmdHI2R1FVdDBhYkwwVUg0Z1FaZzNYOFlMekJzNm1YZTBNNXNwNFJoUGdGaDFsUG1JRjFqOE9JRnR2UnlCRGdQdWtJbG5sMXN0SjVzQl9pbHJQay1u?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine: Russia used ceasefire in occupied town to strengthen positions",
-      "publisher": "The Hill",
-      "date": "2026-11-02T16:59:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUc3eUxpb2FkVTluNllhLUVyTl9odW9EUDYxRWRVSGl2MUpuSGs0UzRWcVJibkprNWxycW5peVBuTlVudEtfUXlaVGNXa1BhUk5DcUU5d2tXV3BIcDF2RGkxZEpXZkgySURvMHpVWjBYd3hzakVZVVRRZktsNFNsdlp5MnNNaFNnSHfSAY8BQVVfeXFMTlUwRi1MSExiUm1UWGpwZnAwTU9XeFFaWlhlNUR3bEQ5OE5zWVZSRUJmYXYyelZRbjZ3NWEwdC1EUG01WXlya1BfOWZjd1F1cnhzZ0Fkd2Etak5sREFnTF9KRlNCYzk2a0JYUzNjeFRxeWZ4STdmalRGZE5uUUpQWGJuYXlXb3JURmw0RTk1bGc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine and Russia say their emergency alert apps sent fake warnings after being hacked",
-      "publisher": "Dayton Daily News",
-      "date": "2026-11-02T16:47:51.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnZIREZXSE5fOGNDSHFwaU0xc3FRQVo1eHBMTUV4empkcGU4TnpEYmNwOGg0WmpLS0p2TjF5VzJSbE9lUkhvOFEtNE1iYVRGZkxrVDJUXzRwNDlOTy1pNFNnX0ZIZVM4OWZQaFBlaDFWcS1pVjE0djI2S2NsSW13VXJUUm1ibExJTXJNTGQxZnJkZHV6Z3dUWmF0bW1OS0V1b1NoOU5kRWUydlFMU0J0UHZGajNLcHlhOEx0ckFyN2h1UWlFeG43UXVsOExOQllDRVJySDRZX2Z3S0pJWEJiQTU2amI3VFI1THZNTEZSQVkzRm5TUE5IY0RNRjcyTVctY2tiakk2LVh2NDh1UXJZ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine says rare ceasefire was cover for Russian regrouping",
-      "publisher": "Reuters",
-      "date": "2026-11-02T16:47:41.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJhblpJUzZ3RGRyak5uVjBUZGEzd3JGWk9NaHZlV3FCd2ExX0NfaWtQaHdFamxBbk12UVRzMTUyRV9uZE1qMGlyNVFER05IRFhuWUZfek9YTEJLQ0Q4X3R1c0Y0UjM1Vk1GcFBYMmczbW85OEY4eVdVY0lpZnBGZ0ExZmN2S1ZVVkRwcTdyVjdxYU53OHBwWEZzV0xBbUoxMXQ3aUdzdzBrUklvdGt6bA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine, Russia emergency apps hacked to send out false nuclear alerts",
-      "publisher": "The Jerusalem Post",
-      "date": "2026-11-02T15:27:42.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2F6bmF3dTNpVWZSUndPTFlfdmhCQXB3b2stR3hvNlR3TjBUNGFVeVhSaVpWOHRVbnhGSDJaZlpPbEhqdzZNR2NraS1EWmhlMWtXZ2hNSEdIYTRoYndpcTdJTWFhcWw3emFwQTVaczlBOHpfbUdMM2c2OERuSFA1RktHSWJNUWxmb1E?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukrainian journalists urge foreign media not to downplay Russia’s war against Ukraine",
-      "publisher": "shelter.in.ua",
-      "date": "2026-11-02T15:19:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXVFVGh6QTQ1YkFNWDlYODhlNmdvbWZEUE50MlAzeEY0RUlabjNrU04zRTh4Q2s2S2wxT0NnOEdxVFBjaExTVFJWNEJQNkFYdTlOQ2VDeExiQjBGRjRuVW5DVGZuNVpURHY1TVhVYmNpWjFqLS1OeWNEaXE0dGVPc0VZU0NtbWxqamJhMFpmeHdCcjVtcGFRc0VDelJNeGdQNXo2MEtGeXhJZW9ldlhTSUI1M1AtQkRLUVlBbmhB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "UpFront | Russia’s War in Ukraine; Plus, Election Day Preview",
-      "publisher": "KPFA",
-      "date": "2026-11-02T15:03:28.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84YVdMTzNiUV9fMmxFYXdjTjg5ajcxeUJ5d1FlZzFJQmhjT2RReHhUSUxtM2NKN2xBNGJqamw5dWZzQ0llREZUQi1YSHU?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Claims Its New Jet-Powered Drones Are Too Fast to Catch, but Ukraine Proves Otherwise",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-02T15:02:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPclRlVUZVZFNPci1HeHNzWjcyUVhZVDdTcUpPbzZuMExTUG5TZkhjZmZHcm5sd1NvcFpnbHlnQ1otaUszQ01Lb2RLakNraTNFM3Etd3FwZ0tFWDRFMldvUHUzQnRFaXJvUHUzcy1YZC0zam81ZWIxbTc0TUl5MWlPNnFJU2pfUDZHWUFrTXRjNHJJUC1jN3AySFFiX1N0OXVXNHdiTS1FcGZ2WU1LLW41UGpmU3FIYi1XeW9lYW14ekZ0WnkyZk1CVkhnUjJDOFdxcmI0YQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Young North Africans Used as Cannon Fodder in Russia’s War as Their Governments Ignore Their Fate",
-      "publisher": "Daraj",
-      "date": "2026-11-02T14:47:11.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzNWTjRONFpEcWQ1cjFnbkl1dWd2UXk5OVJLRzZNekJsNlowUGtIeS0yV3Y2N1hPSDh1dlIyRlhNVXFtcXJwVWt6dFBVZmkyVk5tcm1DOFF6SGk2UVFMQmdQV3o0TC1icFFhS0l2OG05eVk2eTA3NWhfQm53aXpxbkwySHZUbWZKTUVoX3RnZVZ0T3lvRjR2S0szNl9Uc3R3cjF0ZExUX19IbDNfSFlmb1otWUVnczVyTDVmRQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine and Russia both report fake emergency alerts after cyberattacks target apps as limited ceasefire ends",
-      "publisher": "PBS",
-      "date": "2026-11-02T14:35:07.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc3g1Ti1sbmVEaGw3dWtzRDNKQjk5LWZWc1VfVV9mVVExVDRKM1RXYk96MWFCLU8ybEZpMmIwdDZHcE5VNFpZVmROLVI4Y0hvRGd0d1JSdUlIWnZjcGFKUnlJWVlEUWhpV3hCTGRhay1EUW9MZWM1NUtvT203Z19pOTRfTUs0T3VUbnY3ZWJKTDk4NXM3OWo4dVY5QnpJSk9DV0hRcXRBX2ZVbm5SYzViU2FuYl92aGVqZG1POTVXbmJsTEFRWk1wTjJQY3kwRVBlbVlnNGt1cDljdWho0gHiAUFVX3lxTFBsbmhfZ09kU0Jpck5Xc2tuRjktTDl0ZFIzX1hPUjZDYWd5X2ZiWERJYlpTT2ViSWpxR0RCbWh3QlRTbzczd0VWbnhyMlNnVmxzM0twcmlxQUJXVVAydFNLTHRmZW92dm1qblBvSjZvRHJ2aDlDUFptRWVSdzhqaXItNTFjckZ2eFllWmRraHZzbE9DcHZsNklRSW9sMHB1RFJrYi1CTlliaGd2b0FPVWhGd21fN0djU1lQckZpbENBZ3hpak1UaVhRMnpVd1JDR2NZVTdWRmo3ZmI3MEpuV1BXVEE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "publisher": "BBC",
-      "date": "2026-11-02T14:35:01.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "How Russia's 3-Month Chemical Export Ban Reveals a Supply Crisis With Military Stakes",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-02T14:34:35.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlduWUhfNGR4TGc4QWU2eWVKVkpPbjZOS3dEam5hdjBCT0h6MDlWeV9UckhSQWk3QlNJVHNiMFhfb21weUpNLXlHbjlNYjFkbFUwUW1BTUNEODRTYXdSMjV5Q1hWemxENmx1TVdWTmF4TGs0amFlUnh3bXo0alFNeTBwUlhMX1BkcW5PTU16cnZBVWVDN0w0R1dkUUFCak9rMVVnUUFzZktSY19LTU0yTGtZbkIwajZUTXZBUFJ3OA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "The war is pushing Iran closer to Russia",
-      "publisher": "Chatham House",
-      "date": "2026-11-02T14:27:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zTUwwVlJBZ1FDZElUNjhfWE9LY01WNjAtWDZQYm1UYWNSRTFzSzhfOWl4V3hMWFFjU1J3VnR1WjhJN0pyYVRVYVVuenozWE1BWV9GME9BR25jSTBiU1NoWUNIWmdIUllvUzNYODQtTURFZEVkV1E?oc=5",
       "summary": ""
     }
   ]
