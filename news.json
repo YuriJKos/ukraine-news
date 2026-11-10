@@ -1,42 +1,336 @@
 {
-  "generatedAt": "2026-11-10T10:53:44.137Z",
+  "generatedAt": "2026-11-10T18:32:12.840Z",
   "source": "https://news.google.com/rss/search?q=ukraine+russia+war+when:1d&hl=en-US&gl=US&ceid=US:en",
   "windowHours": 24,
   "count": 60,
   "items": [
     {
-      "headline": "US calls for ‘new’ Europe security framework as Russia-Ukraine talks open",
-      "publisher": "The Straits Times",
-      "date": "2026-11-10T10:50:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWRBb1g5SjY1VGQxejcyZWJqX0tYSFJCT2haRUt1LWdKblNwMnV0YkJYTnVIZG1iNkp2TzNxOTJhUGt0WFBBejNBTExsX0gxdldIWGtmWmNUTkR5NTl0amctb3BudDlGVVdWZEtMNXFDNnpLbjgwdFJXallzMVhmendMUFJzR1FtTVk0TzlGM0gyT0w2ZzdQWXFRS0pYbDFzWnUtZm15dEtEek9DQnF5SEN1WkVFMGlySVVIUjE4OWlRZGxVRlE?oc=5",
+      "headline": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+      "publisher": "AP News",
+      "date": "2026-11-10T18:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
       "summary": ""
     },
     {
-      "headline": "Russia Ukraine War",
-      "publisher": "Goshen News",
-      "date": "2026-11-10T10:41:15.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnJudHkwLVJLNE83MTRIamtockx6MDVyVllLdVJGakZQdXlHNEw4SWM5THkzWDN0V3FkbXNzQzR3MGJqZmpPMnBCUF9NaUQ3WXcwckZPZG5EOXBxN2k1VXI5UUk4R0FNbzZhczk0enNQVE5mR3h1RXk1MDhiZWNOaVdTR1ltSENtYlVRbXZ0NlljWG9WTVlSbVo5QVUzRU9sQjRtVlJ4MUZnM2RuR1czbjBR?oc=5",
+      "headline": "First day of Russia-Ukraine talks in Abu Dhabi ‘constructive’: Zelenskyy",
+      "publisher": "Al Jazeera",
+      "date": "2026-11-10T18:10:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
       "summary": ""
     },
     {
-      "headline": "Russia Ukraine War",
-      "publisher": "Goshen News",
-      "date": "2026-11-10T10:40:30.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHBwUEx0NEEyUXRfdmplMEdTN0w3OGQxSWl2dGp5Tm9URldZZk9sVWh0TU1QM0JiWm1GalJHVzdGbHI3VFVuX3dhb0RNUGJhWVljVVlkQ25rX1BSZ09Pc185YXd6bmozcXRsZGVWRmtucFJYTGNUZ0xnbE5VOFd5MUF6N3FoVG5JSVAtTnVWUU1ta29GRFdsd2k4cE1rcXNKVWxQYjRydENkelBUdHl6S2xn?oc=5",
+      "headline": "Russia and Ukraine begin U.S.-backed peace talks in Abu Dhabi",
+      "publisher": "The Washington Post",
+      "date": "2026-11-10T18:10:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjMyaW54bUxZMWdKV1RKV1g5cmM4dUJwUDJETWdZQnNCTVpBTzBRQ2FQZHFFSVBVSTVqVzJ3NHZBVzlGaEJXOFZzMjhrVVhTTWxoWnE3TGxiQjQ3c1JNaGJmMGtQYWZOV1FIdTVBTW1aeG4zVTNqcl9PNUdPOVh6cVU2STRyOHZ2NlFKZ3djS1NnNm43SXMxbzVaZmxEWXVmOUtj?oc=5",
       "summary": ""
     },
     {
-      "headline": "US, Ukraine, and European partners agree to move toward broader multilateral talks on ending war",
-      "publisher": "Anadolu Ajansı",
-      "date": "2026-11-10T10:27:23.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOFJKZ090Qzh5M3NiZ0tSNlRCVkRWdFdxaGxCWFZLSmxyT1I4dEVERm1hamw4WWgzVjU5Rm1hY19MbzY0Z3VYODBqelVJUDJOc0xleWM1X0llWTRqUGR0dmZieU5YeFU3UHFPV0JUMEZhdEJyS1dGV19xdHZDZmtfSm5ZV3haYnVNM2t2UXRoMzZ1NHlsVTdYWjZuRjU3VS1kS3Rrci1kYkNCa0F4VkVWUThBbnlHT1lnSFJoTTFqMWstVy1JbklfdTNQUQ?oc=5",
+      "headline": "US man Dyke alleges India jailed him, 6 Ukrainians as part of Russia's war",
+      "publisher": "Rediff",
+      "date": "2026-11-10T17:47:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcE9NMlRpSDRuVFlBN2tHdDVINWt2eml2WllPMUdiV3Zsbi1tVlZWcE95WDZoandQdzBNMDJIdzZLU2VVTXgwLVZZYS0yU1N4SlVMbzFLMGItZ1B6RExtYUVVVWJ1TEtRTDZ4VFc4ekdJY3lOUnBCODQ3b3BvYWZRYTJIaGtqUlV5QmdTRjlsYWlNTUs1MUt5UDlJWFZkRnowRURQRUliajRXQ3B1N2xxVTF30gG0AUFVX3lxTE03bmNlVXVRbDJJeUFJTDlwc2RMbU0yeXpKTnl2WURYWmNSR0s3aWNsbTBBZFh3S3BUYzNrTVc5NWFaU1VCODlPV1dkTTktOW9qcktqQzJNNnJ4YURERmJEMF9YTmY3ZkVBa2RyYnVTUTdtWVE2a19Val80SUlKbkJ2a2NfLTdRZFZBWFFmVlJ3Ym9oUzQ1MUVHSFRZLTdTMTZZZ1phYWd2R3A4aUZvTWVDRjAtcw?oc=5",
       "summary": ""
     },
     {
-      "headline": "Europe still lets Russian grain through. Lithuania will make it wait and pay to prove it wasn't stolen in Ukraine",
+      "headline": "Past talks involving Russia and Ukraine have yielded little progress toward peace",
+      "publisher": "myMotherLode.com",
+      "date": "2026-11-10T17:42:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1Vra2YtMkRkOFJYcjhlS3FDS3RQN2xSMGhVOE1hY0poMi1SVUMyank2QVlVYzNSMkdBV1VNd3BkUXhra1FHbGpaRUMwTEFFNXliMG5FakVZRzcyRUVCZko0UEJURm82YUhGUEpENm91dmRPVHpGUXNvc1p0R0RDbHBVS0lycGxyYlJaN3Y1dlRiUVkxWlczLU9aU1FqN1FNbEtJS2ZxQ3pld09qYVJyOFJpSjdYenBaWnZSQks2QUtla1hpTzlWVHVaNNIB0AFBVV95cUxNNFMwSzBFRExNa0VjUzZfX20yVHpWOGREc3RfOFBkb1BONDZ3eWI1Vm9vZGtxYkdCX01ZSmlGYzBGM3FOMlhHMWdIZ3l4RXBXc0RtZVFFYWJjcC1JX1l3eUwwNlp0M2EwRXVPWDdUTkhFeE1KZklNVUR6ZTJPYVlCZ0NiZGFRZXBybTg3bG4wdkd2Y2NRZ0doZW5RZjdrdlFhd0V2alBtY09kSlk1MmV1LUg5Y0hRdk0ybzN5NENJdnZaQUpxQjV2V2c0cDd1WXVI?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia, Ukraine engage in 4-hour session on first day of U.S.-mediated talks in Abu Dhabi",
+      "publisher": "CBC",
+      "date": "2026-11-10T17:21:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQek1DNXV0cExTdjVVRkttR0JfRXlIZTdGQ1o0RzEwc3owemFHbVVSOGMzX1Vlanljd0NnLXZudTczYkF1U3ZSak4yMXlCek9JV0gxbzRxTUd2bEc5N3AyMU1ucXZaYXhqNXVpdU1JUm1LVFRTSHRaYkRzOGdycldEcWEtckxzenA4NEVyT2FiTnRFTmdwcFE?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+      "publisher": "Toronto Star",
+      "date": "2026-11-10T17:05:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVzBxY3lITngtRmlWZGJPM3lmV2tFZjljaVdXemxXVzBYbXpxM1VIdlZOMFdjaHNMdWpfNmYzMUlzZ3d3bXVyTHh6LTVMaTRxRHIzNFpmWkttRUpXU0JzQ2FqclMzY2VxMF9TY1lxYUJzWm5HTWdKMzROYUdDTzc4bDhwSmV5MUFXYnh2MWRIcnRGOWVOMEJwZmRHdFlhRG50TUctVTJ0eDBPYWNfY2hhX1AtZkRxaHRGeENkZHQwam84bFJHNXVNRzZ3Unl2ZVlfaTdlNTVJN3pGMFViOUhIVklleUkzVVNzV1V1aEZNampCRnFidnpSYTQ4SXdXTDhTNE1HSjFzcw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "First Day of Ukraine-Russia Talks Were ‘Very Productive,’ Top US Diplomat Says",
+      "publisher": "Bloomberg.com",
+      "date": "2026-11-10T17:02:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFlXQ1pPUkRLN21iMjZjc3RRUWxXOEpXcmtHXzgycXlscUpMNDI4eEJzdm5JWV94VHpfZWNuSXpJX2pfZWEtTFFWRkhjc2VzbFJ4NHVrb0NlMlp3Sm1HelB2S2Frd0hnblBZNWl4UVItRHRlWlBENllQZWl2RS00NWlvcE9mLWQybXJTc3FTUFNkMGpTT09VdnNQcXlxSzRrMzdyQmZOUlN4aW1yOVlTLWxqQ2dDVUtRa3NMOGJzZ2hKUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Inside devastated frontline city that Russia wants Ukraine to give up",
+      "publisher": "BBC",
+      "date": "2026-11-10T17:00:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xc3ljZTJWNDdveFBlV2R3MGxrai15SXpDNWtXb0FqYXZUMk5nTFZfMFhNdUdudHVWdmRmZWhGbVRFZjdFVl9jY2RFczdGb056RkRMaU50YkhTNldUbXc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "South Africa detains nine foreigners suspected of trying to join Russia’s war against Ukraine",
       "publisher": "Euromaidan Press",
-      "date": "2026-11-10T10:25:54.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzAycklTaVo0WF9fTnM2TVlQSmc1Nk4zWmQwMkZJd2tyVFZtNzFNZVlOSzU5M01EVjVXUWhmUEFIeGNtUTRvbFVUWkpnZS1fbGc5ZHQtT3p5NEtPM0VHOVozWEc2NlNXdmRsakZSU1BIMnlGbDJUU000SmtmODl2YXhOOXJDT2xzYVVNSW5Vbzl4cWtSSkxVQXF2VlpyWU4xdnU2OVJpczRDOEltVU85dkxuTjI2Slk2QlQ1ZEhkUGNvLTNJczlYemxjYUNZOTYzQzFER0Z4RUdkdlJ1QzBzR292YmdWQQ?oc=5",
+      "date": "2026-11-10T16:40:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnRPek0ybElOcTI5cENFdUNJcTRsQU1TN2FpSGd5WnduVG5CbEFvaHd0REJxZ0c1TDNLQ0k5c0JCUzdxY2cxNE5IckdVRkxtOEpZaHRTTzlaU04zQVlLZWNKNFlWbGZYMzBIeHItYUE4T0toZUR2b1VZR0hpOHdQWi1OSERpVjJVN0liTEdza3EwT196UjQ5bVg2WTJNOEViRjhNQkxTLWtKV002VDFaQlhXXzctSktpTGRfZXlvSklVTjc2ekxUVURlZnQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia, Ukraine, and U.S. Begin Trilateral Peace Talks in Abu Dhabi Under U.S. Mediation: 25 outlets compared",
+      "publisher": "NewsCord",
+      "date": "2026-11-10T16:39:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeHNIT2dEUFNaN3loWTFGcU1pVkhYamhWVnBGX09heHhrZGZYVFpVbkgtNkZjRHp0OW12LTd1VUc1bTcxVDhGZW1qdFhpRmpPTmVKSjNna0VXTkMzY2NsVjJWdzNaQmRQUkctbHFfTE9XZTNpN3FRQVViMUxkNzR3RjlERDlhOF9Ea3VBcC1WeTk2dENNSVk5LXpfTWNtUDFOSFNWeFVtSjhBZk9QVnNhRXhxUkktR1FId1NxdXVKdmRXcWNSRWZfNWhzWjkxeTJPOU1La19RNV9uQXdLSFVEZmxtQTFIVWZFWGc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine War, Day 1,720: Kyiv’s Talks with Russia in Abu Dhabi",
+      "publisher": "EA WorldView",
+      "date": "2026-11-10T15:47:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Sd251alRNZWJPbXNRWmJpUVMtYnNlV01nYlFaYmZFMnEyRzVyZnc3c2pOdWMtVWRtaW5TVEt2OXRsY2xpM1lmTGthVC1JSWhNbW1ZSlVweGxRMVU0LU9NVldqS0hzeFNKVVpEWFdENDA1YnZYa3c?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "What happened on first day of Ukraine-Russia peace talks in Abu Dhabi",
+      "publisher": "The Independent",
+      "date": "2026-11-10T15:31:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORF9ieV9xUGVUdlpvcW8zWEllaFdzTlotMi1TVE44UkdTUUMtUi16b1ZVR3daeERXcDYtY04tRVBBUXVGaWJ6dW80aVBlTzY1ZF81RU9RY2ZYY0pUUlhiSlRzaUdIZ3N0eHNFZUlYNG5RdFhYbnVxMEo0cmFpc2NiVk54YjlBV2xrd0tSOFN2VVpnRldqRHZtRDYydnFMamRFbmc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russian October Budget Gap Widens as War Spending Hits Finances",
+      "publisher": "Bloomberg.com",
+      "date": "2026-11-10T15:14:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEtrREtVOWs4THEwVTFubFdIYTVBaGZyVlBMLXBRSTFOWUJZM2NKU1YyU09QYWhGdHU0eGhzXzhMVWJFYlg1am5sMG1RNVJvNk9YcmlsSG5ndWJ1eVkwV3ZxUEFqelNadmJPN3VYakNDN1lQSTlIMEk0dG94SlNsdldNMk9IUlVQeUZNWHktMjA0WEloZm5LTXhNcXNmbHB0cXBDR25nVXBGdmhTUHlGTHZ2dGY?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+      "publisher": "Al Jazeera",
+      "date": "2026-11-10T15:09:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVRVVzhFY2dQeml0ZnhlMGhaQjI1ZXBQcXE2NDZZcHQxV3pkSU91TEQ3Zkp6V0FLMUVvOG1vSWNGTHd5VkRwMHV3YWNQVnJwYXFzbWo0b2ZKVXBhenA5RWlJVFdHdEw5MGN6YVBhLWpSN2NHenlaVzVIb3lJdW11cWlaV3hxUDNxV2VrSG1TMzdMZkNfamhMM1dFNXdhYzEzTlVvaTFJeHduaHh0ci1WSVNB0gG3AUFVX3lxTE8yVU15TEhqTkMwMWlaZFhSTkZLbkxnaTZqbzg3ZEJaMmFHYlNCSnlKbThvNU9Bc2EtUnZYRVZ3SV9XNzFYY01EVmNIS1BSa0hFcXgtWThmMHR2enU2b0huV1dHT2l4LUFfbkp5dms4d2cwcTJDQnRLV09aenM4UGN5Q3VRT3RVVE42QXJ5R3ZNQ0ViX0R4Y0tmTGIzZkVhVGZ6WmY0S1FycnNqVmxiTm1BVXgtVTdtYw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "War has upended Russian-Nordic friendships forged on Arctic ice hockey rinks. Can they ever recover?",
+      "publisher": "The Guardian",
+      "date": "2026-11-10T14:57:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQek9fMXZFMHhmSG1BQWM3QzhSX1NMVy00NXotNFZEYzIxWHdxRy1zSTN5VWhPWU1JRUdRSmgtWXFwU3BlaWthWFdyZUJJU3dfWkZqX0VZSkpiZDAtNTFnYVdZNkFCRWJqSDVyMzF3WnNfaGtCVkxVMXlkM0k0N0tjc3c1bktESzhydXFsd3ZYdU5jOHVoWnV2cWNyOHJLRjZPanhPb0tNUkRWTFZnWEpUU25Iaw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "As many Russians killed near Pokrovsk in Ukraine as Soviet troops killed in the 1945 Battle of Berlin, according to hacked data (Ukraine Battlefield update, Day 1,720)",
+      "publisher": "EUobserver",
+      "date": "2026-11-10T14:56:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMkhHSlBwSzZGRzBQazNoaHNsTzdOb0ViZi1tTU9POXhsU2JDcVBKeVRVUTN4UVpDZ3A3RjR2V0NETldjSmZRVF9pQWZ1WWdSV0IyTzRZeXVhWHRxS215WFZJQU5Za3dWR3dZNkFhcnZKak9YbjV6OEx5ajlkaU1PRVpNU3NLYzdSTDdUaEV5bzFITDc4ZEVUeGJtTjVGb2pPZlV2ZGdQajl6ZHY3T2hibzhlbHYxRXVWVjExT3NNZEdRNWJjWDNZbTU3Z21SUEtqMW5BVktJcVRUUWF2Nl9Sdkl2OTRwa1pqdFBrblA3OWRYd201QmxGTlpES0ZtN1VqYUhBakVRXzNIVF9GZkxwVE9uNlNGaEJZZEJwZWh3?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia’s Oil Industry Is Feeling the Heat as Ukrainian Drones Hit Refineries Accounting for Nearly 30% of Capacity",
+      "publisher": "UNITED24 Media",
+      "date": "2026-11-10T14:51:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3NGblg5bDNaQzZrckRUcWg0c29YV1hMMkdKS0lrUGRSWXhqR1ZxWVl0bXpPdEIxZEwtNXZ1Y2hmTnBOUVNTeXBOWDdRUzMyS3J6a3RUNWhQTVZaRHdJdU9RalJTLVBkOVc3QUNlVUFLTGtUTFItZmRHbEJCbDY2RkJmSVZGUmdJS3NKRC1yYi1mM01yMnpvUHRiRHhhclctUXZXYTZlakxncmF2cGhOeFBDQV9EdWVTbTVGSlNOS2U1RnM4UFczbDlKOE0waGJxb1B0SlJ5R1V2bG0ydTVPX1pEUENuXy1xaEUtcVFFcDI?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Global Markets: Talks begin to end Russia-Ukraine war",
+      "publisher": "Canadian Cattlemen",
+      "date": "2026-11-10T14:38:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYU92aUNuTkFhRDY1R0w5S2o4NG5BRzVpdWhLQzRtaUg3NC04a0xfOEJyLUlWVnFfNkpqSDF5M3BZN1lZR0EzNjd5bk5pYVd5d2UtNVpUZFBBMEtrRFhpZjBqLVc4cHBQMFRjYkJRcE4zNTBSd043S0J5TkVObF8ydXR3NGVtTUZUUm5kcEcydnA0ZEUxN3pkay1EUFgwaEk5Wnc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role",
+      "publisher": "Radio Free Europe/Radio Liberty",
+      "date": "2026-11-10T14:35:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNPdHM4dmRLQ1ppR1ZSZDYtT0ptM3dsMWktcDJjSXFvZ01ZVjl3UzNPYTlnODUteFZhN1dDVFdGN3VubWhrbW8xcS01UDVURXY2SzVvZlhZeWlVQUhUaUtuMVlwMEE0R1VIRnNFQlNKZWh5Mm4yMkxneTdFRG93VEhOQ2HSAYcBQVVfeXFMTzB3TWZFbFNrVjJVTXdXREJGSDJEcUtoa3MwYkxRNTNBQ1BHMDY2NmpQZ0FVZnNhMW9RcHk0TVNYVGwxeU1uMVZ2SjVJeWw4UFZjQWZVZlhCSkZuU3ZEbzFNemM2Qi0zUjFULTJDWFE2b3FZVEphXzBNdEptMXZjUnNBWlhVRzhR?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Abu Dhabi Talks Raise Hope for Major Ukraine-Russia Prisoner Swap After 4.5-Hour First Round",
+      "publisher": "Kyiv Post",
+      "date": "2026-11-10T14:26:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fWm40S2xWYmRRNVhjbkx0OUNWa0k2cmtxRGV5OFdnSHV1TWJkWnBWMTFtVVlocGtGWjF4clI4S1M2T0ZteHl3eVI4NA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Fresh round of Ukraine-Russia talks held as Trump insists peace close",
+      "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-11-10T14:21:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1lUVmVPMnBKZ1hHc3RlanpRMkZ4SS1UUDNwS0FiejFmdkhXclhTbjJFQWlNSjlYS1VjaF9EdF90TExRTFF4MWVFRmVVWHM0VTI2ZUpCeThTMzJIcVY2UzNWOWphNUxISGZYZ24xUFl3SG1MSy1kbEp4eFN1dlBKZGgwOXpKUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "First Day of Ukraine-Russia-US Talks in Abu Dhabi Ends After 4.5 Hours, Next Round Set for Nov. 11",
+      "publisher": "Kyiv Post",
+      "date": "2026-11-10T14:21:22.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kUS0wWk54RHdkektrS3pfZERPSm92NVQ4MkhzMDBITmdKSmxLN01Cb0V2aHhSNTlOS2RtRXZ4dWRlVTZzdUpibnRhZw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine-Russia-US Talks Wrap First Day as Kushner Says Gaps Are Narrowing",
+      "publisher": "UNITED24 Media",
+      "date": "2026-11-10T14:20:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3RWYmlmaHpPQzVwMzF4WnFBRjEwYzlaWnV2aHhESWlTZmROQjhjLWRfdlpwY1ZhRGtjbjVZbmN4X1Q4aGN0U3pROHhXcEhQYzVEQ2dmeDBwX1hRUko2Rk8xQjZTMEZTVVNLUzUzS2YzVnZwcl9CX1NnSjNyR2hzTmJzT0ROMXVoMk1DUkRTV2E4SXJIaGFfU2hNMlRxUjlfWlhmNFVLSlZ5UmNyRFFacmRhQUFJa1hibUhxRQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Sends FSB Chief to Face Budanov at Peace Talks After His Unit Was Linked to Plot to Kill Him",
+      "publisher": "Kyiv Post",
+      "date": "2026-11-10T14:20:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQk0xSHJ3QVF3RndOMjhqQlY2UkhEbEp5MkFKNU1ZV3dkWkd4d1R3MnQ4b2ZLdXlsTnpmR3ZKcjdQczdxcG5JdUNRUQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine war: US energy deal with Russia undermines Western alliance",
+      "publisher": "International Bar Association | IBA",
+      "date": "2026-11-10T14:16:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3ctZFlzcHNZRC1PTmRTalYtRVdwWHJlTlZOZUVTQnBGMmc2NnhNc293SG5CYURocGxSTUszeFgtMVJlTGh3czRYQU8yUTRTQXpPNEJYbTBQTEV2aWJiYmRaZ3pMZjRtUHBaQjd0UGxmUHpLVmJyM1ZRNXlET0JLSW1TWXR4TXlCeG40VVJ5eXJYNjA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months",
+      "publisher": "Al-Monitor",
+      "date": "2026-11-10T14:03:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUY4Z3VJWTJ6OFdBTmI0a2NiYjljcjVFdTBwUzlWdDdnVFJvalpFUHRvM0pBNEZtUnp1c3FBN0FBei1CcXlqeFpZVzlzUEVUc3RSV2hxRDZ2Szc5YThUUlBYdW5pMmRGX2NkRTVRSkVHMnpGMTRqUHBXaE5SOV81YndlTVExelMwdlRhS1o1UUNUN2xzblVVdGt5bjVKVU5uTEZwaXZGQVI0cVY2LVNr?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US-Led Peace Talks With Russia and Ukraine Start in Abu Dhabi",
+      "publisher": "Bloomberg.com",
+      "date": "2026-11-10T13:42:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJiQ1RWY0N4aG5oajZuRVJPaTEzY0dNeUs5MUp5LVlmU2d4OEhkYkdkaUpacmxpTnF6VzE3enlMN3FIeVVQN05sNDZGeGRfQ1BLUTJ1VjJCcERhQnUyd2R3eWUxVUFOYXlBaGlPODhsSEF1Z0hwOUNNcm1WYnI4ekpCTXF6YUpPU0lVSGc3bDFiSU9jWE1ndEppYlpGdFdxYWFYeEgxZU9DdG9xbWE3ZVln?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia planning strikes on Ukraine's food industry, military intelligence source says",
+      "publisher": "The Kyiv Independent",
+      "date": "2026-11-10T13:37:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWcxZHZSdkI2QzNlRDZ3Y1JkVWJoZHRDelV0WVRzWXRfZU9TRGg2SlctZnVPX3F5TzVIaTJzT0M5UDRoY1dNQ1ZCNEVlbHEyaGNJMzcyOU5TWXZDRHZyRFlOZXEtWGtVRjFUUmE4WV9CZzlROWN3eF95akxoMmY4LXFFN1MydXRoc0t1V3BHblNLd1lzNG5vQ05jaTc5Vjd6cWlQM2RSdkhtVl90VExqSHFB?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "'I think he's an idiot' — Australian man who joined Russian army missing, feared dead in Ukraine",
+      "publisher": "The Kyiv Independent",
+      "date": "2026-11-10T13:33:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDJsNHM0dHo1TEV0eE5BcS15OVlKeHJoMU05amtTQlZvQm1iUGNycHdZUUNmcjJrU0pqQlRrTHdqdGtQNlF6M010ZUVKZGRVb2dUMkFoMkZ2Zm5RUHZRcTM5UlQ0eTFtOFpSc3JfVVZTWHE1Z254U3dtcmp3ejZxVFZMTXJEdVQydHZZcy1Ma0haOXViMEhid1VZQ1Zaa0hWdHM1NndSOEpIWGM3a09UVE8tc2xxSXlvQnFZ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Now Strikes Ukraine’s Grid Almost Every Night to Leave Families Without Power, Heat, and Water Before Winter",
+      "publisher": "UNITED24 Media",
+      "date": "2026-11-10T13:29:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWVZxUk9XeDJvbkVITFkzb1pqNm9xUXB5UzRYZ1FjT3pMUUtiOElHeEN6Rkc0c2p4Z2xDc0hUYmpkV1VFRlVaSTdGcDVCRjJIeVI4MHpMczNDVTc0eDllQ2tKaGFNbzUyWVZBVWpKUnZMcEs5SGZQeWZmVjk4T3BYdm9rS283cGZtWmJTWVVqRWFZRWJtRF9yVV9yNzAwNFAwLXh4bW00SDlYRERJbm1hTS1WbExIdFM0RlZMTmJzZHA0N1hsLVB3bHRucDhoal9jMFFaYzdwVU5WXzFuektRTnMxTjVsOG9HSlJYc1loRHk?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "One in three male deaths under age 50 in three Russian oblasts linked to Ukraine war",
+      "publisher": "The New Voice of Ukraine",
+      "date": "2026-11-10T13:29:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNko3QWZsYXpoU3QzV1NXaXRiT0FRSkZ4N3hxMTA1cmswbHgyNGRlWnp6eEtGVWFyODF4THhPMlRROVZ4YlkwaEhnVFc2NUk5RWNMRXZjNzQ4WnpOZ0F5RWkyNmljM0NrZ3RNc3FOX28tQ0VpcDFBOUVtLWdpREFJS1pHMC1Jc0EyRmR3cTFKX2hjcWIyM0V5UTVRS3Q2YWhEbkFr0gGfAUFVX3lxTE96S25nYlVDd3FvYVBpb3BzNHhDcHJJMDVDcFBDT19zbUpNUUlGMEtDN0hpdWIzcGNua1ZNQ19xSl9KOVczUWxIYW96ZFZfMTdaUW9sSVdxdXQ0Y0pzSzRNLTZxZ3lRYjBPN2QwMVM3akVGdm9ISzFYOGNLNldNNFJGUXdBVFFZczVZNTQ0bDl0TFZqc3hzX185RGJuWTVhQQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US-brokered talks to end Russia-Ukraine war open in Abu Dhabi",
+      "publisher": "WPDE",
+      "date": "2026-11-10T13:04:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTzBkbVRqb0huXzNxYTNMbkFzU0RGVlFBZk5ZcHM4Xzd1OEx1eDJzR0FGeThfNGlTaXJXanp5R1lNYWYyTEFvZzZNZTBVS1F6TzVHUHJNM25FVHFoaXpjUkx4RVNzWkZUdjVMakhOVHBiV3Y1Qy01a3U2dlQzUlc3UkZ6S3lFUFA4enVmMkxnNHpXSnI5M0dYSEZDSHRnb1Z1TmJfUjAzRDNXQjRkbW9ZYXlNQWZkWEI1Ukw4QjJpWVRtYlU1TGs0LVB2aG4tVDU4SG1VNUtJNUphTjdHZk5iV1o5WlZNaThTUndnN05UWTdscnRCWlJNVDFFWkFyX0VoZE1IQUxnb2w5QnJMMmNQNXlpU2Rqc296M0p3QTBVQUp2V0dpUjBMdG1RXzZlTXhoYXRQSUxwbmFmU0dpcDJaVW5WSXJiV1JMeVE?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Trump envoys bring Russia and Ukraine together for first peace talks in 9 months",
+      "publisher": "Al-Monitor",
+      "date": "2026-11-10T12:43:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazZvbjdxc2pjbHR6amh1TzdTWnJCNmpWVWh1N3NtVkVJYldQMlNhUE5GclJaaEFvUWRrZ0JqNGZVOTY3WEYxejNlelg2VDhoaUJ5dnJmMFVZQXR1TUhweTJnbVhSbzcxRnBzZk9tZVgtalRVemlUMnUtUHctRkJKdWxmdUxxTGdpS2R5empiR3BkYU9CSXNDSWpWdHJ5MW1qaHZCcUJYTTNWeUhHUFVEVy00bWRvX1lwc1E?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Heritage Foundation's Victoria Coates on Russia-Ukraine talks, Iran war latest and Nvidia scandal",
+      "publisher": "CNBC",
+      "date": "2026-11-10T12:29:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2xtVzVUX2RVNEttbElmUUFRdzlTcjdhUmVDWDM5WXFiWXZ5UWNFVW52Yl9INDdCTzdqN1YzNWRQSG5uNTdQejNodnlOZG1BWjJkYkZWNmU4c19tREp2dUk3eXh0M3VqLUNFWXgxOHNfREZHeGpTV09aLUVPOU1MdGI5a0ZSLXM1cUJPR2JGSTRZQzJYLXg2ZUVVMEFkN1VWaVdXd0RxT3gxMW5yZGYtbE9TeUlYakV3TmhBLWxVQjN6dVVOVjJ5OEZNQTFiQ09rZWhHNQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia Can Afford a War in Ukraine but Apparently Needs to Tax Lobsters and Oysters to Pay for It",
+      "publisher": "UNITED24 Media",
+      "date": "2026-11-10T12:29:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXg1X2ZKMjZMeTF3ZVR0eWdGbnA3Z0ZRMmR6WUFZTkxhaEZNN05ibXI5YXRsUmdnV1RVRkJTODZmXzRQbHB1UERzc0tzY2ppRFNhbXFIbkNVQUhRM0plYUFIaGdMMmUyNlZ2REJhaHBMamZ3OFR6b3BLYjFpdS1fcVo2czdkd09yYUxHNVd4NVViTzFrQ2hOSVRaWExRcjM3T2NySkEybGdkeU9WdlhZa2ZyQ055cHBTTXQxRlBCcF9wbk5CWjN1d1R5bzZIbjQ1?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "EXCLUSIVE: Recent Ukrainian attacks have reduced Russia's oil processing capacity by 30%, sources say",
+      "publisher": "Reuters",
+      "date": "2026-11-10T12:19:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Europe and US agree to review postwar continental security as Ukraine talks begin",
+      "publisher": "POLITICO.eu",
+      "date": "2026-11-10T12:13:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWxUNERadjZ5aE4xM1VJNzVLTFAtQ1AwMWVEUUl4b09yTkxaY0NBdFNoLTZ0M25JRkJxOTFUa1JoTEIzUmJTaTZaSkp2YTZoZkJjRlFKcEh4cks0QzJMbFFqaV9yWV9vSXF1cXY2N2dheUh1dGVMZ3lienhfS19vMlprX0ZmMm9ycHdla3Y5NHJtOHZYRVFMOFZGZlZwZ0JaYnZXaWxpZlZESG5ReWFoY0kxY0RsTkN4a3FvSGU3dw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' - ABC News",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-11-10T12:00:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Zelensky names the fastest path to ending Russia’s war against Ukraine",
+      "publisher": "Mezha.net",
+      "date": "2026-11-10T11:59:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmlWcDRLN1E4TTZEbW9RNjJRTGZKLWFQY1pIaUh1MEoyZF9EMXVNZ1kxRlpseG54eGg4SE5pcGcxcHhmTnVZR3JFQ1pIWFhrdjUzTUI5c0M0MlpPempPT3JqWDdpM0NyRFJZNFhBd1NEaXNnbDdkeXdEanlfR1k2R0N5RQ?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "publisher": "AP News",
+      "date": "2026-11-10T11:43:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZF9fbEtpZWVReFgySDk0T0VNT20tZDIwVHNZWmVTYW1Fc2tESVlwVXFfMUpRNzdQdmtmdkp5OWM1WHMyV2ZqdXo0WHFlY2VlRHhvdF9IN1dOMlJfM2pXZkdGdWhGbVc0SjNEaDRWYlFzV0ljbWtmOENkdS11MHcyeEtWUGh6RkFIUzk4MGJ0Q2R4dHdraUNiNFlQR05ySmYxd3ExWGgxWDhPRnlmbEdudVhmY1NRbW1YUFdvWTVtYW0?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "At least 1,500 Belarusians may have died in Russia's war against Ukraine, leaked data shows",
+      "publisher": "Belsat",
+      "date": "2026-11-10T11:31:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUJDYnd3eEdfQmJieUhYeG9CY2h2X2tsSk1hSWtRcEhqOWxENFM4aXhLazBCN2xpbXo4Y1ZSak5UR3gzZjRmeVVBcVYyQXdaTWpncDBlV0pWUHVTaFdUY3JCc2U2QzhKYnFLWXdYclhHaUgxTm4yZElPcnNzOE8yeEZlYUV2M2liS1VhRWxHbURzbWROWE5TREVWMlVCeDZ0M251aThyMmtoZ3ZpMXcxaHR1S2l4OEt6U0E?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "PODCAST: FBI Nvidia probe, Hegseth impeachment vote and Russia-Ukraine talks",
+      "publisher": "Reuters",
+      "date": "2026-11-10T11:23:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTlXR0tMQllpNEJzNGk1WktuZXlPNHBFTERDM1NidThtQmVpM0U3T3FXb2ljR0JtUkpQVTlBdFloMHJEdGpsS0VPclEySHlvWWFzZkVSZ3NPeTF5QmV6WUs2MHE0UGF2V2ZwMnpNUVNJWWVOTkh6RTJZM0JwRWY2cGI1T24tRmlIQmJvbnByNG1qaHc0dlIwejRGMVV2blU1QWczZGlRclpsdG8?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine, Russia, United States resume peace talks in Abu Dhabi",
+      "publisher": "upi",
+      "date": "2026-11-10T11:13:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVpiX09VTDVaaHZpQ2JieXdVLU9PZlBKYTRNNkRYSU5yWnRQZnNYSTVmT1BkcmRIYTZUTVR1QWFsX05qZFFqX3hXVUw1Z21iWWJYUDhDYjd1NUNEM1Z5dE5oNWx6RmVVdG05NEFBOWtLeURVNVVSMWJmd21qNVdkdkk3aG9vWUNOUm5LZy1oY3hKTll3a0J4WlpMRHl5d0RuSnFxX2l30gGrAUFVX3lxTFBQSS1FNXdIUW1XS2N2UDZBM1U5dXREcnp4UkotaVl6MFljUnd5V2RsSGZWWTV3UWtDQjFocXFGTjk5UmdwM2kzVnB3b1FObzJHZzZoMjVDVFFmNE1aZ05uQ2tQa2M3S2NONUFnUmROVTRESXROdEdQWS1wTVdmRnlqSXR3bFVZb2R5OVBtZkJOeWxDN0J2cmR4eVdRS09rX011eFcyS1hFdWxiMA?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Zelenskyy names fastest way to end Russia's war against Ukraine",
+      "publisher": "Українська правда",
+      "date": "2026-11-10T11:09:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTkdHNTRDeTB2UmVPdEVoNmQzckZFcTRhaHlyVV9EZmtFSHVXbnpQRlpVcGdnNm5aMEtNLXpSS3pPblhBRHVuV28xX3doMExvcFhqVndKV3g5bS0tbTE0M3FlMHfSAXBBVV95cUxOSDlIbXRTZkpFM2JlelFOZEV4Nzg1NlpuYVlMLVM0bUNZZkVmNmxySmw4Q0lMRnRNS2VIZzJuU0pOZjZTbXdfOXlVVWFMYWtMTE1WYkZPT2JaWEZXWHFVblN5bjRjWmpJRVJ4aVpyRjJo?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+      "publisher": "NPR",
+      "date": "2026-11-10T10:58:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMVQyQVdJaG5fZmtRMENRcFBfcmN2bVJFdnJKRy12QmlPZEZoSThoZDBGRnBkTGxMY3ZmVTZDN3BQZkdrSWdJa1RQUElKbnNZYmo0S3VTX1JweVRqajBIM0lKa0hJcDQzVWM3N0lCYXpNOG9Td2c?oc=5",
+      "summary": ""
+    },
+    {
+      "headline": "Ukraine, Russia and US begin talks in Abu Dhabi on ending the war",
+      "publisher": "The Copenhagen Post",
+      "date": "2026-11-10T10:55:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVV93Y0lVWW1UWEljYXV5SThGc2hpdlBHYmRLb2x1ODdFNE8tLWpSR05jaVYyR284eFpYYlRzeXFSNkNiRWVxZmZlQkoyc2V2ZmgzcEh3X1dQc09SWFpobUU0T1VRWDhOaFMyNmxqTlhkMUlQTjBDTWV3UmQydVZ3NjBYN191VWN3UWstQXNMZF91UXdVN3VjN1FqbEk5YXVhM1dnYQ?oc=5",
       "summary": ""
     },
     {
@@ -47,73 +341,10 @@
       "summary": ""
     },
     {
-      "headline": "Russia, Ukraine begin US-brokered talks as Trump signals possible peace deal",
-      "publisher": "TRT World",
-      "date": "2026-11-10T10:23:51.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeG5QeVlubWZ4TTI4MUwwVnRvc015d0Y5S1A5bjVoUnJJMGNjN2pTZHAyY3g1MllldU9GN0R3ek42SkxLZHM1QnlHT3R0YTN3cEQ1d3NreHEweHBKUUVabVBxOXFoQlJya1BCQ2Z5ajRneFhPTzl3TDB5TnljTUo0WGp2UFpkZjM4cVdicG1PdlkxNElweUM1Tzg5V1BXczRLNDFQZzRnaGhIN3JqS25QS0VHWjZtSnZwbGZIWFNucTJSZXZTcjM0Sw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US calls for ‘new’ Europe security framework as Russia-Ukraine talks open",
-      "publisher": "The Weekly Times",
-      "date": "2026-11-10T10:23:21.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1FLY3FfS1piRVQ5VDI1WHNnSFI3LU11WVUwaDVWdW5Eck9DTEFIcW9wTGdDLXk2MUhsSjRKX1ZCMG96M3oyUnFlYmxfR2JYRXM1V01YQ1FITWY3b2lZTWlncmliOVFCR3Z0QzlJUFdBck5raXFJcUdHZmM4RjllLWF0RVpYQldXZGl2My1kWWpuS2F2cWdlQnEwS0tYNF91SEFyN3FvMmJ5SmVyVjBYNjdQQW9yeFBFSlJnUEhoYm9FSnVhTlZCVmlRS1djR1VNbmE5LVJmV0MyeGtOSjIxRVNKMlQ2cTNTWFVDbm5sVmQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US, Ukrainian and European officials meet on ending Ukraine war, Witkoff says",
-      "publisher": "Deccan Herald",
-      "date": "2026-11-10T10:21:09.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMG5hT0FuN1BtS1NlX0RJZmxBX0ItclpkQUEzZG9lUTZJWUJUdFZHTEVibThOOUI3cWhBejNnekVLLVFWN0JlMnk1VjJkOGcwdXNGZUE5YWhXS0JqWUsxeEtrWXVsd0NBOVh3S28xQ0tuclNwWFpEZXhvZHBxRkdLWmNEZUdJUzUtcU1RcE5HNy15NHBjWEdrUzRsdHJhbE56REhXMUswVDhwVHp5c2hzT0hoc05vNFZiWHM4T1dn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Standing With Ukraine Never Goes Out of Style as German Designer Frank Peter Wilde Wins GOLDEN GLOVE Award in Kyiv",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-10T10:20:12.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOakxVRlJWTTNhbE9pd0pQYlJEak15SDNWRWVsdVRxLXJmS2ZIeDBVMjlZX3Y0MmY3Znlxc09iTGRlelRGOE1OeGwzVE0ybzhaRllYSGw3SDdfU25xNXJtdnVYamJqSDRLSzNHSlRYS1dRbzNFaWtJVVJOOHNFamFCWkQzWW5aYVdweVVDbDJYSE9kTElPU2lYdGlad1RSa1hvak5hTGt6ZDgwVHc4dmRtaXVGMlFxRFJ4bnhITkNpbTRabURfY2xTNjJ6TEZLbjhXTFBIN0xodGYzRGJoMG5hTDR4S0tTYkp2S2c?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US, Ukrainian and European officials discuss Ukraine’s postwar security",
-      "publisher": "Mezha.net",
-      "date": "2026-11-10T10:15:27.000Z",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5haDV3Mm9wUzhTZElEUHVXZFR0QzNzVDNiai1Sa0dDUEkzU0QtN0MyWEl1dXA2QkVnejNLV0ZiTTdvekNKd1NDcl81YWFmaHpPQzZzZWQ2TlVmUlVlSUxFM2lfUGhFWWt6Y0JjVS1WWW4?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Ukraine War",
-      "publisher": "Post Register",
-      "date": "2026-11-10T10:11:32.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDhDRnZPZGgyeUFBcm1wVEtLaFItWnlaSE5RblVzNmhYVnM3S2cxb0V5dHluaGVCYzNiNjgyYXRvQ0w1ZDJJSzVzaE5LNGF5SnFTWnRfWnVqY3I1b2hiV2doOG53MWJSWlc2RXRXcjI1TXZ6RlpLbmJneVFWMm1ta0pmSmlqSnB3WnlwNllUZlFxbEFiZkJpalBNbjMyOE5FZE5lYmRxWG5wZw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Ukraine War",
-      "publisher": "Post Register",
-      "date": "2026-11-10T10:11:31.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnYySDZ0ZFFBS0xKSmc3SzRGZEUwNlM1ajV5TDIxa3pTekNJaWtzX3Q4STEzclIyeUdXeW4tSFExdWo4eE5Yb2VFUzlWSkNYMjIxZGxlSVdOaW1ucjBJWDFmNGNlSkxVR2RGaGswRDNxZFBNRkhpQS0zR2JzbXJqMVdRQklVN0JuNVFyWkJwLUREdWNPOF9wY2kxYlhrQ1dsamFjMmdoeF9Ydw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Ukraine War",
-      "publisher": "WV News",
-      "date": "2026-11-10T10:11:31.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEg1eWJ6dElQMHl0OThfRDBYVVJYck16R3RaOFRHb1B3clJuVDFCb3FoMnlscVJjRjNaYk9yZG9CaVgyYTNrVkpMR2tDWWNxRFlnWUEtSVBWMzJvUXg5aWxjRllaUUlfNTJhQTlmTUdZNzhKWXZ1U3VGd2hnNjVuLVpwOFZkeXBuYVIwS183SDVJREdxWWVjb3d2dHJFakgzUXJUTUczVQ?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "Ukrainian Drone Strikes Send Russian Companies Searching for Data Centers Abroad",
       "publisher": "UNITED24 Media",
       "date": "2026-11-10T10:10:53.000Z",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDhMWjNvNEZGMTNHQmJHbDR2UWlWZDZDRVNTVWMwekxrb0lNam96YVg3bW5LR1ZCOVhSWU83dU9aWG1TT2FjSmptQzYtcUlUejhUb0t2MUtPV19kTjhnN2FYQ3ZJRHNmYkhwTk1PSUpoYjJ5RGxPTG5scGJWSTRsaXhvNmNRMTFIWVNWMDk1MEtBZGhkOXZXdUU1SFQ4c2ZWY1k1cDdXMVNvTFNzazNDUlc0d2FoZ0lsQWpYTDlOcjdBcm9RUWc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "The Economist: US proposes redrawing Ukraine's regional borders for the sake of peace",
-      "publisher": "LIGA.net",
-      "date": "2026-11-10T10:10:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFRLSEZSMm43VkZ5eThSZF9teFV3TjBmMUJBNjNSZVhtay1uanVwWm9uV0ZQMmdPZzdiYmNqck9ucjh1WEstZzlsT2lraElJM19hTFBOclk0M0FfUzVaeFVkYXhoOUN2aHh3eVRsWUVqS0RwZ3lWWGQxcE9INm4zeE1YaVBkU2JmMUJtTmhlS08wUThOalVST2xsQksxUlZtQ2VqN3RNVXRHOGcySmsxcXZXSGFMOUY30gG-AUFVX3lxTE9aNXBxVkFLdnBwWE5EUExJYkpta2xsZ09TMEUzeXBUSjV0N1FXZUNEQWJwX0IwUjl3T1h2ZFE4aUJGdDJMMVNsTlNOcWdKc2tfektHU2ZYbldOWlhBdUJ1bHFQazdFa0ZBcjBnX1pDM1daQnJMUTBKRXA2anBlelhjNUVGTVVNZ2hRREI4N29LOElPSlRHTUxVSGNTSHh1WG5QbkFjMXFDXzVtTXJtRkpwMGQzUVh2Q1ozaFlyMFE?oc=5",
       "summary": ""
     },
     {
@@ -124,38 +355,31 @@
       "summary": ""
     },
     {
-      "headline": "Ukraine, Russia and US Open Two-Day Talks in Abu Dhabi",
-      "publisher": "Mezha.net",
-      "date": "2026-11-10T10:03:28.000Z",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44MHdpVXhma0lFYm5TekRPM3NiekRPdHBLM21rWEU5VTFEcUw2NXdORmEwWVFVSUg2S3dabFl4V25WY1pmZzhxallTaDdZX1NrX3J1TUJkSmZsRUU2bWxIaWhGR2ZFQ0hUTTBV?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
       "publisher": "WFLA",
-      "date": "2026-11-10T09:58:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUldZVVI2cThIbDI2dXRkSUNjWHYxZmhLWXU1UXpteEdsNkxGWDJaQ2hMUVBiLWVibTE3NmpOR0hiblhRS1E2VDFJQnlnTGJuang1UEFwY0xhY0RfRzQ2cnpKSVBPNU9fZDdFeDhhckY1c1JaVUpoTmJQVV9hMkliOUdiNEd4aVF6R3NjNzhWQnpOZWVORWE1M1haTTFiYXBaUGVPVg?oc=5",
+      "date": "2026-11-10T10:00:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVpVaFJ1MUxwLTl2RldhM2xka25tcXd1eVlmSEJHLXVHVnhKS0FRaGJtdGtWd0Jaa3M2QnV3VDl3aUN2NWwtVHZKaG8xbE5oVWVoY0pMdVphVzF4Z09IT05FaEVPdk1sWnI1TEZRTV8xeC1CZmRwWEkzSTRSX0pvNEVEcHowd2psUnRBS0E3V01FWHpnRU42alo0SzlIWWNEQU9j0gGoAUFVX3lxTE1iSGdsN0Q3UHBsbUR6a05rQkU3WGNlSXJzalNWRHI2QWNCTm81VERhUWJSVV9XTnh4bm1ZV2FmcGdPbDdDcHhjWlotYnlZLTZJenBxMnEtTHp5UU9XRElsam1NejBfeDdjVTdTM2Z5RTdoX0NmSTRhZ3NaX3ZSeXZheUxVQ3Jadk1VMTh5ZVNNUjhhd0VYUUZuR0V1Y09sRVltVXRJYTU4eA?oc=5",
       "summary": ""
     },
     {
-      "headline": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-      "publisher": "WPTZ",
-      "date": "2026-11-10T09:52:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnRDRG84Z2swblJqUWsxTTJoYVdZcjVNdHJENGlQUWgtVW03eHFRcGhFZnBzZFZTenQ3N2psQy1pOU9VeEswMVpwN09xSS1HT3ZTNk44VmVHd2hQLURnejNIenRPN3YxNngwZTY3aWF1dVFDZ0g0ZFVaMjBPRDk3VmhhUzc?oc=5",
+      "headline": "Russia and Ukraine hold first peace talks for nine months, Trump envoy says gaps have narrowed",
+      "publisher": "The Standard (HK)",
+      "date": "2026-11-10T09:53:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZXpyajg5b1k0d3U3R054R2R0UTVXN3ZReHJoeFl3WVBKS05TSFQyVTVFUDdHeVpkbnhRcXBWT0E2YmxCWWoxZ3JITHdNMGdQUDlJRV9DZ0NlTlRIVlVQVFJ3TFh4MnA4N0tWeDlYN2tHVC1hWmZEVlM4dDhlWjdrMGUxa05Dd25vY0hmOUZ3MS1qaHRqVnlESTY3M2w4TVFpNFh6VnNEQ2x0dVZhS1dnZTUxOW9yYThicGtRaC15TVpuUEVLUExXQlpDcVR0cEVWMjBpYWJVYVRxTmpaZkE?oc=5",
       "summary": ""
     },
     {
       "headline": "Russian Soldiers Detained in Armenia Over Alleged Assault of Ukrainian Man",
       "publisher": "The Moscow Times",
-      "date": "2026-11-10T09:51:16.000Z",
+      "date": "2026-11-10T09:51:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDcwSGhZSUp3dXdTMnFHRFVrbGxBV1VCcUZGa2d2ZmltZzNtT3UzV016cjZaQm5sWlNTaHZMeHFjVHNwTDBkdi15amJ6c2xzSVdjQi1Ca1hrdnFDVGYzSUJrbnhzZFlhN0VPSFJuYURFOWtSMzFHY28yZWZiSEdnbklCNk44VDRYUmN1cmRwc0dMdGtxMUdJZl9qaHlJZW1Nb0dxdVd6bFdjakx3SVFPV25VZFRJdXh4cGZsV2JrUE8?oc=5",
       "summary": ""
     },
     {
-      "headline": "New round of US-brokered Russia-Ukraine peace talks starts in Abu Dhabi",
-      "publisher": "Anadolu Ajansı",
-      "date": "2026-11-10T09:49:42.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEVMUmhzTVlLUUNYbm01TmM4bV9qY29IWjFJTHNCaUpubW5ZQml5MWxXdWljRzJZanBTWFpJb2RNNG1KWVcyS0lZZjN5blEtLXBCTHRVaWcwTjh6MXQteHBxb0pvY3I3eHJLbUtWUF9vTzdBVGQwM0RMX05OeWZCbW1MTDF3UDZ0SGlURnlEcW9aUVhWR0J3d1dsSFFrM21DaE1aN1dsUWc2VmFkX01B?oc=5",
+      "headline": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+      "publisher": "NBC News",
+      "date": "2026-11-10T09:50:38.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2hRQnNDekE1WnJpdHBONHdMLUtfQldVRzVCRXFrMHZxaVhyYVREa1k2bUFudmtNbWhObXB3V1FRWFZsZnpzU3hyM2tMeXJzNS0xTGZkeHNiZFM0ZERTOGhlOVBqTzh0YWZ1cmlFWnZUT25Zc2dicXduUzBLUDhBM3pudDNST0Rjc01JV1h5enVwTi1Ld2JkOS0tWExyS1R2dFl5c1hHWkFlNWpG?oc=5",
       "summary": ""
     },
     {
@@ -166,13 +390,6 @@
       "summary": ""
     },
     {
-      "headline": "Trump’s Ukraine peace plan is working great—for Putin",
-      "publisher": "Türkiye Today",
-      "date": "2026-11-10T09:40:12.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ01xUDVvUjdwNkFKWFo5bEpKcUpOVV81eGZwT0kxY2tqemJnUUFjQWI5Q1JpR0pVOEdzQUZLbExjMWJzanZqdE04RHdiY0xqOXVZZWVGbjA2VnF2Z0ZtT1dfQXRoY0xTWkp5OXZBalBWdUpZSVh5Nlp6TWxRbC0xb01mcV94Z3gydHN2VGFyQlY2Q3BCQzdBTWI3RFQ?oc=5",
-      "summary": ""
-    },
-    {
       "headline": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
       "publisher": "NPR",
       "date": "2026-11-10T09:38:34.000Z",
@@ -180,38 +397,10 @@
       "summary": ""
     },
     {
-      "headline": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-      "publisher": "The Spec",
-      "date": "2026-11-10T09:35:34.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnZmUXVaXzlNdVNrbnNfb25IX3R0Q1J1MWp2NmFyZkJKRTRVWjBsY25jTXY2a1JldE1IdUJqWW42RHlvT3NNWjF3WGg0TmUxbmhJWUFDZlVTVHkyWkRGR2hRZDNnbXQtZ2xITU45M0k2U2hHTDY5cEIzcFdISHEtdG42eE9tMXVHQlQwcXhUM0hjZ0ZVVGFnTzIwbUwwWG1BTmpNOF9USHRNMjZiRy1DaVpyUDE5ZWNFeUJqTFJ4ei03bWdUbDVvTE9KcmNQNkgyREwwczF6RkkxRU1UWk5ZUDc5dWlKZFM3a0xqdGpWZldsTVd5dW1VMU9wMUh5N0FhcTBiMmdRaw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine’s drone forces report record 806 Russian troops hit in one day",
-      "publisher": "The New Voice of Ukraine",
-      "date": "2026-11-10T09:35:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0lKSmhnczBYdFdHRnJsV3R1RlRIZDFoUWdyZzZ2OHZSZ3RKUmY1anpxbmRFbi1EYXB5UF9Pb0ppcEFnMU9hamRRUnd6c3JWdURzckFzN0ZBYUhRYkJscWpmdXpPZUhYODBUSFV1dW16dmdVRFNGc21fSHB6QkxueUNsQW1yQjFlb1dGOUkxT3dDbDl6anZ6NDRrc2hWWWZVbVY4N092allJZkJWYUF6RXRPZzVHelpFTVVEN2JmUUFUZUxYcUxKUQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-      "publisher": "Ottumwa Courier",
-      "date": "2026-11-10T09:31:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcVUzdy12SDZDQVdnRVBJWUp0N2JWSUhWSTdFZ19tT010RUVseW1SNVgtOC1DYlBBeUppN3N4Sndvc2V5MF8wZmFxRXVMS1pqNkRIQS1BM2pzT3VmZFpNNHE0RXhvYzUtRUhrTXN0LVZFZ3BsR3YtRzhpVXUtOTBZSktfWDlQMndoMEcteTZDMjViUG1hZXl6a3Foc0pzRUVZR1gtTmt5cGhTN0hPYzJRWGFETXFDYVlPcUlZY3BreHYtTW9UaFM4MGFFVk1IQkl3TzRHOFYwQThsRFlnUThmUVVqT2ZKLXNYbl9ZbWgyd0d0ZzFwbVRFTg?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
-      "publisher": "Al-Monitor",
-      "date": "2026-11-10T09:30:25.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1dMRlVOLWxRMTc2aG1yVzdQQ0NDVzdncWtpWkZFc0hwa1VadWF1Y3UwSk1DMXp0TU83SjdfYVRNSVhjbVYyYm9mRWU3MmozNUhlQno0LWVGVWZhUUxabHhFNnpHLXE2MGtuOE13SnFEOWQyaHlzekVEeWlmWmY1dWQ1eVN2alREZkhGMVFSZXVNYWo2X3RjWkJqdVdXZw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Missile War Monitor: Ukraine hits Iskander missile-fuel plant near St Petersburg, Russian drone kills three at Odesa food warehouse",
-      "publisher": "IntelliNews",
-      "date": "2026-11-10T09:29:45.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOanF2blYxQXk5V2FBcDAyTTV2ZjBEdFZYM3lMcVE2SWtpSjNsMDFkMVkycEphNnBTQV9GRTRVNzk2bjB0S2NoZXpoOTNheVkzZ0xQdGpkczFLeXBPQUMzT3ktbjl1MXQwYWFvYngybVlyLWc2a1RPX0R2WWpmcC1GRlBNaE1ZN3FsQjM1TzFDMnRkWHUxNWw0MlVZaXRyMnRBVEp3bnlUeE56WGtOMVJ4azJzOHhJNFZ0U0pPOUJMbGMzZnMyWHJ1YWRhZTZaRWRCeXBEZzlpNmtUcGNQVU5xZXhhajVkRWpubzRHZUZmX2Yzb1R1aGNpRg?oc=5",
+      "headline": "The Council of Europe’s support for Ukraine",
+      "publisher": "Council of Europe",
+      "date": "2026-11-10T09:32:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pX0hpWVBpbzNPV1dSWi1zaU9OMXFSY1lmRnA1S0J2RU1CSllJaFJfejVmQnN5U2htUHJBQi1TVHdqNUxORUFZRDZBajlQUE9fRl90VmVzMUxMVnFZ?oc=5",
       "summary": ""
     },
     {
@@ -222,206 +411,17 @@
       "summary": ""
     },
     {
-      "headline": "Ukraine strikes elite Russian drone unit deep in occupied territory",
-      "publisher": "The Independent",
-      "date": "2026-11-10T09:29:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDVCc0FjS05rZG9WQ2JkcE4wd0RYUERtb2lDSVdGQlp3OVFnQVAwY1J3aDZOV19fUTh2QjVkZ0tJMDZLUlBfODJ5anI0Q1V0eGt5b1JFR3ZOZGg1SGJtUU85RVQ4SXY5U2RPbnp5SjlwaWZJeDJZRXc3Z2VkS1hPa1FqSWNwNEtuZHZoTk9FSGt5ekRGc0E?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' - ABC News",
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-11-10T09:22:55.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "The death toll Putin tried to hide: Nearly 400,000 Russians killed in Ukraine war",
-      "publisher": "Le Monde.fr",
-      "date": "2026-11-10T09:20:38.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live",
-      "publisher": "inkl",
-      "date": "2026-11-10T09:14:35.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY2lCWnBLZmdWUml1TlNFNUVSWjBGeWxMekt0emdyQmR4cEtfcExnWURvU0FOSk9qcXJ0UTNxQXk1eUVxYXkyMDgwcXY0cDZfZWUyTFNVUDcxZU9kSjBDeFdoZ2Z2ZmxJdXRPc1JSVXNlUlhrMHBiOVB5TFdDVFZtQ05PaXBaWTU1UnhteTF1azVLVmVoYWpEUEI1bUY2ZkNoT0hZ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-      "publisher": "The Guardian",
-      "date": "2026-11-10T09:13:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3pqanZMNlVOWHB0OGxZWFRSZERjUHhvV3VYc1drZUx4bUk0aDRadGdYUDd6Zy1uOHRlbTZ2MWFSWFpXdzJmakhydFo0STBMSjRESEU2X1Y0Y19jbldtNVFFdEZvajU0c3ZlOXljYjhuVFl5VUlZVlk3UmdqNDljeHNQYUJnUFl0MGlTTTZiMDRwNjVNYkc4ZA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "‘Trump is pushing for an end to the war in Ukraine, fearing Democratic investigations into Witkoff and Kushner’",
-      "publisher": "Il Sole 24 ORE",
-      "date": "2026-11-10T09:00:43.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1l2dWhZREItS0lPUjR6aUMxdkU5NzJmMTBObTBRM0dHZlNGeWxPc3hwdm5XNEt1WE5vQ2NVWXQ3RGxJLTU5dFpfT0pFUmxZQVRwWUhOUm9QVjVYQkV0NFhBaFZEYlJvNUpqcnpGeWRMbzVsWDFSTjNOY2FFcHlfYUhxRHgzQjZYQWRzQWNaNzZpS3BqSnRNZEZLVGdTeUo5RVhqUkNkUkQ3RDk1MEhJZzU2TTVoLXdZWkFyNHpuZTQtd25jMy16MkRDZ0lVZU43LXF3bE1n?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia, Ukraine and US officials hold talks in Abu Dhabi",
-      "publisher": "Al Jazeera",
-      "date": "2026-11-10T09:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US-Led Peace Talks With Russia and Ukraine Start in Abu Dhabi",
-      "publisher": "Bloomberg.com",
-      "date": "2026-11-10T08:57:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJiQ1RWY0N4aG5oajZuRVJPaTEzY0dNeUs5MUp5LVlmU2d4OEhkYkdkaUpacmxpTnF6VzE3enlMN3FIeVVQN05sNDZGeGRfQ1BLUTJ1VjJCcERhQnUyd2R3eWUxVUFOYXlBaGlPODhsSEF1Z0hwOUNNcm1WYnI4ekpCTXF6YUpPU0lVSGc3bDFiSU9jWE1ndEppYlpGdFdxYWFYeEgxZU9DdG9xbWE3ZVln?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+      "headline": "No signs of progress as U.S.-Russia-Ukraine talks get underway in Abu Dhabi, but Zelenskyy",
       "publisher": "CBS News",
-      "date": "2026-11-10T08:56:57.000Z",
+      "date": "2026-11-10T08:56:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0FBdDVsTGpNTFhrMXd4amFHczlHMEdINnhILTZJXzZFcjNqaXJ6emhyZjJaLVJPdkFIcEtxVURnaVd5cnZzQ2FmaG5nazlOYlkwT1pRaGRNSWhpN0NHZVZtU1M0RkIybklHdDRwYlRqZHZmRmtCSm9RbUdFV1BlMnJ1M3U?oc=5",
       "summary": ""
     },
     {
-      "headline": "US-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi",
-      "publisher": "Oskaloosa Herald",
-      "date": "2026-11-10T08:53:23.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQX25vRGZkWVo2MGczNGhiSmZRZF93WXNYWGM4Vks4Mmt3SWVJbGJYRndQNnBLZGY4aEZNdXhJRVdGelVudW5lcUZ0S1ZnSU5IQUlkUmJKS2xOblBScklIZFBLczFxU25xZWU4dVRXNW1GMmQtZmJXN3M3LXp3RV9nbjl1THhIcUpibnNOc2Y3NlRkS2dLbXlVRHhxbDdpWWtOT1ZjSURGZlNvQ3g0QW5oTVZST2ZmU2tNdmhwVVRiOUcybGNrUjBodkw1MFhra2cya1ZNeHNrZ1VmdTlhb05oZC1NVWo0djRHWkhFNFA5bE04dnFMY1NyS2p6UTNzWEFsYkZ2T25nYw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi",
-      "publisher": "AP News",
-      "date": "2026-11-10T08:53:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US, Russia and Ukraine start talks in Abu Dhabi",
-      "publisher": "DW.com",
-      "date": "2026-11-10T08:50:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNlBMV3g5end3aF9namhLRUF1YzRGNUM5VWJvN0REaVJ2NWtFN0Utc0oyRHFYb3lOMmU3eWFrcmEtT2xsTGdna1FYNHVSWGF1V0RZbkdVdV83TlRYZVZvSHE4RmVETDJqUFVJeVBXdV9SOEhKdEY0VjNldV9FYzJNNUwxUHFQcUo0WGc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine and Russia show 'a little bit of flexibility' on territory",
-      "publisher": "Euronews.com",
+      "headline": "Ukraine and Russia reportedly show 'a little bit of flexibility' on territory as Abu Dhabi talks begin",
+      "publisher": "Euronews",
       "date": "2026-11-10T08:47:15.000Z",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFFpejF0Z0p0elNRNVRxendFdkRaUDB5WDdmSDd1N3BEOWlfRjdhOTBMbHRrVklCdDVrNnBMSlJQeGloNDl4eXNDWUJvOEtLeUFZMW0wXzdaTVM1QVFyLXg5VEtXSUNxVnN4WjJwR2tDRk5vZTZwMVQ2U0llajJlVDMwZ3pFVkxjQ2F4VHdvS2JiMUMzT25pR2N5VkJ3c09LMk45R2x0bFl6MmpXTEROYUQ0aFFIMjltQTNSc3Bjcm9yUHFB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "The US wants to end the war; Russia is putting forward demands in Abu Dhabi",
-      "publisher": "UkrMedia News",
-      "date": "2026-11-10T08:40:14.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGhxX2p4aW1kSkFBYktHdVJVNHJxdUg2MEVSa3R3NFRlMVg3ekdvSldRZkVHVlFpWXhJYnBENERzMEd4UmVCNDVyMGZITHZldTFmMFI3WmdfUk9KNktsRm5pTXdYdUdIcTNmcVI0RlVqM2RwQ1EzcGdCaGZLaWxiTw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine, Russia, US resume trilateral peace talks in Abu Dhabi after 9-month pause",
-      "publisher": "The Kyiv Independent",
-      "date": "2026-11-10T08:40:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmNvbE4xR0pJeTFYU3FNM3NDX191dXdSRldNV1hnQmhFTVpVQ2lKMXBxT2k3ZGl4LTFTRWN2dVpTMURyOVJGTjhqd3poS2hSMHUtdXVEenYzbUJMTG52WkxMb0U0YTJzcllzX3NlZ1BCTlVGcHRZUmctSWhOUDRnYUY2UmVjak5ldUNJMGhDOUxUYmladFUtNWh4QkdxZlZxX3VHcTd1Vms0YVoyN1E?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Territory, Security Guarantees on Table as Ukraine, Russia Begin Abu Dhabi Talks.",
-      "publisher": "Kyiv Post",
-      "date": "2026-11-10T08:38:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kUS0wWk54RHdkektrS3pfZERPSm92NVQ4MkhzMDBITmdKSmxLN01Cb0V2aHhSNTlOS2RtRXZ4dWRlVTZzdUpibnRhZw?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "US-brokered talks are set to start in Abu Dhabi to discuss Ukraine-Russia peace deal",
-      "publisher": "Durango Herald",
-      "date": "2026-11-10T08:37:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa0JybExkNkE1Ql8ybVJaLU1pWl9PZUtkb3BSMFE0ZmRXVV9DQUh4NDdldTBkSkd0aTJUT3huSjhCZm1qd21IRFVtcjJIVTZhUUpkcm1lNER6MWVVeEEtbllNcmZSdE1mOUZjREc2SUM4SzVJV0kwRkI1eW9aWHowalp6Z1hHaTAtVnVibnR6MGNnQmhPNXh3YTBad29LMWhQaEI2bnZYeGpDQ3dLTHVBaHBDVVA0TUg1R28yd19WRVMtVFpCM2pPTHdSanR4Yy1BcG42dkNsWWc?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "European diplomats press Rubio for a role in Russia-Ukraine talks",
-      "publisher": "Al Jazeera",
-      "date": "2026-11-10T08:24:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUJDOW4xVE96czNlRUZtdE5yVWRoXzc2V2dWU2tkM2REb3NZQURWbzViX2J4azBVUnpRdUpjdE15Q09IQ2NfN1ppRHBvaWJDUHlFaVNyTVl3UTJtcDdsTF9wdmVwYURUd05kd19uck11REZNTHpMa3J5VnEzZldlV0dVTDdNaGFGN3gwV0pGM3ZGZVhkUnJLQ2ttVEhrODB6WUxTcGpfbjByaWRv0gGyAUFVX3lxTFBlQjZQSVFVd1pnRXFmeTdmUkdxaHRoWi1GVWV5MnRQSHR5T3g2QzN1cWdBTWJFYW1zZGtSM1hJQjZfNm15ZEhZaUNDY1h0VUtnNUpHRXM2SXQxM2c0U3djOXR3WGNtMGs5ZjhpZG5vV0tuUUExQWdrZWVOWkNYeDRJeFN3MHNpOElMQjZYRmpvV0VhcnYtZUIwMTR2R3B5OG80TmhNMG5mZExYZE9qYjk0SVE?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine War, Day 1,720: Kyiv’s Talks with Russia in Abu Dhabi",
-      "publisher": "EA WorldView",
-      "date": "2026-11-10T08:18:46.000Z",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Sd251alRNZWJPbXNRWmJpUVMtYnNlV01nYlFaYmZFMnEyRzVyZnc3c2pOdWMtVWRtaW5TVEt2OXRsY2xpM1lmTGthVC1JSWhNbW1ZSlVweGxRMVU0LU9NVldqS0hzeFNKVVpEWFdENDA1YnZYa3c?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia Suffers Record Troop Losses in One Day: Ukraine",
-      "publisher": "Newsweek",
-      "date": "2026-11-10T08:09:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFZ5TDhpcU8zNWlBblA4UGRRT1FKSk0ySjFpeUwzSFNoMWpMRXR4U0ZNbzI0U3UwbFVRZkdvVUtzX0Q4em4xX3BEYUxYQk9RbUVadENKMHZ0WnJXYjRGQWFfM2Vzc2I0Y1RMQTMzdGt2blI3Rll3LVRES2tiend2bHJ1MVFyOWxLak5SZU1vM2E?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "General Staff: Russia has lost 1,611,600 troops in Ukraine since Feb. 24, 2022",
-      "publisher": "The Kyiv Independent",
-      "date": "2026-11-10T07:54:25.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnpjcDU5MnAtb2N1WGFEWkNEUDFPOEJIRmlqdlVNcVlJUHNFZm00a3JybWdIa1hnUTNTcDJpdGRsdkJhX1lLMnhUb2N3UWIzRHlBZllOUzRxQzlvZjdvT1pFNGgteVhRc2NlTlRybXpYTmJIMHQzMGY0Q1lNN051d0locWhzcDlYaUV5NjJVLUNmQzkxTGEtMHJPM1NGYU9SS0ViWTVXRQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Ukraine, Russia, US Set for Abu Dhabi Talks as Fears Grow Over Territorial Concessions",
-      "publisher": "Kurdistan24",
-      "date": "2026-11-10T07:48:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFl2SUVhYjF3VnJuOUFuODE2WHRZV3ZCdktzbUFhYVk0QkFUVHdoVTFLU3N0OHYybkxCa1pVN29tcFhZeEdiLWtYR0ZHQWoyVmVLdHZyLUVkMmJpUXRTc1dDem1OMTFLOXQ1bzBWS3FIb2RZeFpZaFI3cU1GdXJNdGdCcGF5YXNWeF94N2wyXy1BU2l1LUt1QlhvWjJsODMxTGI1N1JtaEN6UVNaa0hZc0hhRnhDbnhydHFyanNLRzRITmpSQmtn?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Daily Update: Russia Loses 2,220 Troops, 3 Tanks and 46 Artillery Systems in One Day",
-      "publisher": "UNITED24 Media",
-      "date": "2026-11-10T07:44:42.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWU1JSFFlVkVBa1F0akxIZzF5cEFzTFVmWXJEX1NudFhzN0piZmdrRE5nNThWU3hOSWdQV0dxTThZUkt1LTYyRjVvZGVRMW95TmJWMHVaZmRrMkY0dDhKc3VwTHVkOGs2X3pRY2g3LTVIdEh1enNfUUpiVTVtaDRmSGYwYmJGb1BjZUtFRzkyRjNxS0szUzB1Smg0QzdSUTB0bHBJVGlNRzFqUmlJVzJ6Q2ZSWUxNMFpCbzdmNVJ1cnpPME1lUTVF?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Zelensky Ready to Meet Putin 'Even in Antarctica' as Russia Loses 28 Square Km in October",
-      "publisher": "Kyiv Post",
-      "date": "2026-11-10T07:38:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94UUhYOVp6VW56X05qR19rUVNwazNkdm1wODdScUhFVEQtallmNnF1aTR4bi03ZTlQQ0M2YXEwZHk0eXE4LVN3T0xaTQ?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "1721 Days of russia-Ukraine War – russian Casualties in Ukraine",
-      "publisher": "Defense Express",
-      "date": "2026-11-10T07:25:03.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0FfRi03YkJIOUlOSWJQTW9lcXFGdHE5dXliTzZ3ZDFRTU9LZlNBdkxIa2NYSVRwNGgxeTMtN2lQbU1kWi1ONFdnbTM4am9tdVZNTkthajg0cjlCYlR5N2VZMi0wT1YzMHlCZjgyTktyZi1ZRVlER0VUSUhiTmotcXBjeFMwamlRWEMzNDQ2WDZYNWFOYks5V1owXzEtdmRhb0FYUFZB?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "UK calls for increased military communication with Russia",
-      "publisher": "The Jerusalem Post",
-      "date": "2026-11-10T07:02:58.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKR1pnWHNRSUFhN1RaWnpMMHlneWU5UnZNWUZCTlFYblZiQThBZGlZZXdBaENidFVSWnMyemFDZFFiTWx5UUN0bFU1UklOeUdIWlZwSEZsLU5qVTZ0NnRF?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Leaked federal Russian records show 400,000 war deaths in Ukraine, hackers say",
-      "publisher": "Yahoo",
-      "date": "2026-11-10T06:56:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV93aXRGMkRocEVZT3JxNjUyRElBSVpTeVNSMzdkdXl1RFlTTVlqelhRUlowTHpSZXRKanZQRWdYV1llY092MXdoTnZvY2NzVXF6bmwtM3czVmVsTm9kZ3doMWhmdk9mN3AyTG1EcE9aTnltYUJ4UWxfaVFjUVFINmt6UWZ4UnRVZHlLVGZZYWZQd25YOE8w?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Russia, Ukraine Show Flexibility on Territory Ahead of 2-Day Abu Dhabi Peace Talks, US Official Says",
-      "publisher": "Kyiv Post",
-      "date": "2026-11-10T06:46:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YR0tkWTIxUzVoOTBmMVNMV3Y1Tmo2OXg2ZENNRXBJSEFrQUlSSlJHanZPTEJGZVoyN01VN0pvaGVtNVppcTRmMVNFNA?oc=5",
-      "summary": ""
-    },
-    {
-      "headline": "Promised Jobs In Russia, Bangladeshis Instead Find War, And Death, In Ukraine",
-      "publisher": "Radio Free Europe/Radio Liberty",
-      "date": "2026-11-10T06:44:44.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmdaemNlWlVNaTd1cEpHcjV3dVNEYU5VeThCejZfbk4wc1hwN2ZxSFR2NUlJZEhQUnFhQlp4Si1tOERVU1dFWTdCZEJJSXBWWXpfTWlqT2V6dFc3aDFmU0RWLThIV0pXVnZQQUR1TVVBYlJ1aHZ5OVZQUGVRb3Y0WkdYMWbSAYcBQVVfeXFMTUFPclNOZ2daOVRDUzhka0U3TnUya3JtTHFmdHl5MDNhdTg2S25YLTM1d0Y2bWVZVEtYSGw0aEJMTXJ6amVUd0tvMUs1NmVvWkYyQ09zbVlvNnJ2Yl9kWk04QVh2Y0JwWkc5Rk81U0FpR3VyeHFCWUpBc005NnZyWWVQWGZZVUY4?oc=5",
       "summary": ""
     }
   ]
