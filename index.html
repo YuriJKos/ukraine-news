@@ -30,7 +30,7 @@
       transition: background-color .2s ease, color .2s ease;
     }
     button, input, .eyebrow, .kicker, .section-label, .masthead-bottom, .publisher, .story-date, .story-link,
-    .theme-toggle, #status, #stamp, .site-note { font-family: Inter, "Segoe UI", system-ui, sans-serif; }
+    .theme-toggle, #status, #stamp, .site-note, .topic-filter { font-family: Inter, "Segoe UI", system-ui, sans-serif; }
     a { color: var(--accent); }
     .masthead { color: var(--header-ink); background: linear-gradient(120deg,var(--header-deep),var(--header) 66%,#174555); border-bottom: 4px solid var(--gold); }
     .masthead-inner { max-width: 1160px; margin: auto; padding: 1.5rem 1rem 1.2rem; }
@@ -48,7 +48,7 @@
     .refresh-button { color: #17272b; background: var(--gold); border: 1px solid var(--gold); }
     .refresh-button:hover { background: #f0d182; }
     main.container { max-width: 1160px; padding-top: 1.7rem !important; padding-bottom: 3rem !important; }
-    .controls { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
+    .controls { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
     .status-block { display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
     #status { margin: 0; color: var(--muted); font-size: .82rem; font-weight: 650; }
     #status.text-danger { color: #d66e67 !important; }
@@ -57,6 +57,16 @@
     #search:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--bg-glow); }
     .btn-outline-secondary { color: var(--muted); border-color: var(--line); border-radius: 2px; }
     .btn-outline-secondary:hover { color: var(--ink); background: var(--panel-raised); border-color: var(--accent); }
+    .topic-filters { display: flex; gap: .55rem; flex-wrap: wrap; margin: 0 0 1.35rem; }
+    .topic-filter {
+      padding: .48rem .8rem; border: 1px solid var(--line); background: var(--panel); color: var(--muted);
+      font-size: .74rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; cursor: pointer;
+      transition: all .15s ease; border-radius: 2px;
+    }
+    .topic-filter.is-active {
+      background: var(--accent-soft); border-color: var(--accent); color: var(--accent-strong);
+    }
+    .topic-filter:hover { border-color: var(--accent); color: var(--accent-strong); }
     .section-heading { display: flex; align-items: center; gap: .8rem; margin: 0 0 1rem; }
     .section-label { margin: 0; color: var(--accent); font-size: .7rem; font-weight: 850; letter-spacing: .18em; text-transform: uppercase; }
     .section-rule { height: 1px; flex: 1; background: var(--line); }
@@ -90,8 +100,7 @@
     .empty-message { grid-column: 1/-1; color: var(--muted); }
     .site-note { margin: 2.3rem 0 .4rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .76rem; line-height: 1.65; }
     #stamp { margin: 0; color: var(--muted); font-size: .74rem; }
-
-    /* Quiet entrance motion: editorial, not distracting. */
+    #dateline { margin: 0 0 1.2rem; color: var(--muted); font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
     @keyframes paper-arrive { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: translateY(0); } }
     .lead-story, .side-stories, .latest-grid .story-card { animation: paper-arrive .42s ease-out both; }
     .side-stories .story-card:nth-child(2) { animation-delay: 70ms; }
@@ -135,10 +144,20 @@
     </div>
   </header>
   <main class="container">
+    <p id="dateline" aria-live="polite"></p>
     <div class="controls">
       <div class="status-block"><p id="status" aria-live="polite">Loading latest headlines…</p><button id="retry" class="btn btn-sm btn-outline-secondary d-none" type="button">Try again</button></div>
       <label class="visually-hidden" for="search">Filter headlines</label>
       <input id="search" type="search" placeholder="Search headlines or publishers" autocomplete="off">
+    </div>
+    <div id="topic-filters" class="topic-filters" aria-label="Filter by topic">
+      <button type="button" class="topic-filter is-active" data-topic="all">All</button>
+      <button type="button" class="topic-filter" data-topic="military">Military</button>
+      <button type="button" class="topic-filter" data-topic="diplomacy">Diplomacy</button>
+      <button type="button" class="topic-filter" data-topic="energy">Energy</button>
+      <button type="button" class="topic-filter" data-topic="civilian">Civilian</button>
+      <button type="button" class="topic-filter" data-topic="aid">Aid</button>
+      <button type="button" class="topic-filter" data-topic="security">Security</button>
     </div>
     <section aria-labelledby="top-stories-label">
       <div class="section-heading"><h2 id="top-stories-label" class="section-label">The briefing</h2><span class="section-rule"></span></div>
@@ -166,6 +185,9 @@
       var retry = document.getElementById("retry");
       var themeToggle = document.getElementById("theme-toggle");
       var stamp = document.getElementById("stamp");
+      var dateline = document.getElementById("dateline");
+      var topicButtons = Array.prototype.slice.call(document.querySelectorAll(".topic-filter"));
+      var topicFilter = "all";
       var articles = [];
       var loaded = false;
       var commonWords = new Set("about after against amid and are as at by for from has have in into is its of on or over says said that the their there these this to was were what when while with ukraine ukrainian russia russian war latest news report reports".split(" "));
@@ -183,10 +205,14 @@
       themeToggle.addEventListener("click", function () {
         var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
         applyTheme(next);
-        try { localStorage.setItem("ukr-wire-theme", next); } catch (_) { /* Current visit still uses the selected theme. */ }
+        try { localStorage.setItem("ukr-wire-theme", next); } catch (_) { /* Theme remains local for the session. */ }
       });
-
-      function setStatus(text, isError) { status.textContent = text; status.classList.toggle("text-danger", !!isError); }
+      function updateDateline(dateValue) {
+        var now = dateValue ? new Date(dateValue) : new Date();
+        var label = now.toLocaleDateString(undefined, { weekday: "long", year: "numeric", month: "long", day: "numeric" }) + " · updated " + now.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+        dateline.textContent = label.toUpperCase();
+      }
+	  function setStatus(text, isError) { status.textContent = text; status.classList.toggle("text-danger", !!isError); }
       function relTime(ms) {
         var mins = Math.round(Math.abs(ms) / 60000);
         if (mins < 1) return "just now";
@@ -224,6 +250,18 @@
         });
         return kept;
       }
+      function articleMatchesTopic(article) {
+        var text = (article.headline + " " + article.publisher + " " + article.summary).toLowerCase();
+        var topic = topicFilter;
+        if (topic === "all") return true;
+        if (topic === "military") return /(troops|military|drone|missile|strike|airfield|forces|offensive|battle|front|armor|artillery|tank|casualties)/.test(text);
+        if (topic === "diplomacy") return /(summit|talks|peace|negotiat|diplomacy|nato|eu|trump|putin|zelensky|sanction|agreement|alliance)/.test(text);
+        if (topic === "energy") return /(energy|power|grid|infrastructure|electric|gas|fuel|oil|pipeline|station|blackout)/.test(text);
+        if (topic === "civilian") return /(civilian|people|families|children|hospital|schools|cities|civilians|evacu|residents)/.test(text);
+        if (topic === "aid") return /(aid|humanitarian|support|assistance|relief|funding|package|donation|supply|refugees)/.test(text);
+        if (topic === "security") return /(security|border|spy|hacking|cyber|clamp|intercept|air-defense|defense|government|police|surveillance)/.test(text);
+        return true;
+      }
       function makeCard(article, isLead) {
         var card = document.createElement("article");
         card.className = isLead ? "lead-story" : "story-card";
@@ -247,9 +285,13 @@
       }
       function render() {
         var term = search.value.trim().toLowerCase();
-        var visible = articles.filter(function (article) { return !term || (article.headline + " " + article.publisher).toLowerCase().indexOf(term) !== -1; });
+        var visible = articles.filter(function (article) {
+          var matchesTopic = articleMatchesTopic(article);
+          var matchesSearch = !term || (article.headline + " " + article.publisher).toLowerCase().indexOf(term) !== -1;
+          return matchesTopic && matchesSearch;
+        });
         featured.replaceChildren(); latest.replaceChildren();
-        if (!visible.length) { showMessage(featured, articles.length ? "No headlines match your search." : "No recent headlines were returned."); return; }
+        if (!visible.length) { showMessage(featured, articles.length ? "No headlines match the current search or topic." : "No recent headlines were returned."); return; }
         featured.append(makeCard(visible[0], true));
         var side = document.createElement("div"); side.className = "side-stories";
         visible.slice(1, 3).forEach(function (article) { side.append(makeCard(article, false)); });
@@ -271,19 +313,29 @@
                 summary: item.summary ? String(item.summary) : "", link: item.link || "", date: new Date(item.date || item.pubDate) };
             }).filter(function (item) { return !Number.isNaN(item.date.valueOf()) && /^https?:\/\//i.test(item.link); })
               .sort(function (a, b) { return b.date - a.date; });
-            articles = dedupeArticles(valid);
+            articles = dedupeArticles(valid).slice(0, MAX_ITEMS);
             loaded = true;
             if (!articles.length) { setStatus("No headlines in the past 24 hours."); showMessage(featured, "No recent headlines were returned."); latest.replaceChildren(); return; }
             setStatus(articles.length + " distinct headlines · updated " + new Date().toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" }));
             var generated = data && data.generatedAt ? new Date(data.generatedAt) : null;
             if (generated && !Number.isNaN(generated.valueOf())) {
               var ageHours = (Date.now() - generated.valueOf()) / 3600000;
+              updateDateline(generated);
               stamp.textContent = "Feed generated " + relTime(Date.now() - generated.valueOf()) + ".";
               if (ageHours > STALE_HOURS) { stamp.textContent += " The feed looks stale — the scheduled update may have stopped."; stamp.classList.add("text-danger"); }
+            } else {
+              updateDateline(new Date());
             }
             render();
           }).catch(showFailure);
       }
+      topicButtons.forEach(function (button) {
+        button.addEventListener("click", function () {
+          topicFilter = button.getAttribute("data-topic");
+          topicButtons.forEach(function (btn) { btn.classList.toggle("is-active", btn === button); });
+          if (loaded) render();
+        });
+      });
       refresh.addEventListener("click", load);
       retry.addEventListener("click", load);
       search.addEventListener("input", function () { if (loaded) render(); });
