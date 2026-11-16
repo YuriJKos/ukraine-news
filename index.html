@@ -1,224 +1,597 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>UKR WIRE | Ukraine war news</title>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-<style>
-:root{--ink:#182534;--muted:#667481;--accent:#0f5e78;--paper:#f5f7f8}
-body{background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
-.masthead{border-bottom:4px solid #f3c530}
-.eyebrow{color:var(--accent);font-size:.78rem;font-weight:700;letter-spacing:.1em}
-.article-card{border:0;box-shadow:0 1px 3px rgb(15 31 43 / 10%)}
-.headline{font-size:1.1rem;font-weight:700;line-height:1.35}
-.metadata{color:var(--muted);font-size:.85rem}
-.publisher{background:#e4f1f4;color:#15566c;font-size:.76rem;font-weight:700}
-.summary{color:#40505d;font-size:.94rem}
-</style>
-</head>
-<body>
-<header class="masthead bg-white">
-  <div class="container py-4">
-    <p class="eyebrow mb-1">UKR WIRE</p>
-    <div class="d-flex flex-wrap align-items-end justify-content-between gap-3">
-      <div>
-        <h1 class="h2 mb-1">Ukraine war news</h1>
-        <p class="mb-0 text-secondary">Headlines published in the past 24 hours, newest first.</p>
-      </div>
-      <button id="refresh" class="btn btn-primary" type="button">Refresh headlines</button>
-    </div>
-  </div>
-</header>
-
-<main class="container py-4 pb-5">
-  <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3">
-    <p id="status" class="metadata mb-0" aria-live="polite">Loading latest headlines&hellip;</p>
-    <button id="retry" class="btn btn-sm btn-outline-secondary d-none" type="button">Try again</button>
-    <label class="visually-hidden" for="search">Filter headlines</label>
-    <input id="search" class="form-control form-control-sm" style="max-width:20rem" type="search" placeholder="Filter headlines or publishers" autocomplete="off">
-  </div>
-
-  <div id="news" class="vstack gap-3"></div>
-
-  <p class="metadata mt-4 mb-1">Headlines are aggregated from Google News RSS. Follow the article link for the original reporting; aggregation does not independently verify claims.</p>
-  <p id="stamp" class="metadata mb-0"></p>
-</main>
-
-<script>
-(function () {
-  "use strict";
-
-  var DATA_URL = "news.json";
-  var STALE_HOURS = 6;
-
-  var news = document.getElementById("news");
-  var status = document.getElementById("status");
-  var search = document.getElementById("search");
-  var refresh = document.getElementById("refresh");
-  var retry = document.getElementById("retry");
-  var stamp = document.getElementById("stamp");
-
-  var articles = [];
-  var loaded = false;
-
-  function setStatus(text, isError) {
-    status.textContent = text;
-    status.classList.toggle("text-danger", !!isError);
-  }
-
-  function relTime(ms) {
-    var mins = Math.round(Math.abs(ms) / 60000);
-    if (mins < 1) return "just now";
-    if (mins < 60) return mins + (mins === 1 ? " minute ago" : " minutes ago");
-    var hrs = Math.round(mins / 60);
-    if (hrs < 24) return hrs + (hrs === 1 ? " hour ago" : " hours ago");
-    var days = Math.round(hrs / 24);
-    return days + (days === 1 ? " day ago" : " days ago");
-  }
-
-  function message(text) {
-    news.replaceChildren();
-    var p = document.createElement("p");
-    p.className = "text-secondary mb-0";
-    p.textContent = text;
-    news.append(p);
-  }
-
-  function render() {
-    var term = search.value.trim().toLowerCase();
-    var visible = articles.filter(function (a) {
-      return !term || (a.headline + " " + a.publisher).toLowerCase().indexOf(term) !== -1;
-    });
-
-    news.replaceChildren();
-
-    if (!visible.length) {
-      message(articles.length ? "No headlines match that filter." : "No recent headlines were returned.");
-      return;
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>UKR WIRE | Ukraine war news</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f3f7fb;
+      --bg-soft: #edf5f8;
+      --panel: #ffffff;
+      --line: #dfe9f1;
+      --ink: #16253b;
+      --muted: #5f6f81;
+      --accent: #0f5e78;
+      --accent-strong: #0a3f5a;
+      --accent-soft: #dff4f9;
+      --gold: #f4c95d;
+      --gold-soft: #fff6d9;
+      --shadow: 0 18px 40px rgba(15, 40, 58, 0.08);
+      --radius: 18px;
     }
 
-    var frag = document.createDocumentFragment();
-    visible.forEach(function (a) {
-      var card = document.createElement("article");
-      card.className = "card article-card";
+    * { box-sizing: border-box; }
 
-      var body = document.createElement("div");
-      body.className = "card-body p-3 p-md-4";
+    html { scroll-behavior: smooth; }
 
-      var tag = document.createElement("span");
-      tag.className = "badge rounded-pill publisher mb-2";
-      tag.textContent = a.publisher;
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at top, rgba(39, 155, 191, 0.12), transparent 24%),
+        linear-gradient(180deg, #edf4fb 0%, var(--bg) 30%, #eff6f8 100%);
+      color: var(--ink);
+      font-family: Inter, "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    }
 
-      var title = document.createElement("h2");
-      title.className = "headline h5 mb-2";
-      title.textContent = a.headline;
+    .masthead {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, #0d2440 0%, #143b5a 35%, #0c5d78 100%);
+      border-bottom: 0;
+      box-shadow: 0 18px 35px rgba(12, 33, 49, 0.18);
+    }
 
-      var time = document.createElement("p");
-      time.className = "metadata mb-2";
-      time.textContent = a.date.toLocaleString(undefined, {
-        dateStyle: "medium",
-        timeStyle: "short"
-      });
+    .masthead::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(244, 201, 93, 0.22), transparent 55%);
+      pointer-events: none;
+    }
 
-      var link = document.createElement("a");
-      link.href = a.link;
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
-      link.textContent = "Read full article \u2192";
+    .container {
+      position: relative;
+      z-index: 1;
+    }
 
-      body.append(tag, title, time);
-      if (a.summary) {
-        var p = document.createElement("p");
-        p.className = "summary mb-3";
-        p.textContent = a.summary;
-        body.append(p);
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      color: #fff;
+    }
+
+    .brand-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.7rem;
+      height: 2.7rem;
+      border-radius: 12px;
+      background: linear-gradient(135deg, rgba(244, 201, 93, 0.35), rgba(255,255,255,0.1));
+      border: 1px solid rgba(255,255,255,0.22);
+      font-size: 1.2rem;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.18);
+    }
+
+    .eyebrow {
+      margin: 0 0 0.2rem;
+      color: rgba(255,255,255,0.8);
+      font-size: 0.74rem;
+      font-weight: 800;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+      letter-spacing: -0.04em;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-top: 1.1rem;
+      color: rgba(255,255,255,0.8);
+    }
+
+    .stat-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.5rem 0.8rem;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.12);
+      font-size: 0.76rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      color: #eef8ff;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #f4c95d, #e7b842);
+      border: 0;
+      color: #10263d;
+      font-weight: 800;
+      border-radius: 999px;
+      box-shadow: 0 10px 22px rgba(244, 201, 93, 0.28);
+    }
+
+    .btn-primary:hover,
+    .btn-primary:focus {
+      background: linear-gradient(135deg, #f7d36e, #e3b546);
+      color: #10263d;
+    }
+
+    .btn-outline-secondary {
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    main.container {
+      padding-top: 2rem !important;
+      padding-bottom: 4rem !important;
+    }
+
+    .controls {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.4rem;
+    }
+
+    .status-block {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+    }
+
+    #status {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.92rem;
+      font-weight: 600;
+    }
+
+    #status.text-danger {
+      color: #b33a3a;
+    }
+
+    #search {
+      width: min(100%, 22rem);
+      font-size: 0.94rem;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.7);
+      box-shadow: inset 0 1px 2px rgba(13, 27, 44, 0.04);
+      padding: 0.72rem 1rem;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1.1rem;
+    }
+
+    .story-card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      background: rgba(255,255,255,0.9);
+      border: 1px solid rgba(16, 42, 60, 0.07);
+      border-top: 4px solid var(--accent);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .story-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 22px 40px rgba(15, 40, 58, 0.12);
+    }
+
+    .story-card:nth-child(3n+2) {
+      border-top-color: #0ba6b4;
+    }
+
+    .story-card:nth-child(3n+3) {
+      border-top-color: #d59e34;
+    }
+
+    .story-body {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+      padding: 1.1rem 1.1rem 1rem;
+    }
+
+    .story-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.6rem;
+      margin-bottom: 0.7rem;
+      flex-wrap: wrap;
+    }
+
+    .publisher {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.38rem 0.65rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.03em;
+    }
+
+    .story-date {
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    .story-headline {
+      margin: 0 0 0.7rem;
+      color: var(--ink);
+      font-size: 1.08rem;
+      line-height: 1.5;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .story-summary {
+      margin: 0 0 1rem;
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.55;
+    }
+
+    .story-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+      padding-top: 0.75rem;
+      border-top: 1px solid rgba(17, 39, 57, 0.08);
+    }
+
+    .story-link {
+      color: var(--accent);
+      font-size: 0.92rem;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .story-link:hover {
+      color: var(--accent-strong);
+      text-decoration: underline;
+    }
+
+    .story-arrow {
+      margin-left: 0.25rem;
+    }
+
+    .alert-warning {
+      border-radius: var(--radius);
+      background: #fff8e7;
+      border: 1px solid #f2d87a;
+      color: #6d4c18;
+      font-weight: 600;
+    }
+
+    .site-note {
+      margin-top: 1.4rem;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+
+    #stamp {
+      margin-top: 0.7rem;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    @media (max-width: 575.98px) {
+      .controls {
+        align-items: stretch;
       }
-      body.append(link);
-      card.append(body);
-      frag.append(card);
-    });
 
-    news.append(frag);
-  }
+      #search {
+        width: 100%;
+      }
 
-  function showFailure(err) {
-    console.error(err);
-    loaded = false;
-    retry.classList.remove("d-none");
-    setStatus("Could not load headlines.", true);
-    news.replaceChildren();
+      .brand {
+        width: 100%;
+      }
 
-    var box = document.createElement("div");
-    box.className = "alert alert-warning mb-0";
-    box.textContent = "The headlines file could not be loaded. Press \u201cTry again\u201d in a moment.";
-    news.append(box);
-  }
+      .topbar {
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="container py-4">
+      <div class="topbar">
+        <div class="brand">
+          <span class="brand-mark">⚑</span>
+          <div>
+            <p class="eyebrow">UKR WIRE</p>
+            <h1>Ukraine war news</h1>
+          </div>
+        </div>
+        <button id="refresh" class="btn btn-primary" type="button">Refresh headlines</button>
+      </div>
 
-  function load() {
-    setStatus("Loading latest headlines\u2026");
-    retry.classList.add("d-none");
-    stamp.textContent = "";
+      <div class="toolbar">
+        <span class="stat-pill">24h snapshot</span>
+        <span class="stat-pill">Top 20 unique stories</span>
+      </div>
+    </div>
+  </header>
 
-    fetch(DATA_URL + "?v=" + Date.now(), { cache: "no-store" })
-      .then(function (r) {
-        if (!r.ok) throw new Error("news.json returned HTTP " + r.status);
-        return r.json();
-      })
-      .then(function (data) {
-        var items = Array.isArray(data) ? data : (data.items || []);
-        articles = items
-          .map(function (x) {
-            var d = new Date(x.date || x.pubDate);
-            return {
-              headline: String(x.headline || x.title || "Untitled article"),
-              publisher: String(x.publisher || "News source"),
-              summary: x.summary ? String(x.summary) : "",
-              link: x.link || "",
-              date: d
-            };
-          })
-          .filter(function (x) { return !Number.isNaN(x.date.valueOf()); })
-          .sort(function (a, b) { return b.date - a.date; });
+  <main class="container py-4 pb-5">
+    <div class="controls">
+      <div class="status-block">
+        <p id="status" aria-live="polite">Loading latest headlines…</p>
+        <button id="retry" class="btn btn-sm btn-outline-secondary d-none" type="button">Try again</button>
+      </div>
+      <label class="visually-hidden" for="search">Filter headlines</label>
+      <input id="search" type="search" placeholder="Filter headlines or publishers" autocomplete="off">
+    </div>
 
-        loaded = true;
+    <div id="news" class="news-grid" aria-live="polite"></div>
 
-        if (!articles.length) {
-          setStatus("No headlines in the past 24 hours.");
-          message("No recent headlines were returned.");
+    <p class="site-note">Headlines are aggregated from Google News RSS and filtered to keep only the freshest, non-duplicate stories. Follow the article link for the original reporting; aggregation does not independently verify claims.</p>
+    <p id="stamp" class="mb-0"></p>
+  </main>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var DATA_URL = "news.json";
+      var STALE_HOURS = 6;
+      var MAX_ITEMS = 20;
+
+      var news = document.getElementById("news");
+      var status = document.getElementById("status");
+      var search = document.getElementById("search");
+      var refresh = document.getElementById("refresh");
+      var retry = document.getElementById("retry");
+      var stamp = document.getElementById("stamp");
+
+      var articles = [];
+      var loaded = false;
+
+      function setStatus(text, isError) {
+        status.textContent = text;
+        status.classList.toggle("text-danger", !!isError);
+      }
+
+      function relTime(ms) {
+        var mins = Math.round(Math.abs(ms) / 60000);
+        if (mins < 1) return "just now";
+        if (mins < 60) return mins + (mins === 1 ? " minute ago" : " minutes ago");
+        var hrs = Math.round(mins / 60);
+        if (hrs < 24) return hrs + (hrs === 1 ? " hour ago" : " hours ago");
+        var days = Math.round(hrs / 24);
+        return days + (days === 1 ? " day ago" : " days ago");
+      }
+
+      function normalizeKey(value) {
+        return String(value || "")
+          .toLowerCase()
+          .replace(/https?:\/\//g, "")
+          .replace(/[^a-z0-9]+/g, " ")
+          .trim();
+      }
+
+      function dedupeArticles(items) {
+        var seen = new Set();
+        return items.filter(function (item) {
+          var linkKey = normalizeKey(item.link);
+          var titleKey = normalizeKey(item.headline);
+          var keys = [];
+
+          if (linkKey) keys.push(linkKey);
+          if (titleKey) keys.push(titleKey);
+
+          if (!keys.length) return true;
+
+          for (var i = 0; i < keys.length; i++) {
+            if (seen.has(keys[i])) {
+              return false;
+            }
+          }
+
+          keys.forEach(function (key) {
+            seen.add(key);
+          });
+
+          return true;
+        }).slice(0, MAX_ITEMS);
+      }
+
+      function message(text) {
+        news.replaceChildren();
+        var p = document.createElement("p");
+        p.className = "text-secondary mb-0";
+        p.textContent = text;
+        news.append(p);
+      }
+
+      function render() {
+        var term = search.value.trim().toLowerCase();
+        var visible = articles.filter(function (a) {
+          return !term || (a.headline + " " + a.publisher).toLowerCase().indexOf(term) !== -1;
+        });
+
+        news.replaceChildren();
+
+        if (!visible.length) {
+          message(articles.length ? "No headlines match that filter." : "No recent headlines were returned.");
           return;
         }
 
-        setStatus(articles.length + " headlines \u00b7 updated " + new Date().toLocaleString(undefined, {
-          dateStyle: "medium",
-          timeStyle: "short"
-        }));
+        var frag = document.createDocumentFragment();
+        visible.forEach(function (a) {
+          var card = document.createElement("article");
+          card.className = "story-card";
 
-        var gen = data && data.generatedAt ? new Date(data.generatedAt) : null;
-        if (gen && !Number.isNaN(gen.valueOf())) {
-          var ageHours = (Date.now() - gen.valueOf()) / 3600000;
-          stamp.textContent = "Feed generated " + relTime(Date.now() - gen.valueOf()) + ".";
-          if (ageHours > STALE_HOURS) {
-            stamp.textContent += " The feed looks stale \u2014 the scheduled update may have stopped.";
-            stamp.className = "metadata mb-0 text-danger";
+          var body = document.createElement("div");
+          body.className = "story-body";
+
+          var meta = document.createElement("div");
+          meta.className = "story-meta";
+
+          var publisher = document.createElement("span");
+          publisher.className = "publisher";
+          publisher.textContent = a.publisher;
+
+          var date = document.createElement("span");
+          date.className = "story-date";
+          date.textContent = a.date.toLocaleString(undefined, {
+            dateStyle: "medium",
+            timeStyle: "short"
+          });
+
+          var title = document.createElement("h2");
+          title.className = "story-headline";
+          title.textContent = a.headline;
+
+          var summary = document.createElement("p");
+          summary.className = "story-summary";
+          if (a.summary) {
+            summary.textContent = a.summary;
           } else {
-            stamp.className = "metadata mb-0";
+            summary.textContent = "Latest reporting from " + a.publisher + ".";
           }
-        }
 
-        render();
-      })
-      .catch(showFailure);
-  }
+          var footer = document.createElement("div");
+          footer.className = "story-footer";
 
-  refresh.addEventListener("click", load);
-  retry.addEventListener("click", load);
-  search.addEventListener("input", function () {
-    if (loaded) render();
-  });
+          var link = document.createElement("a");
+          link.href = a.link;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.className = "story-link";
+          link.innerHTML = "Read article <span class=\"story-arrow\">→</span>";
 
-  load();
-})();
-</script>
+          meta.append(publisher, date);
+          footer.append(link);
+          body.append(meta, title, summary, footer);
+          card.append(body);
+          frag.append(card);
+        });
+
+        news.append(frag);
+      }
+
+      function showFailure(err) {
+        console.error(err);
+        loaded = false;
+        retry.classList.remove("d-none");
+        setStatus("Could not load headlines.", true);
+        news.replaceChildren();
+
+        var box = document.createElement("div");
+        box.className = "alert alert-warning mb-0";
+        box.textContent = "The headlines file could not be loaded. Press “Try again” in a moment.";
+        news.append(box);
+      }
+
+      function load() {
+        setStatus("Loading latest headlines…");
+        retry.classList.add("d-none");
+        stamp.textContent = "";
+        stamp.className = "mb-0";
+
+        fetch(DATA_URL + "?v=" + Date.now(), { cache: "no-store" })
+          .then(function (r) {
+            if (!r.ok) throw new Error("news.json returned HTTP " + r.status);
+            return r.json();
+          })
+          .then(function (data) {
+            var items = Array.isArray(data) ? data : (data.items || []);
+            articles = dedupeArticles(items
+              .map(function (x) {
+                var d = new Date(x.date || x.pubDate);
+                return {
+                  headline: String(x.headline || x.title || "Untitled article"),
+                  publisher: String(x.publisher || "News source"),
+                  summary: x.summary ? String(x.summary) : "",
+                  link: x.link || "",
+                  date: d
+                };
+              })
+              .filter(function (x) { return !Number.isNaN(x.date.valueOf()); })
+              .sort(function (a, b) { return b.date - a.date; }));
+
+            loaded = true;
+
+            if (!articles.length) {
+              setStatus("No headlines in the past 24 hours.");
+              message("No recent headlines were returned.");
+              return;
+            }
+
+            setStatus(articles.length + " headlines • updated " + new Date().toLocaleString(undefined, {
+              dateStyle: "medium",
+              timeStyle: "short"
+            }));
+
+            var gen = data && data.generatedAt ? new Date(data.generatedAt) : null;
+            if (gen && !Number.isNaN(gen.valueOf())) {
+              var ageHours = (Date.now() - gen.valueOf()) / 3600000;
+              stamp.textContent = "Feed generated " + relTime(Date.now() - gen.valueOf()) + ".";
+              if (ageHours > STALE_HOURS) {
+                stamp.textContent += " The feed looks stale — the scheduled update may have stopped.";
+                stamp.className = "text-danger mb-0";
+              } else {
+                stamp.className = "mb-0";
+              }
+            }
+
+            render();
+          })
+          .catch(showFailure);
+      }
+
+      refresh.addEventListener("click", load);
+      retry.addEventListener("click", load);
+      search.addEventListener("input", function () {
+        if (loaded) render();
+      });
+
+      load();
+    })();
+  </script>
 </body>
 </html>

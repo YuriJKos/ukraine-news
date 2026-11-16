@@ -6,7 +6,7 @@
  * news.google.com does not send Access-Control-Allow-Origin, so a static page
  * cannot read the feed directly. The page reads the generated file instead.
  *
- * Usage: node scripts/fetch-news.mjs [--out news.json] [--max 60] [--hours 24]
+ * Usage: node scripts/fetch-news.mjs [--out news.json] [--max 20] [--hours 24]
  */
 
 import { writeFile, readFile } from "node:fs/promises";
@@ -26,7 +26,7 @@ function arg(name, fallback) {
 }
 
 const OUT = resolve(ROOT, arg("out", "news.json"));
-const MAX = Number(arg("max", "60"));
+const MAX = Number(arg("max", "20"));
 const HOURS = Number(arg("hours", "24"));
 
 const UA =
@@ -56,11 +56,40 @@ function pick(block, tag) {
   return m ? m[1] : "";
 }
 
+function normalizeKey(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/https?:\/\//g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function dedupeStories(items) {
+  const seen = new Set();
+  return items.filter((item) => {
+    const keys = [];
+    const linkKey = normalizeKey(item.link);
+    const headlineKey = normalizeKey(item.headline);
+
+    if (linkKey) keys.push(linkKey);
+    if (headlineKey) keys.push(headlineKey);
+
+    if (!keys.length) return true;
+
+    for (const key of keys) {
+      if (seen.has(key)) return false;
+    }
+
+    keys.forEach((key) => seen.add(key));
+    return true;
+  });
+}
+
 function parseFeed(xml) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map((m) => m[1]);
   const cutoff = Date.now() - HOURS * 3600 * 1000;
 
-  return items
+  return dedupeStories(items
     .map((raw) => {
       const title = stripTags(pick(raw, "title"));
       const link = decodeEntities(pick(raw, "link")).trim();
@@ -77,12 +106,12 @@ function parseFeed(xml) {
         publisher: publisher.trim(),
         date: pubDate.toISOString(),
         link,
-        summary: "", // Google News RSS descriptions only repeat the title
+        summary: "",
       };
     })
     .filter((x) => x.headline && x.link && !Number.isNaN(Date.parse(x.date)))
     .filter((x) => Date.parse(x.date) >= cutoff)
-    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date)))
     .slice(0, MAX);
 }
 
@@ -110,7 +139,6 @@ async function main() {
   const items = parseFeed(xml);
 
   if (!items.length) {
-    // Never clobber a good file with an empty one; fail loudly instead.
     throw new Error("feed parsed but produced 0 usable headlines");
   }
 
