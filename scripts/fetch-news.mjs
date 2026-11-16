@@ -17,8 +17,7 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(HERE, "..");
 
 const FEED_QUERY = "ukraine+russia+war+when:1d";
-const FEED_URL =
-  `https://news.google.com/rss/search?q=${FEED_QUERY}&hl=en-US&gl=US&ceid=US:en`;
+const FEED_URL = `https://news.google.com/rss/search?q=${FEED_QUERY}&hl=en-US&gl=US&ceid=US:en`;
 
 function arg(name, fallback) {
   const i = process.argv.indexOf(`--${name}`);
@@ -28,10 +27,7 @@ function arg(name, fallback) {
 const OUT = resolve(ROOT, arg("out", "news.json"));
 const MAX = Number(arg("max", "20"));
 const HOURS = Number(arg("hours", "24"));
-
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36";
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36";
 
 function decodeEntities(s) {
   return String(s)
@@ -59,30 +55,46 @@ function pick(block, tag) {
 function normalizeKey(value) {
   return String(value || "")
     .toLowerCase()
-    .replace(/https?:\/\//g, "")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/^https?:\/\//, "")
+    .replace(/[?#].*$/, "")
+    .replace(/^www\./, "")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
 }
 
+function titleTokens(value) {
+  const text = normalizeKey(value);
+  const common = new Set("about after against amid and are as at by for from has have in into is its of on or over says said that the their there these this to was were what when while with ukraine ukrainian russia russian war latest news report reports".split(" "));
+  return text.split(/\s+/).filter((word) => word.length > 2 && !common.has(word));
+}
+
+function similarHeadline(left, right) {
+  const a = titleTokens(left);
+  const b = titleTokens(right);
+  if (a.length < 3 || b.length < 3) return normalizeKey(left) === normalizeKey(right);
+  const setA = new Set(a);
+  const setB = new Set(b);
+  let overlap = 0;
+  setA.forEach((word) => { if (setB.has(word)) overlap += 1; });
+  const smaller = Math.min(setA.size, setB.size);
+  const dice = (2 * overlap) / (setA.size + setB.size);
+  return overlap >= 3 && overlap / smaller >= 0.78 && dice >= 0.66;
+}
+
 function dedupeStories(items) {
-  const seen = new Set();
-  return items.filter((item) => {
-    const keys = [];
+  const seenLinks = new Set();
+  const unique = [];
+  items.forEach((item) => {
+    if (unique.length >= MAX) return;
     const linkKey = normalizeKey(item.link);
-    const headlineKey = normalizeKey(item.headline);
-
-    if (linkKey) keys.push(linkKey);
-    if (headlineKey) keys.push(headlineKey);
-
-    if (!keys.length) return true;
-
-    for (const key of keys) {
-      if (seen.has(key)) return false;
-    }
-
-    keys.forEach((key) => seen.add(key));
-    return true;
+    if (linkKey && seenLinks.has(linkKey)) return;
+    if (unique.some((prior) => similarHeadline(prior.headline, item.headline))) return;
+    if (linkKey) seenLinks.add(linkKey);
+    unique.push(item);
   });
+  return unique;
 }
 
 function parseFeed(xml) {
@@ -95,12 +107,9 @@ function parseFeed(xml) {
       const link = decodeEntities(pick(raw, "link")).trim();
       const pubDate = new Date(stripTags(pick(raw, "pubDate")));
       const source = stripTags(pick(raw, "source"));
-
-      // Google News titles look like "Headline - Publisher".
       const idx = title.lastIndexOf(" - ");
       const headline = idx > 0 ? title.slice(0, idx) : title;
       const publisher = source || (idx > 0 ? title.slice(idx + 3) : "News source");
-
       return {
         headline: headline.trim(),
         publisher: publisher.trim(),
@@ -138,9 +147,7 @@ async function main() {
   const xml = await fetchFeed();
   const items = parseFeed(xml);
 
-  if (!items.length) {
-    throw new Error("feed parsed but produced 0 usable headlines");
-  }
+  if (!items.length) { throw new Error("feed parsed but produced 0 usable headlines"); }
 
   const payload = {
     generatedAt: new Date().toISOString(),
