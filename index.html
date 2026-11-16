@@ -9,119 +9,71 @@
   <style>
     :root {
       color-scheme: light;
-      --bg: #f3f1eb;
-      --bg-glow: rgba(26, 113, 132, .10);
-      --panel: #fffefa;
-      --panel-raised: #ffffff;
-      --line: #dedbd1;
-      --ink: #1d292d;
-      --muted: #647175;
-      --accent: #176275;
-      --accent-strong: #104657;
-      --accent-soft: #e4eff0;
-      --gold: #d7a940;
-      --header: #122a35;
-      --header-deep: #0e2029;
-      --header-ink: #f6f2e8;
-      --shadow: 0 15px 40px rgba(27, 38, 38, .08);
-      --radius: 5px;
+      --bg: #f3f1eb; --bg-glow: rgba(26,113,132,.10); --panel: #fffefa; --panel-raised: #fff;
+      --line: #dedbd1; --ink: #1d292d; --muted: #647175; --accent: #176275; --accent-strong: #104657;
+      --accent-soft: #e4eff0; --gold: #d7a940; --header: #122a35; --header-deep: #0e2029;
+      --header-ink: #f6f2e8; --shadow: 0 15px 40px rgba(27,38,38,.08);
     }
-
     html[data-theme="dark"] {
       color-scheme: dark;
-      --bg: #10191d;
-      --bg-glow: rgba(25, 117, 140, .15);
-      --panel: #192428;
-      --panel-raised: #202d31;
-      --line: #334348;
-      --ink: #e8eeeb;
-      --muted: #a4b1b2;
-      --accent: #79c4d1;
-      --accent-strong: #a3d8df;
-      --accent-soft: #203b41;
-      --gold: #e8c16c;
-      --header: #10232c;
-      --header-deep: #0a171d;
-      --header-ink: #f6f2e8;
-      --shadow: 0 18px 48px rgba(0, 0, 0, .24);
+      --bg: #10191d; --bg-glow: rgba(25,117,140,.15); --panel: #192428; --panel-raised: #202d31;
+      --line: #334348; --ink: #e8eeeb; --muted: #a4b1b2; --accent: #79c4d1; --accent-strong: #a3d8df;
+      --accent-soft: #203b41; --gold: #e8c16c; --header: #10232c; --header-deep: #0a171d;
+      --header-ink: #f6f2e8; --shadow: 0 18px 48px rgba(0,0,0,.24);
     }
-
     * { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body {
-      margin: 0;
-      min-height: 100vh;
-      color: var(--ink);
+      margin: 0; min-height: 100vh; color: var(--ink);
       background: radial-gradient(ellipse at 50% 0, var(--bg-glow), transparent 34rem), var(--bg);
       font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
       transition: background-color .2s ease, color .2s ease;
     }
-    button, input { font-family: Inter, "Segoe UI", system-ui, sans-serif; }
+    button, input, .eyebrow, .kicker, .section-label, .masthead-bottom, .publisher, .story-date, .story-link,
+    .theme-toggle, #status, #stamp, .site-note { font-family: Inter, "Segoe UI", system-ui, sans-serif; }
     a { color: var(--accent); }
-
-    .masthead {
-      color: var(--header-ink);
-      background: linear-gradient(120deg, var(--header-deep), var(--header) 66%, #174555);
-      border-bottom: 4px solid var(--gold);
-    }
+    .masthead { color: var(--header-ink); background: linear-gradient(120deg,var(--header-deep),var(--header) 66%,#174555); border-bottom: 4px solid var(--gold); }
     .masthead-inner { max-width: 1160px; margin: auto; padding: 1.5rem 1rem 1.2rem; }
     .masthead-top, .masthead-bottom { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
     .brand { display: flex; align-items: center; gap: .85rem; }
-    .brand-mark {
-      display: grid; place-items: center; width: 2.8rem; height: 2.8rem;
-      border: 1px solid rgba(255,255,255,.25); color: var(--gold); font-size: 1.3rem;
-    }
-    .eyebrow, .kicker, .section-label, .masthead-bottom, .control-label, .publisher, .story-date, .story-link, .theme-toggle, #status, #stamp, .site-note {
-      font-family: Inter, "Segoe UI", system-ui, sans-serif;
-    }
+    .brand-mark { display: grid; place-items: center; width: 2.8rem; height: 2.8rem; border: 1px solid rgba(255,255,255,.25); color: var(--gold); font-size: 1.3rem; }
     .eyebrow { margin: 0 0 .18rem; color: var(--gold); font-size: .68rem; font-weight: 800; letter-spacing: .22em; }
-    h1 { margin: 0; color: var(--header-ink); font-size: clamp(1.7rem, 3vw, 2.3rem); font-weight: 700; letter-spacing: -.04em; }
+    h1 { margin: 0; color: var(--header-ink); font-size: clamp(1.7rem,3vw,2.3rem); font-weight: 700; letter-spacing: -.04em; }
     .masthead-bottom { margin-top: 1.15rem; padding-top: .8rem; border-top: 1px solid rgba(255,255,255,.17); color: rgba(246,242,232,.75); font-size: .76rem; letter-spacing: .08em; text-transform: uppercase; }
     .masthead-bottom p { margin: 0; }
     .masthead-actions { display: flex; align-items: center; gap: .55rem; }
-    .theme-toggle, .refresh-button {
-      min-height: 2.45rem; padding: .55rem .85rem; border-radius: 2px; font-size: .8rem; font-weight: 750;
-      cursor: pointer; transition: background .15s ease, color .15s ease, border-color .15s ease;
-    }
+    .theme-toggle, .refresh-button { min-height: 2.45rem; padding: .55rem .85rem; border-radius: 2px; font-size: .8rem; font-weight: 750; cursor: pointer; transition: background .15s ease,color .15s ease,border-color .15s ease; }
     .theme-toggle { color: var(--header-ink); background: transparent; border: 1px solid rgba(255,255,255,.3); }
     .theme-toggle:hover { background: rgba(255,255,255,.1); }
     .refresh-button { color: #17272b; background: var(--gold); border: 1px solid var(--gold); }
     .refresh-button:hover { background: #f0d182; }
-
     main.container { max-width: 1160px; padding-top: 1.7rem !important; padding-bottom: 3rem !important; }
     .controls { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
     .status-block { display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
     #status { margin: 0; color: var(--muted); font-size: .82rem; font-weight: 650; }
     #status.text-danger { color: #d66e67 !important; }
-    #search {
-      width: min(100%, 22rem); padding: .68rem .9rem; color: var(--ink); background: var(--panel);
-      border: 1px solid var(--line); border-radius: 2px; outline: none; font-size: .88rem;
-    }
+    #search { width: min(100%,22rem); padding: .68rem .9rem; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 2px; outline: none; font-size: .88rem; }
     #search::placeholder { color: var(--muted); }
     #search:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--bg-glow); }
     .btn-outline-secondary { color: var(--muted); border-color: var(--line); border-radius: 2px; }
     .btn-outline-secondary:hover { color: var(--ink); background: var(--panel-raised); border-color: var(--accent); }
-
     .section-heading { display: flex; align-items: center; gap: .8rem; margin: 0 0 1rem; }
     .section-label { margin: 0; color: var(--accent); font-size: .7rem; font-weight: 850; letter-spacing: .18em; text-transform: uppercase; }
     .section-rule { height: 1px; flex: 1; background: var(--line); }
-    .news-layout { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(290px, .75fr); gap: 1.2rem; align-items: stretch; }
-    .lead-story {
-      position: relative; display: flex; flex-direction: column; min-height: 360px; padding: clamp(1.5rem, 4vw, 2.8rem);
-      color: #f5f2e9; background: linear-gradient(145deg, #163846, #102730 78%); border-bottom: 5px solid var(--gold); box-shadow: var(--shadow);
-    }
+    .news-layout { display: grid; grid-template-columns: minmax(0,1.25fr) minmax(290px,.75fr); gap: 1.2rem; align-items: stretch; }
+    .lead-story { position: relative; display: flex; flex-direction: column; min-height: 360px; padding: clamp(1.5rem,4vw,2.8rem); color: #f5f2e9; background: linear-gradient(145deg,#163846,#102730 78%); border-bottom: 5px solid var(--gold); box-shadow: var(--shadow); }
     .lead-story::after { content: ""; position: absolute; right: 1.5rem; bottom: 1rem; width: 5rem; height: 5rem; border: 1px solid rgba(255,255,255,.08); transform: rotate(45deg); pointer-events: none; }
     .lead-story .kicker { color: var(--gold); }
-    .lead-story .story-headline { max-width: 740px; margin: 1.15rem 0 1rem; color: #fffdf6; font-size: clamp(2rem, 4.2vw, 3.55rem); line-height: 1.08; letter-spacing: -.045em; }
+    .lead-story .story-headline { max-width: 740px; margin: 1.15rem 0 1rem; color: #fffdf6; font-size: clamp(2rem,4.2vw,3.55rem); line-height: 1.08; letter-spacing: -.045em; }
     .lead-story .story-summary { max-width: 650px; color: rgba(245,242,233,.76); font-size: 1rem; line-height: 1.65; }
     .lead-story .story-meta { margin-bottom: auto; }
     .lead-story .publisher { color: #f4d581; background: rgba(255,255,255,.1); }
     .lead-story .story-date { color: rgba(245,242,233,.65); }
     .lead-story .story-footer { position: relative; z-index: 1; margin-top: 2rem; border-top-color: rgba(255,255,255,.18); }
     .lead-story .story-link { color: #f4d581; }
-
-    .side-stories { display: grid; grid-template-rows: repeat(2, minmax(0, 1fr)); gap: 1.2rem; }
-    .story-card { display: flex; flex-direction: column; min-height: 170px; padding: 1.25rem; background: var(--panel); border: 1px solid var(--line); border-top: 3px solid var(--accent); box-shadow: var(--shadow); }
+    .side-stories { display: grid; grid-template-rows: repeat(2,minmax(0,1fr)); gap: 1.2rem; }
+    .story-card { display: flex; flex-direction: column; min-height: 170px; padding: 1.25rem; background: var(--panel); border: 1px solid var(--line); border-top: 3px solid var(--accent); box-shadow: var(--shadow); transition: transform .18s ease,box-shadow .18s ease; }
+    .story-card:hover { transform: translateY(-2px); box-shadow: 0 19px 42px rgba(10,25,30,.14); }
     .story-card:nth-child(even) { border-top-color: var(--gold); }
     .story-meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: .45rem .7rem; }
     .publisher { display: inline-flex; align-items: center; padding: .28rem .48rem; color: var(--accent-strong); background: var(--accent-soft); font-size: .66rem; font-weight: 850; letter-spacing: .04em; }
@@ -132,23 +84,26 @@
     .story-footer { display: flex; align-items: center; margin-top: auto; padding-top: .7rem; border-top: 1px solid var(--line); }
     .story-link { color: var(--accent); font-size: .78rem; font-weight: 850; text-decoration: none; }
     .story-link:hover { color: var(--accent-strong); text-decoration: underline; }
-    .story-arrow { margin-left: .25rem; }
-
     .latest-section { margin-top: 2.5rem; }
-    .latest-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+    .latest-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 1rem; }
     .latest-grid .story-card { min-height: 205px; }
-    .empty-message { grid-column: 1 / -1; color: var(--muted); }
-    .alert-warning { color: var(--ink); background: var(--gold-soft, #fff6d9); border-color: var(--gold); border-radius: 2px; }
+    .empty-message { grid-column: 1/-1; color: var(--muted); }
     .site-note { margin: 2.3rem 0 .4rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .76rem; line-height: 1.65; }
     #stamp { margin: 0; color: var(--muted); font-size: .74rem; }
 
-    @media (max-width: 850px) {
+    /* Quiet entrance motion: editorial, not distracting. */
+    @keyframes paper-arrive { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: translateY(0); } }
+    .lead-story, .side-stories, .latest-grid .story-card { animation: paper-arrive .42s ease-out both; }
+    .side-stories .story-card:nth-child(2) { animation-delay: 70ms; }
+    .latest-grid .story-card:nth-child(3n+2) { animation-delay: 45ms; }
+    .latest-grid .story-card:nth-child(3n) { animation-delay: 90ms; }
+    @media (max-width:850px) {
       .news-layout { grid-template-columns: 1fr; }
       .lead-story { min-height: 310px; }
-      .side-stories { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: auto; }
-      .latest-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .side-stories { grid-template-columns: repeat(2,minmax(0,1fr)); grid-template-rows: auto; }
+      .latest-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
     }
-    @media (max-width: 575.98px) {
+    @media (max-width:575.98px) {
       .masthead-inner { padding: 1.15rem 1rem 1rem; }
       .masthead-top { align-items: flex-start; }
       .masthead-actions { flex-direction: column; align-items: stretch; }
@@ -162,7 +117,7 @@
       .lead-story .story-headline { font-size: 2.2rem; }
     }
     @media (prefers-reduced-motion: reduce) {
-      *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+      *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
     }
   </style>
 </head>
@@ -170,53 +125,35 @@
   <header class="masthead">
     <div class="masthead-inner">
       <div class="masthead-top">
-        <div class="brand">
-          <span class="brand-mark" aria-hidden="true">✳</span>
-          <div>
-            <p class="eyebrow">UKR WIRE · INDEPENDENT NEWS ROUNDUP</p>
-            <h1>Ukraine war news</h1>
-          </div>
-        </div>
+        <div class="brand"><span class="brand-mark" aria-hidden="true">✳</span><div><p class="eyebrow">UKR WIRE · INDEPENDENT NEWS ROUNDUP</p><h1>Ukraine war news</h1></div></div>
         <div class="masthead-actions">
           <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">☾ <span>Dark mode</span></button>
           <button id="refresh" class="refresh-button" type="button">Refresh headlines</button>
         </div>
       </div>
-      <div class="masthead-bottom">
-        <p>Latest dispatches · past 24 hours</p>
-        <p>20 distinct stories · newest first</p>
-      </div>
+      <div class="masthead-bottom"><p>Latest dispatches · past 24 hours</p><p>Up to 20 distinct stories · newest first</p></div>
     </div>
   </header>
-
   <main class="container">
     <div class="controls">
-      <div class="status-block">
-        <p id="status" aria-live="polite">Loading latest headlines…</p>
-        <button id="retry" class="btn btn-sm btn-outline-secondary d-none" type="button">Try again</button>
-      </div>
+      <div class="status-block"><p id="status" aria-live="polite">Loading latest headlines…</p><button id="retry" class="btn btn-sm btn-outline-secondary d-none" type="button">Try again</button></div>
       <label class="visually-hidden" for="search">Filter headlines</label>
       <input id="search" type="search" placeholder="Search headlines or publishers" autocomplete="off">
     </div>
-
     <section aria-labelledby="top-stories-label">
       <div class="section-heading"><h2 id="top-stories-label" class="section-label">The briefing</h2><span class="section-rule"></span></div>
       <div id="featured" class="news-layout" aria-live="polite"></div>
     </section>
-
     <section class="latest-section" aria-labelledby="latest-label">
       <div class="section-heading"><h2 id="latest-label" class="section-label">More headlines</h2><span class="section-rule"></span></div>
       <div id="latest" class="latest-grid"></div>
     </section>
-
     <p class="site-note">Headlines are aggregated from Google News RSS and filtered to keep the freshest non-duplicate stories. Follow links for original reporting. This roundup does not independently verify claims or represent an editorial endorsement.</p>
     <p id="stamp"></p>
   </main>
-
   <script>
     (function () {
       "use strict";
-
       var DATA_URL = "news.json";
       var STALE_HOURS = 6;
       var MAX_ITEMS = 20;
@@ -231,6 +168,7 @@
       var stamp = document.getElementById("stamp");
       var articles = [];
       var loaded = false;
+      var commonWords = new Set("about after against amid and are as at by for from has have in into is its of on or over says said that the their there these this to was were what when while with ukraine ukrainian russia russian war latest news report reports".split(" "));
 
       function applyTheme(theme) {
         var dark = theme === "dark";
@@ -238,26 +176,17 @@
         themeToggle.setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
         themeToggle.innerHTML = dark ? "☀ <span>Light mode</span>" : "☾ <span>Dark mode</span>";
       }
-
       try {
         var savedTheme = localStorage.getItem("ukr-wire-theme");
-        var initialTheme = savedTheme || (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-        applyTheme(initialTheme);
-      } catch (_) {
-        applyTheme("light");
-      }
-
+        applyTheme(savedTheme || (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
+      } catch (_) { applyTheme("light"); }
       themeToggle.addEventListener("click", function () {
         var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
         applyTheme(next);
-        try { localStorage.setItem("ukr-wire-theme", next); } catch (_) { /* Theme still works for this visit. */ }
+        try { localStorage.setItem("ukr-wire-theme", next); } catch (_) { /* Current visit still uses the selected theme. */ }
       });
 
-      function setStatus(text, isError) {
-        status.textContent = text;
-        status.classList.toggle("text-danger", !!isError);
-      }
-
+      function setStatus(text, isError) { status.textContent = text; status.classList.toggle("text-danger", !!isError); }
       function relTime(ms) {
         var mins = Math.round(Math.abs(ms) / 60000);
         if (mins < 1) return "just now";
@@ -267,146 +196,94 @@
         var days = Math.round(hrs / 24);
         return days + (days === 1 ? " day ago" : " days ago");
       }
-
       function normalizeKey(value) {
-        return String(value || "").toLowerCase().replace(/https?:\/\//g, "").replace(/[^a-z0-9]+/g, " ").trim();
+        return String(value || "").toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "")
+          .replace(/^https?:\/\//, "").replace(/[?#].*$/, "").replace(/^www\./, "").replace(/[^a-z0-9]+/g, " ").trim();
       }
-
+      function titleTokens(value) {
+        return normalizeKey(value).split(/\s+/).filter(function (word) { return word.length > 2 && !commonWords.has(word); });
+      }
+      function similarHeadline(left, right) {
+        var a = titleTokens(left), b = titleTokens(right);
+        if (a.length < 3 || b.length < 3) return normalizeKey(left) === normalizeKey(right);
+        var setA = new Set(a), setB = new Set(b), overlap = 0;
+        setA.forEach(function (word) { if (setB.has(word)) overlap++; });
+        var smaller = Math.min(setA.size, setB.size);
+        var dice = (2 * overlap) / (setA.size + setB.size);
+        return overlap >= 3 && overlap / smaller >= .78 && dice >= .66;
+      }
       function dedupeArticles(items) {
-        var seen = new Set();
-        return items.filter(function (item) {
-          var keys = [normalizeKey(item.link), normalizeKey(item.headline)].filter(Boolean);
-          if (keys.some(function (key) { return seen.has(key); })) return false;
-          keys.forEach(function (key) { seen.add(key); });
-          return true;
-        }).slice(0, MAX_ITEMS);
+        var seenLinks = new Set(), kept = [];
+        items.forEach(function (item) {
+          if (kept.length >= MAX_ITEMS) return;
+          var linkKey = normalizeKey(item.link);
+          if (linkKey && seenLinks.has(linkKey)) return;
+          if (kept.some(function (prior) { return similarHeadline(prior.headline, item.headline); })) return;
+          if (linkKey) seenLinks.add(linkKey);
+          kept.push(item);
+        });
+        return kept;
       }
-
       function makeCard(article, isLead) {
         var card = document.createElement("article");
         card.className = isLead ? "lead-story" : "story-card";
-
-        var meta = document.createElement("div");
-        meta.className = "story-meta";
-        var publisher = document.createElement("span");
-        publisher.className = "publisher";
-        publisher.textContent = article.publisher;
-        var date = document.createElement("time");
-        date.className = "story-date";
-        date.dateTime = article.date.toISOString();
+        var meta = document.createElement("div"); meta.className = "story-meta";
+        var publisher = document.createElement("span"); publisher.className = "publisher"; publisher.textContent = article.publisher;
+        var date = document.createElement("time"); date.className = "story-date"; date.dateTime = article.date.toISOString();
         date.textContent = article.date.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
         meta.append(publisher, date);
-
-        var kicker = document.createElement("p");
-        kicker.className = "kicker";
-        kicker.textContent = isLead ? "Lead story" : "Dispatch";
-
-        var title = document.createElement("h3");
-        title.className = "story-headline";
-        title.textContent = article.headline;
-
-        var summary = document.createElement("p");
-        summary.className = "story-summary";
+        var kicker = document.createElement("p"); kicker.className = "kicker"; kicker.textContent = isLead ? "Lead story" : "Dispatch";
+        var title = document.createElement("h3"); title.className = "story-headline"; title.textContent = article.headline;
+        var summary = document.createElement("p"); summary.className = "story-summary";
         summary.textContent = article.summary || ("Reporting from " + article.publisher + ".");
-
-        var footer = document.createElement("div");
-        footer.className = "story-footer";
-        var link = document.createElement("a");
-        link.href = article.link;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.className = "story-link";
-        link.textContent = "Read the original report →";
-        footer.append(link);
-
+        var footer = document.createElement("div"); footer.className = "story-footer";
+        var link = document.createElement("a"); link.href = article.link; link.target = "_blank"; link.rel = "noopener noreferrer";
+        link.className = "story-link"; link.textContent = "Read the original report →"; footer.append(link);
         card.append(meta, kicker, title, summary, footer);
         return card;
       }
-
       function showMessage(container, text) {
-        container.replaceChildren();
-        var p = document.createElement("p");
-        p.className = "empty-message";
-        p.textContent = text;
-        container.append(p);
+        container.replaceChildren(); var p = document.createElement("p"); p.className = "empty-message"; p.textContent = text; container.append(p);
       }
-
       function render() {
         var term = search.value.trim().toLowerCase();
-        var visible = articles.filter(function (a) {
-          return !term || (a.headline + " " + a.publisher).toLowerCase().indexOf(term) !== -1;
-        });
-        featured.replaceChildren();
-        latest.replaceChildren();
-
-        if (!visible.length) {
-          var emptyText = articles.length ? "No headlines match your search." : "No recent headlines were returned.";
-          showMessage(featured, emptyText);
-          return;
-        }
-
+        var visible = articles.filter(function (article) { return !term || (article.headline + " " + article.publisher).toLowerCase().indexOf(term) !== -1; });
+        featured.replaceChildren(); latest.replaceChildren();
+        if (!visible.length) { showMessage(featured, articles.length ? "No headlines match your search." : "No recent headlines were returned."); return; }
         featured.append(makeCard(visible[0], true));
-        var side = document.createElement("div");
-        side.className = "side-stories";
+        var side = document.createElement("div"); side.className = "side-stories";
         visible.slice(1, 3).forEach(function (article) { side.append(makeCard(article, false)); });
         featured.append(side);
-        visible.slice(3).forEach(function (article) { latest.append(makeCard(article, false)); });
+        visible.slice(3, MAX_ITEMS).forEach(function (article) { latest.append(makeCard(article, false)); });
       }
-
       function showFailure(err) {
-        console.error(err);
-        loaded = false;
-        retry.classList.remove("d-none");
-        setStatus("Could not load headlines.", true);
-        showMessage(featured, "The headlines file could not be loaded. Press “Try again” in a moment.");
-        latest.replaceChildren();
+        console.error(err); loaded = false; retry.classList.remove("d-none"); setStatus("Could not load headlines.", true);
+        showMessage(featured, "The headlines file could not be loaded. Press “Try again” in a moment."); latest.replaceChildren();
       }
-
       function load() {
-        setStatus("Loading latest headlines…");
-        retry.classList.add("d-none");
-        stamp.textContent = "";
-
+        setStatus("Loading latest headlines…"); retry.classList.add("d-none"); stamp.textContent = ""; stamp.classList.remove("text-danger");
         fetch(DATA_URL + "?v=" + Date.now(), { cache: "no-store" })
-          .then(function (response) {
-            if (!response.ok) throw new Error("news.json returned HTTP " + response.status);
-            return response.json();
-          })
+          .then(function (response) { if (!response.ok) throw new Error("news.json returned HTTP " + response.status); return response.json(); })
           .then(function (data) {
             var items = Array.isArray(data) ? data : (data.items || []);
-            articles = dedupeArticles(items.map(function (item) {
-              return {
-                headline: String(item.headline || item.title || "Untitled article"),
-                publisher: String(item.publisher || "News source"),
-                summary: item.summary ? String(item.summary) : "",
-                link: item.link || "",
-                date: new Date(item.date || item.pubDate)
-              };
-            }).filter(function (item) {
-              return !Number.isNaN(item.date.valueOf()) && /^https?:\/\//i.test(item.link);
-            }).sort(function (a, b) { return b.date - a.date; }));
-
+            var valid = items.map(function (item) {
+              return { headline: String(item.headline || item.title || "Untitled article"), publisher: String(item.publisher || "News source"),
+                summary: item.summary ? String(item.summary) : "", link: item.link || "", date: new Date(item.date || item.pubDate) };
+            }).filter(function (item) { return !Number.isNaN(item.date.valueOf()) && /^https?:\/\//i.test(item.link); })
+              .sort(function (a, b) { return b.date - a.date; });
+            articles = dedupeArticles(valid);
             loaded = true;
-            if (!articles.length) {
-              setStatus("No headlines in the past 24 hours.");
-              showMessage(featured, "No recent headlines were returned.");
-              latest.replaceChildren();
-              return;
-            }
-
+            if (!articles.length) { setStatus("No headlines in the past 24 hours."); showMessage(featured, "No recent headlines were returned."); latest.replaceChildren(); return; }
             setStatus(articles.length + " distinct headlines · updated " + new Date().toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" }));
             var generated = data && data.generatedAt ? new Date(data.generatedAt) : null;
             if (generated && !Number.isNaN(generated.valueOf())) {
               var ageHours = (Date.now() - generated.valueOf()) / 3600000;
               stamp.textContent = "Feed generated " + relTime(Date.now() - generated.valueOf()) + ".";
-              if (ageHours > STALE_HOURS) stamp.textContent += " The feed looks stale — the scheduled update may have stopped.";
-              if (ageHours > STALE_HOURS) stamp.classList.add("text-danger");
+              if (ageHours > STALE_HOURS) { stamp.textContent += " The feed looks stale — the scheduled update may have stopped."; stamp.classList.add("text-danger"); }
             }
             render();
-          })
-          .catch(showFailure);
+          }).catch(showFailure);
       }
-
       refresh.addEventListener("click", load);
       retry.addEventListener("click", load);
       search.addEventListener("input", function () { if (loaded) render(); });
